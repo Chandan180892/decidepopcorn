@@ -1,0 +1,51 @@
+name: Refresh Release Radar
+
+on:
+  schedule:
+    # Every 2 days at 02:30 UTC (08:00 IST). Change to "30 2 * * *" for daily.
+    - cron: "30 2 */2 * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/curated.json"
+      - "scripts/fetch_releases.py"
+      - ".github/workflows/refresh-media.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-media
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # TMDB_API_KEY is optional: add it as a repository secret to enrich the
+      # board with posters, verified trailer links and cast from TMDB.
+      # Free key: https://www.themoviedb.org/settings/api
+      - name: Fetch latest releases
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/fetch_releases.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "release-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/releases.json docs/data.js
+          if git diff --cached --quiet; then
+            echo "No changes - board already fresh."
+          else
+            git commit -m "chore: auto-refresh release data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

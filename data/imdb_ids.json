@@ -1,0 +1,605 @@
+{
+ "theodyssey": {
+  "id": "tt33764258",
+  "title": "The Odyssey",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "gdn": {
+  "id": "tt35712605",
+  "title": "G.D.N.",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2Y0ZjZjYWUtN2Y1My00YzhhLTkyNzgtN2QxNWViOWU0NDAyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "mysaa": {
+  "id": "tt37454145",
+  "title": "Mysaa",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNWUyNmU0NzEtNTBiYS00OGFjLTkwOTMtOTEwYTgxM2Y4YzQzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "maaintibangaaram": {
+  "id": "tt43625264",
+  "title": "Maa Inti Bangaaram 2",
+  "year": null,
+  "img": null
+ },
+ "theeastpalace": {
+  "id": "tt35051401",
+  "title": "The East Palace",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjQ4ODU2YTctYjlhZi00ZGRmLTg4N2QtYWExNjY1NmY5MzZiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "houseofthedragon": {
+  "id": "tt11198330",
+  "title": "House of the Dragon",
+  "year": 2022,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGM4MTczODQtNGIxOC00Y2U2LTk1YmItNzA2N2VhYmE0Y2YwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "stuartfailstosavetheuniverse": {
+  "id": "tt27497393",
+  "title": "Stuart Fails to Save the Universe",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNmRmODg5ZTctMTMyMS00YmZmLWEyZTMtMjFmOGU1NjYwMGI2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "adarshbaalvidyalaya": {
+  "id": "tt40856520",
+  "title": "Adarsh Baal Vidyalaya",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmEzYTQ2OTEtMGM4MS00MWE1LWI3MGYtMTIyN2IwYzlkYmI0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "spidermanbrandnewday": {
+  "id": "tt22084616",
+  "title": "Spider-Man: Brand New Day",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "dc": {
+  "id": "tt8912936",
+  "title": "DC League of Super-Pets",
+  "year": 2022,
+  "img": "https://m.media-amazon.com/images/M/MV5BY2RkOTM1ZTQtNWQ3NS00YzdjLWIyMmQtYzMzNzI2ZjQwZjlmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "minionsmonsters": {
+  "id": "tt32890033",
+  "title": "Minions & Monsters",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "youngwashington": {
+  "id": "tt32104007",
+  "title": "Young Washington",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thrash": {
+  "id": "tt32362890",
+  "title": "Thrash",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BODMxNjdhMWQtMmJhYS00MDc1LTkyYzAtYTgzZTFhMmI1ODEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "projecthailmary": {
+  "id": "tt12042730",
+  "title": "Project Hail Mary",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "silo": {
+  "id": "tt14688458",
+  "title": "Silo",
+  "year": 2023,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "littlehouseontheprairie": {
+  "id": "tt2431250",
+  "title": "Little House on the Prairie",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BODQyNzI4Y2EtODE4ZC00MjFjLTg1ZjMtYzJkNDYwZjUxZjQ1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "moana": {
+  "id": "tt27419466",
+  "title": "Moana",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theinvite": {
+  "id": "tt14173636",
+  "title": "The Invite",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "marriedatfirstsight": {
+  "id": "tt3868860",
+  "title": "Married at First Sight",
+  "year": 2014,
+  "img": "https://m.media-amazon.com/images/M/MV5BNDllZWI5MGItZjE5My00MjQ1LWFjNDYtNDNiY2ExYjVkNThlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "wutheringheights": {
+  "id": "tt32897959",
+  "title": "Wuthering Heights",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "secondlove": {
+  "id": "tt4239728",
+  "title": "Second Love",
+  "year": 2015,
+  "img": "https://m.media-amazon.com/images/M/MV5BZWZlYjVkMWMtNDg1Ni00NmNmLWJhYzUtZDA3NzVjNmVhYzIzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "murder101": {
+  "id": "tt39163341",
+  "title": "Murder 101",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BOGQxOTM1YWYtYzY2MC00YjE2LWE0MTgtNDkxZDBmODYxNjMzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "passenger": {
+  "id": "tt33763941",
+  "title": "Passenger",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNDhmZmJlMDctNTA3MS00NTkwLThkZGQtMjM5MTdmMDg2YjBjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "wwemondaynightraw": {
+  "id": "tt0185103",
+  "title": "WWE Monday Night RAW",
+  "year": 1993,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2UwNmEwMGEtNTQ0MC00MWQ1LWIzODItZjFiOWQxN2E1MWYwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "hotonesextraheat": {
+  "id": "tt43611663",
+  "title": "Hot Ones: Extra Heat",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTk4ZDNhMjItYWMyNS00NDhlLTg1OTEtYzljNjhhYWYwODkzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "homerunderby": {
+  "id": "tt0135729",
+  "title": "Home Run Derby",
+  "year": 1959,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTM0MzMwMzM4Nl5BMl5BanBnXkFtZTcwNTIwNzk0MQ@@._V1_.jpg"
+ },
+ "rabbithole": {
+  "id": "tt5822112",
+  "title": "Rabbit Hole",
+  "year": 2023,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjVjNmE5ZTYtMzI3Ni00NTZhLWIxNTgtM2Y2ZDI1YzRlOTUwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "quarterback": {
+  "id": "tt26777035",
+  "title": "Quarterback",
+  "year": 2023,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGQxODU2NzEtMjU3MC00NmNmLThhMGUtZmI1Mjk3MTRkYWI5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "therealwolfofwallstreet": {
+  "id": "tt39399104",
+  "title": "The Real Wolf of Wall Street",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWU4ZWY2ZWMtY2YwNC00YjAwLWE0NzItZWIxZmY5MWRmOTc3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "rideordie": {
+  "id": "tt30494226",
+  "title": "Ride or Die",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMGUxMjFkMDEtNGJkZC00MTUwLWFiZjUtYWZhZWYxNzE1ZDEwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "xmen97": {
+  "id": "tt16026746",
+  "title": "X-Men '97",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmU0MTRjNzgtMjNlZi00YWM2LWExZmItY2RkYjVhZjJmODEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theultimatummarryormoveon": {
+  "id": "tt18396952",
+  "title": "The Ultimatum: Marry or Move On",
+  "year": 2022,
+  "img": "https://m.media-amazon.com/images/M/MV5BNmI2MmJiMmQtZGNlMi00NjdmLTg3MTYtM2U3ODA5MzExYjc0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "raktanchal": {
+  "id": "tt12347286",
+  "title": "Raktanchal",
+  "year": 2020,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTNjMTRlYzMtNTlmNC00ODNmLWJkY2YtN2U0OTkzN2Y1NzUyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "criminalminds": {
+  "id": "tt0452046",
+  "title": "Criminal Minds",
+  "year": 2005,
+  "img": "https://m.media-amazon.com/images/M/MV5BZmEyNTAyZDEtMTlhNS00ZTJjLWI1OWEtNWMzNzFhMWNjMDY2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thehawk": {
+  "id": "tt27550719",
+  "title": "The Hawk",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjA5MDAyYjgtMmQ2ZS00YzRmLWE1ODUtNTg3M2VkZGMxZjEwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "transfertrimurthulu": {
+  "id": "tt42932774",
+  "title": "Transfer Trimurthulu",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "agentkimreactivated": {
+  "id": "tt42127457",
+  "title": "Agent Kim Reactivated",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmNjNTMyMWQtYmViNi00YWYxLWEzZTctNDQ2MTdhNzU2OTVlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "sannidhanampo": {
+  "id": "tt29429839",
+  "title": "Sannidhanam P.O.",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "themapoflonging": {
+  "id": "tt36495086",
+  "title": "The Map of Longing",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWJjNzljOTMtZGVhMC00ZGQ5LTgzYzUtZWUxYjBiZDI3Y2ZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "heartstopper": {
+  "id": "tt10638036",
+  "title": "Heartstopper",
+  "year": 2022,
+  "img": "https://m.media-amazon.com/images/M/MV5BZjUxNjc3YjYtNzg2Yy00OWEwLTljOGItNmE4MzgwMzQzNGRmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "elmapadelosanhelos": {
+  "id": "tt36495086",
+  "title": "The Map of Longing",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWJjNzljOTMtZGVhMC00ZGQ5LTgzYzUtZWUxYjBiZDI3Y2ZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "hanzaisha": {
+  "id": "tt42206320",
+  "title": "Hanzaisha",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZWYzYzczZTAtYzUxOS00ZmE4LWI1YzYtNjNlYTIwNWFkODQzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "supermarket": {
+  "id": "tt43639205",
+  "title": "Super Market",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNWU4OWM2ZjMtODllYi00NWI5LThkMzMtYWIxYWIxZGU5NjRjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "youngfartstrailerparts": {
+  "id": "tt37090886",
+  "title": "Young Farts Trailer Parts",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTk0NWUwMDYtZmRkMC00M2U2LTg2ODUtMTk5YzNjZGY2MTM4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "spookyinlove": {
+  "id": "tt40247521",
+  "title": "Chilling Romance",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGM4MDI4ODYtOTc3ZS00ZDc1LTkzYjgtMjc0OWUyMjFhN2E2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "trikala": {
+  "id": "tt33674441",
+  "title": "Trikala: Script of God",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BOTkwYzg0NzMtY2UyZS00ZDJiLTkyZGMtNmFlZjc3YjJmNWJmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thecrowgirl": {
+  "id": "tt30063915",
+  "title": "The Crow Girl",
+  "year": 2025,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTU0ODRmNzItMWEwMy00NmM0LWFiZGUtNGNiYjk2MjIzNzEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "kingofthehill": {
+  "id": "tt0118375",
+  "title": "King of the Hill",
+  "year": 1997,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzdhOTE1ZTYtMTYxOC00N2FhLTg4NzctNjE5YTUxNzgyNjY0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "wweunreal": {
+  "id": "tt36614693",
+  "title": "WWE: Unreal",
+  "year": 2025,
+  "img": "https://m.media-amazon.com/images/M/MV5BM2YxYjJjZDUtMGM5MS00NzRjLTgyNWItNDM1OTJjNzUyNmNmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "ashopforkillers": {
+  "id": "tt26450613",
+  "title": "A Shop for Killers",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTEwYmIxNWItM2Q5My00ZDEzLWEyNDAtODIzM2E2N2U4OGQyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "gign": {
+  "id": "tt41734294",
+  "title": "GIGN, unité d'élite",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BY2Q4MjMwMTMtZWM0NS00MjYwLTlmM2QtY2M5ZjgwNmUzOTk3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "pompeiioutoftimewithtomhiddleston": {
+  "id": "tt34688214",
+  "title": "Pompeii: Out of Time with Tom Hiddleston",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmIwYmQ3MzYtNWVlMC00ZjJjLTgxMTctYTM5MjgxYjNjNzdkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "ransomcanyon": {
+  "id": "tt28088031",
+  "title": "Ransom Canyon",
+  "year": 2025,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWQ0Yzg1YzItNzNmMy00ZjNmLThmODAtZjUxMjZmZDAwOTkyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "kaulitzkaulitz": {
+  "id": "tt31806050",
+  "title": "Kaulitz & Kaulitz",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BM2Y0MTc2MDAtNmM0Mi00YWU2LWJkMGYtMTlkZmM5ZmVlODdlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "comedinewithmecelebrityphilippines": {
+  "id": "tt0820392",
+  "title": "Come Dine with Me",
+  "year": 2005,
+  "img": "https://m.media-amazon.com/images/M/MV5BOTU0ZWNmN2MtMGY0ZC00NzhlLWFjNDMtM2Q5N2M0YTFjYjdhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "evildeadburn": {
+  "id": "tt31170389",
+  "title": "Evil Dead Burn",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "startrekstrangenewworlds": {
+  "id": "tt12327578",
+  "title": "Star Trek: Strange New Worlds",
+  "year": 2022,
+  "img": "https://m.media-amazon.com/images/M/MV5BOWY1Y2ZlNzctMzIwMi00NTM3LWJiNDUtMTZmYWY0Y2NmZmE2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "pallichattambi": {
+  "id": "tt10515398",
+  "title": "Pallichattambi",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjBjZTA1YTEtZmZlYy00ODk1LWIxMDItMTE3N2FiMWVhODFkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "musafircafe": {
+  "id": "tt39665097",
+  "title": "Musafir Cafe",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjgxZmZlNjYtNzgzZi00Y2RiLTk2ZTMtMTBkZjYyYTk5NDNkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "furious": {
+  "id": "tt36303968",
+  "title": "Furious",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzI4NDEzNjktMTI1Ni00ZjIyLWExNmQtZTZlMDhiOGE4ZTBjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theproudfamilylouderandprouder": {
+  "id": "tt11871764",
+  "title": "The Proud Family: Louder and Prouder",
+  "year": 2022,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTBkMDIwMjUtZTBkOS00MGNlLWFmZGQtMTg4ZTRhMjQ1YjAyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "diarrafromdetroit": {
+  "id": "tt27982433",
+  "title": "Diarra from Detroit",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BODU3YmZkYWQtZDQ1NC00MWNiLWFiODktNGI1ZmUxZDJmZDg1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "fria": null,
+ "batmancapedcrusader": {
+  "id": "tt14681596",
+  "title": "Batman: Caped Crusader",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjI1Y2NmNDgtZDVmMy00MjcwLTgwNmItMTFmMjcxMWRlYzQwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "rahunmaintererubaru": {
+  "id": "tt40427174",
+  "title": "Rahun Main Tere Rubaru",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZWYxZmFjNTAtZjJmNy00YjYwLTg5YWUtMDJjNzQzNjg4ODJkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "immortal": {
+  "id": "tt36931126",
+  "title": "Immortal",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNmMyZTZhNmQtMjczMC00ZDA5LThiMmMtMWU1MTFiYzBiODEwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thedevilwearsprada2": {
+  "id": "tt33612209",
+  "title": "The Devil Wears Prada 2",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thesupermariogalaxymovie": {
+  "id": "tt28650488",
+  "title": "The Super Mario Galaxy Movie",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "heartstopperforever": {
+  "id": "tt36619926",
+  "title": "Heartstopper Forever",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjFiNjNlN2QtYWFlZC00OTc2LWFkOTEtM2ExNWNiM2U2MTI5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thelongwalk": {
+  "id": "tt10374610",
+  "title": "The Long Walk",
+  "year": 2025,
+  "img": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "dhamaal4": {
+  "id": "tt27548557",
+  "title": "Dhamaal 4",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTI2YTA2YzktMGUwOS00Njk3LWE0M2MtNDE4YTljNDdjNjNlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "vvan": null,
+ "mirzapur": {
+  "id": "tt6473300",
+  "title": "Mirzapur",
+  "year": 2018,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTFjMzMxZTUtYTMyNy00OWNhLTk4ODQtNGI1NjI1NjJhMzc3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "panchayat": {
+  "id": "tt12004706",
+  "title": "Panchayat",
+  "year": 2020,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjMwYWMxNjYtY2I2NC00OWE0LTg4MmQtMmI5ZGI2NzU4ODhiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "farzi": {
+  "id": "tt15477488",
+  "title": "Farzi",
+  "year": 2023,
+  "img": "https://m.media-amazon.com/images/M/MV5BNDY2OWMxNzgtZGQ4Ny00ODI3LTk3MTAtYjM4N2U4ZGI3ZGY1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "alpha": {
+  "id": "tt28363783",
+  "title": "Alpha",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "loveisblindargentina": {
+  "id": "tt29494110",
+  "title": "Love Is Blind: Argentina",
+  "year": 2024,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjFlYzQ2MTItYTk5ZC00MTNmLTljMjAtYzM5MzNjYmY5ZGMzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "adventuretimesidequests": {
+  "id": "tt32603995",
+  "title": "Adventure Time: Side Quests",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZmNiMGJjZTAtNjUwMy00MmZiLTljZTgtZTg2YzVhMWNiMWQxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "tylerperrysruthless": null,
+ "enolaholmes": {
+  "id": "tt32278481",
+  "title": "Enola Holmes 3",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzVhNmQ0MzItNjg3Mi00MzM1LWI5MDUtOGZlMTFjNTJjMTM2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "elle": {
+  "id": "tt32020831",
+  "title": "Elle",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzhkNDM5MTctZmUzMC00M2I0LTliZDAtMzQzMzFhYWMyODcwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "worstneighborever": {
+  "id": "tt43476716",
+  "title": "Worst Neighbor Ever",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzg4YzJmMjgtNDliMS00ZWEzLTliMjYtOWU4ZTk5MGMwODQzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "survivalofthethickest": {
+  "id": "tt17361756",
+  "title": "Survival of the Thickest",
+  "year": 2023,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTdjNWMzM2YtMGY4Zi00ODc2LWE1NjctNmQyMWZmNzM1NTIwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "humanvapor": {
+  "id": "tt33083249",
+  "title": "Human Vapor",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYWE3YWE2NTMtZTRhZS00Nzg3LWI2NWMtMjAwMWJhZDk2MWU5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "supersubbu": {
+  "id": "tt31989291",
+  "title": "Super Subbu",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNGRhZWQ4YmYtZmZkMC00OTEzLThhNmItNTJjM2U0MGYyYzgyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "pritamandpedro": {
+  "id": "tt28077038",
+  "title": "Pritam Pedro",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BNGMwOWM5NjEtYWQ4ZC00YWVkLTg5ZTctMWI2ZjNlODZjYWVlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "muthassi": {
+  "id": "tt43592288",
+  "title": "Muthassi",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmFjZWU5YjgtYzIxYi00YzY3LWJiNDYtYWY4YjljYjA3YmY1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "duttonranch": {
+  "id": "tt34991493",
+  "title": "Dutton Ranch",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzk0YTExY2EtYzI1NS00M2ZlLWFjOGUtMTQyMDY1MmE2ZGViXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theloyaltygame": {
+  "id": "tt41793322",
+  "title": "The Loyalty Game",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTMwZDkzYWUtYWUwMy00MjkxLThkMTUtMzg4MWU2MTI4MzA4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "ibecamealegendaftermy10yearlonglaststand": {
+  "id": "tt39443204",
+  "title": "I Became a Legend after My 10 Year-Long Last Stand",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTQ2NjM5NWYtZTA2Zi00Mjc4LTk0NjQtNjdlMWY2MzdiNTZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "betterlatethansingle": {
+  "id": "tt35668156",
+  "title": "Better Late Than Single",
+  "year": 2025,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTYwOTBjOTItYTkwZS00ZmM1LTljZmUtZTk4NzFkZTVkZjJjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "notengomiedo": {
+  "id": "tt3747194",
+  "title": "No tengo miedo",
+  "year": 2014,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2JlYmE1NDAtY2ExMS00MWJkLTljMTEtOTk5ZDU1MWExMTBhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "salcedocueroyboogaloo": {
+  "id": "tt43588603",
+  "title": "Salcedo, Leather, and Boogaloo",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDkzODNlYjQtNzE3Mi00ZGE1LTliZTktYmUwY2ZmYjFhMmUwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thefoxhollowmurdersplaygroundofaserialkiller": {
+  "id": "tt35617850",
+  "title": "The Fox Hollow Murders: Playground of a Serial Killer",
+  "year": 2025,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzE2MDcyYWItM2ZkNC00ZDA5LWJmZWUtY2EyMDU5ZDA5N2U4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thefivestarweekend": {
+  "id": "tt35587659",
+  "title": "The Five-Star Weekend",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDQ1OTIwNTAtYTc0NS00NjRlLThjNTktZmFhYzU1ZTJjMTJjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "lioness": {
+  "id": "tt13111078",
+  "title": "Lioness",
+  "year": 2023,
+  "img": "https://m.media-amazon.com/images/M/MV5BOWJmYTFkYTctNWI3ZS00YjhkLTkxMjUtYWM0ZTNiMzc2NTA5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "batwara1947": {
+  "id": "tt29330744",
+  "title": "Batwara 1947",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTk1OWE0ZjktYmFiNS00NjFlLTg4MjYtZTRhYWEyNjcyNDE4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "awarapan2": {
+  "id": "tt36300841",
+  "title": "Awarapan 2",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjdlNTAxMTUtMzg4Mi00MmNkLTgyYzktMjk0NjcwN2JhODk1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "operationsafedsagar": {
+  "id": "tt36643714",
+  "title": "Operation Safed Sagar",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BY2Y5NGY5M2MtMzc3Zi00YjZhLWJhOWMtMjY4YWRiMzZlOWJiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "mirzapurthemovie": {
+  "id": "tt34339725",
+  "title": "Mirzapur: The Movie",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BODAyYmJiODYtMDg4My00YjBlLTgwMDgtYTAzNzMzMGZlNGQ0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "toxic": {
+  "id": "tt27530512",
+  "title": "Toxic",
+  "year": 2026,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "elotropadre": {
+  "id": "tt39390494",
+  "title": "El Otro Padre",
+  "year": null,
+  "img": null
+ },
+ "futurama": {
+  "id": "tt0149460",
+  "title": "Futurama",
+  "year": 1999,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg"
+ }
+}
