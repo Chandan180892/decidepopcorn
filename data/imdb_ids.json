@@ -120,10 +120,12 @@
   "img": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg"
  },
  "secondlove": {
-  "id": "tt4239728",
+  "id": "tt39216476",
   "title": "Second Love",
-  "year": 2015,
-  "img": "https://m.media-amazon.com/images/M/MV5BZWZlYjVkMWMtNDg1Ni00NmNmLWJhYzUtZDA3NzVjNmVhYzIzXkEyXkFqcGc@._V1_.jpg"
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 38113,
+  "img": null
  },
  "murder101": {
   "id": "tt39163341",
@@ -156,10 +158,12 @@
   "img": "https://m.media-amazon.com/images/M/MV5BMTM0MzMwMzM4Nl5BMl5BanBnXkFtZTcwNTIwNzk0MQ@@._V1_.jpg"
  },
  "rabbithole": {
-  "id": "tt5822112",
+  "id": "tt38737396",
   "title": "Rabbit Hole",
-  "year": 2023,
-  "img": "https://m.media-amazon.com/images/M/MV5BNjVjNmE5ZTYtMzI3Ni00NTZhLWIxNTgtM2Y2ZDI1YzRlOTUwXkEyXkFqcGc@._V1_.jpg"
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 46480,
+  "img": null
  },
  "quarterback": {
   "id": "tt26777035",
@@ -300,10 +304,12 @@
   "img": "https://m.media-amazon.com/images/M/MV5BNTEwYmIxNWItM2Q5My00ZDEzLWEyNDAtODIzM2E2N2U4OGQyXkEyXkFqcGc@._V1_.jpg"
  },
  "gign": {
-  "id": "tt41734294",
-  "title": "GIGN, unité d'élite",
-  "year": 2024,
-  "img": "https://m.media-amazon.com/images/M/MV5BY2Q4MjMwMTMtZWM0NS00MjYwLTlmM2QtY2M5ZjgwNmUzOTk3XkEyXkFqcGc@._V1_.jpg"
+  "id": "tt35495063",
+  "title": "Elite Force",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 31,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTg2ZWJlNWMtNzAzMC00YzdmLWIzMDQtZDAxNDI4ZDBjZTljXkEyXkFqcGc@._V1_.jpg"
  },
  "pompeiioutoftimewithtomhiddleston": {
   "id": "tt34688214",
@@ -324,10 +330,12 @@
   "img": "https://m.media-amazon.com/images/M/MV5BM2Y0MTc2MDAtNmM0Mi00YWU2LWJkMGYtMTlkZmM5ZmVlODdlXkEyXkFqcGc@._V1_.jpg"
  },
  "comedinewithmecelebrityphilippines": {
-  "id": "tt0820392",
-  "title": "Come Dine with Me",
-  "year": 2005,
-  "img": "https://m.media-amazon.com/images/M/MV5BOTU0ZWNmN2MtMGY0ZC00NzhlLWFjNDMtM2Q5N2M0YTFjYjdhXkEyXkFqcGc@._V1_.jpg"
+  "id": "tt43595717",
+  "title": "Come Dine with Me: Celebrity Philippines",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 181455,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTRhMjFmMzMtNzAxZi00M2NkLWE2MGEtMDMwNjIyOWQwMzMxXkEyXkFqcGc@._V1_.jpg"
  },
  "evildeadburn": {
   "id": "tt31170389",
@@ -339,6 +347,8 @@
   "id": "tt12327578",
   "title": "Star Trek: Strange New Worlds",
   "year": 2022,
+  "qid": "tvSeries",
+  "rank": 49,
   "img": "https://m.media-amazon.com/images/M/MV5BOWY1Y2ZlNzctMzIwMi00NTM3LWJiNDUtMTZmYWY0Y2NmZmE2XkEyXkFqcGc@._V1_.jpg"
  },
  "pallichattambi": {
@@ -531,10 +541,12 @@
   "img": "https://m.media-amazon.com/images/M/MV5BZTYwOTBjOTItYTkwZS00ZmM1LTljZmUtZTk4NzFkZTVkZjJjXkEyXkFqcGc@._V1_.jpg"
  },
  "notengomiedo": {
-  "id": "tt3747194",
-  "title": "No tengo miedo",
-  "year": 2014,
-  "img": "https://m.media-amazon.com/images/M/MV5BN2JlYmE1NDAtY2ExMS00MWJkLTljMTEtOTk5ZDU1MWExMTBhXkEyXkFqcGc@._V1_.jpg"
+  "id": "tt36742917",
+  "title": "I'm Not Afraid",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 1645,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg"
  },
  "salcedocueroyboogaloo": {
   "id": "tt43588603",
@@ -592,14 +604,203 @@
  },
  "elotropadre": {
   "id": "tt39390494",
-  "title": "El Otro Padre",
-  "year": null,
-  "img": null
+  "title": "My Daughter's Father",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 162,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTc0MGE2MTctYjNhNi00YTMwLWFkODItYjE1YzMxM2QxYzM5XkEyXkFqcGc@._V1_.jpg"
  },
  "futurama": {
   "id": "tt0149460",
   "title": "Futurama",
   "year": 1999,
   "img": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "lolktosimiejeostatni": null,
+ "heartstopperforevertheofficialpodcast": {
+  "id": "tt43689080",
+  "title": "Heartstopper Forever: The Official Podcast",
+  "year": 2026,
+  "qid": "podcastSeries",
+  "rank": 100910,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTk4NzY0OWYtMDQ3My00NWIxLTgxNmEtMmE0NmMzOTc4MGE4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "cyborg009nemesis": {
+  "id": "tt37627165",
+  "title": "Cyborg 009: Nemesis",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 90459,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGZmNTBiZjctNGU1OC00MGQxLWI3MjAtMTllNTZiYWJjOGI5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "marktwainprizeforamericanhumor": {
+  "id": "tt43699654",
+  "title": "Bill Maher: The Mark Twain Prize",
+  "year": 2026,
+  "qid": "tvSpecial",
+  "rank": 21096,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjU2N2ViNmItOWRkNi00MGM0LTkxNTAtZTE1YjViYzg5ZTFkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "teenmomuknextgeneration": {
+  "id": "tt28018364",
+  "title": "Teen Mom UK: Next Generation",
+  "year": 2023,
+  "qid": "tvSeries",
+  "rank": 64422,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzllMTlhM2QtNGFmZi00OGNjLWJlMzYtYWIzNzVhYzc0MWNiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "soylunavolverarodar": {
+  "id": "tt41515375",
+  "title": "Soy Luna. Volver a rodar",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 1476,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzNlOGQxMjUtMzcwNC00OTM1LWI4MWMtZjJmMDRkNzM2YzBhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "lockerdiariesdescendants": {
+  "id": "tt41880577",
+  "title": "Locker Diaries: Descendants",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 5239,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjQxOWM0NDktNWMyYi00NTcwLWEwNWUtYmU3OGU3ODcwZDg4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "bloodysmart": {
+  "id": "tt39496157",
+  "title": "Bloody Smart",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 41577,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDVmZjRhMzUtZTljMC00NjE3LTg4MmEtOWFlMmY0OWM5MzcwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "proyectofinal": {
+  "id": "tt43640818",
+  "title": "Final Project",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 19659,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2IwZjE0YjMtNWFjMC00MzI0LTljNmQtMTM4NWIyODNlZjg5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "theidahomurderscollegenightmare": {
+  "id": "tt43680755",
+  "title": "The Idaho Murders: College Nightmare",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 7339,
+  "img": "https://m.media-amazon.com/images/M/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "espnjeopardy": {
+  "id": "tt41983415",
+  "title": "ESPN Jeopardy!",
+  "year": null,
+  "qid": "tvSeries",
+  "rank": 96037,
+  "img": null
+ },
+ "ravujt": null,
+ "betrayal": {
+  "id": "tt34258509",
+  "title": "Betrayal",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 5584,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzdiMDNmYWItZGE5Yi00N2ZmLWJmNmEtOTVmYzliNzc5OTg1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thechallenge": {
+  "id": "tt0176095",
+  "title": "The Challenge",
+  "year": 1998,
+  "qid": "tvSeries",
+  "rank": 14325,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjI5NzcwMDEtNmIzMy00YzY3LTljNDktMjJlZjQ2ZWYyZjA5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "cienaosdesoledad": null,
+ "1670": {
+  "id": "tt29420686",
+  "title": "1670",
+  "year": 2023,
+  "qid": "tvSeries",
+  "rank": 12107,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzJjNjhhMGMtZmFmMy00MjEzLTliZTMtZDRmN2FlNDYxZTJkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "sterlingpoint": {
+  "id": "tt35618070",
+  "title": "Sterling Point",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 3555,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmI3ZGMzNWUtZjdmZC00YjNlLWE0NDktMTU3OTBhNjM4YzY0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "starwarsvisionspresentstheninthjedi": {
+  "id": "tt43337681",
+  "title": "Star Wars: Visions Presents - The Ninth Jedi",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 11521,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjdmNjlmNmMtZjc2NS00N2NjLWExOTEtNTI3NDdhYzI5NTNkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theshards": {
+  "id": "tt27543562",
+  "title": "The Shards",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 392,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "mylifewiththewalterboys": {
+  "id": "tt8323628",
+  "title": "My Life with the Walter Boys",
+  "year": 2023,
+  "qid": "tvSeries",
+  "rank": 866,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjdmN2FmMWUtZmYxOC00OGY5LTk5NjgtYjViNjYyZDc1YWU3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "ourstickylove": {
+  "id": "tt36955608",
+  "title": "Our Sticky Love",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 6215,
+  "img": "https://m.media-amazon.com/images/M/MV5BY2E2NDc3MWEtMDQ2NC00Y2ZhLTg2ZWEtZWI4OWY3NjI0MDBiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "rickygervaisalleycats": {
+  "id": "tt38264832",
+  "title": "Alley Cats",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 2367,
+  "img": "https://m.media-amazon.com/images/M/MV5BOTNlZTkzY2ItYzgwMy00MjI2LWJmYWItMGQyZDE5YzVlMjcyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thechoseninthewildwithbeargrylls": {
+  "id": "tt35781996",
+  "title": "The Chosen in the Wild with Bear Grylls",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 12735,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTk2MmVlNjMtZWEzMi00NTU4LWI0MDEtNWUyNTQ5MTUwZDA0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "therealhousewivesultimategirlstrip": {
+  "id": "tt15614920",
+  "title": "The Real Housewives Ultimate Girls Trip",
+  "year": 2021,
+  "qid": "tvMiniSeries",
+  "rank": 35621,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjUxYmQ5ZDEtOGQwZi00NGEzLTg2Y2ItZDVlNTgyM2U0MmQyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "drseusssredfishbluefish": {
+  "id": "tt18940264",
+  "title": "Dr. Seuss's Red Fish, Blue Fish",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 85162,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjllOGNhNTktMzE4NS00MDhmLTg0YmQtZjU2NzQ3MzI0MGY3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "reacher": {
+  "id": "tt9288030",
+  "title": "Reacher",
+  "year": 2022,
+  "qid": "tvSeries",
+  "rank": 68,
+  "img": "https://m.media-amazon.com/images/M/MV5BMmE0YTA3MTItMjhiNC00MGQ3LTllZDktNGNiZWY1OWFmNmM1XkEyXkFqcGc@._V1_.jpg"
  }
 }
