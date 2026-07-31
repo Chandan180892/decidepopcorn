@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29 19:44 UTC",
+  "generated_at": "2026-07-31 19:10 UTC",
   "window": {
-    "from": "2026-07-08",
-    "to": "2026-08-12"
+    "from": "2026-07-10",
+    "to": "2026-08-14"
   },
   "counts": {
-    "total": 113
+    "total": 117
   },
   "items": [
     {
@@ -42,7 +42,7 @@
       "imdbId": "tt27548557",
       "imdbUrl": "https://www.imdb.com/title/tt27548557/",
       "imdbRating": "8.3",
-      "imdbVotes": 34873
+      "imdbVotes": 34970
     },
     {
       "id": "the-odyssey-2026",
@@ -62,7 +62,7 @@
         "Action",
         "Adventure"
       ],
-      "runtime": 172,
+      "runtime": null,
       "cast": [
         "Matt Damon",
         "Tom Holland",
@@ -82,7 +82,7 @@
       "imdbId": "tt33764258",
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
       "imdbRating": "8.5",
-      "imdbVotes": 269035
+      "imdbVotes": 291292
     },
     {
       "id": "gdn-2026",
@@ -171,7 +171,7 @@
       "imdbId": "tt32237111",
       "imdbUrl": "https://www.imdb.com/title/tt32237111/",
       "imdbRating": "7.6",
-      "imdbVotes": 6188,
+      "imdbVotes": 6273,
       "source": "curated"
     },
     {
@@ -204,7 +204,7 @@
       "imdbId": "tt35051401",
       "imdbUrl": "https://www.imdb.com/title/tt35051401/",
       "imdbRating": "7.4",
-      "imdbVotes": 2916
+      "imdbVotes": 3186
     },
     {
       "id": "fifa-wc-2026-final",
@@ -264,7 +264,7 @@
       "imdbId": "tt11198330",
       "imdbUrl": "https://www.imdb.com/title/tt11198330/",
       "imdbRating": "8.3",
-      "imdbVotes": 551560
+      "imdbVotes": 552329
     },
     {
       "id": "stuart-fails-to-save-the-universe",
@@ -295,8 +295,8 @@
       "source": "curated",
       "imdbId": "tt27497393",
       "imdbUrl": "https://www.imdb.com/title/tt27497393/",
-      "imdbRating": "7.1",
-      "imdbVotes": 1747
+      "imdbRating": "6.9",
+      "imdbVotes": 2038
     },
     {
       "id": "adarsh-baal-vidyalaya",
@@ -326,7 +326,7 @@
       "imdbId": "tt40856520",
       "imdbUrl": "https://www.imdb.com/title/tt40856520/",
       "imdbRating": "8.3",
-      "imdbVotes": 2062
+      "imdbVotes": 2784
     },
     {
       "id": "spider-man-brand-new-day",
@@ -362,7 +362,9 @@
       "featured": true,
       "source": "curated",
       "imdbId": "tt22084616",
-      "imdbUrl": "https://www.imdb.com/title/tt22084616/"
+      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
+      "imdbRating": "8.2",
+      "imdbVotes": 21857
     },
     {
       "id": "dc-lokesh-2026",
@@ -493,7 +495,7 @@
       "imdbId": "tt12004706",
       "imdbUrl": "https://www.imdb.com/title/tt12004706/",
       "imdbRating": "9.0",
-      "imdbVotes": 118774
+      "imdbVotes": 118804
     },
     {
       "id": "farzi-s2",
@@ -525,7 +527,7 @@
       "imdbId": "tt15477488",
       "imdbUrl": "https://www.imdb.com/title/tt15477488/",
       "imdbRating": "8.3",
-      "imdbVotes": 56540
+      "imdbVotes": 56557
     },
     {
       "id": "alpha-ducournau",
@@ -558,7 +560,7 @@
       "imdbId": "tt28363783",
       "imdbUrl": "https://www.imdb.com/title/tt28363783/",
       "imdbRating": "2.9",
-      "imdbVotes": 23887
+      "imdbVotes": 23924
     },
     {
       "id": "minions-monsters",
@@ -588,8 +590,7 @@
       "imdbId": "tt32890033",
       "imdbUrl": "https://www.imdb.com/title/tt32890033/",
       "imdbRating": "6.5",
-      "imdbVotes": 16840,
-      "runtime": 90
+      "imdbVotes": 17345
     },
     {
       "id": "young-washington",
@@ -616,7 +617,7 @@
       "imdbId": "tt32104007",
       "imdbUrl": "https://www.imdb.com/title/tt32104007/",
       "imdbRating": "7.5",
-      "imdbVotes": 9078
+      "imdbVotes": 9203
     },
     {
       "id": "thrash-2026",
@@ -647,7 +648,7 @@
       "imdbId": "tt32362890",
       "imdbUrl": "https://www.imdb.com/title/tt32362890/",
       "imdbRating": "5.0",
-      "imdbVotes": 31725
+      "imdbVotes": 31812
     },
     {
       "id": "project-hail-mary-stream",
@@ -676,8 +677,7 @@
       "imdbId": "tt12042730",
       "imdbUrl": "https://www.imdb.com/title/tt12042730/",
       "imdbRating": "8.2",
-      "imdbVotes": 465323,
-      "runtime": 156
+      "imdbVotes": 470348
     },
     {
       "id": "silo-s3",
@@ -710,7 +710,7 @@
       "imdbId": "tt14688458",
       "imdbUrl": "https://www.imdb.com/title/tt14688458/",
       "imdbRating": "8.1",
-      "imdbVotes": 222772
+      "imdbVotes": 223146
     },
     {
       "id": "im-not-afraid",
@@ -745,130 +745,8 @@
       "imdbId": "tt36742917",
       "imdbUrl": "https://www.imdb.com/title/tt36742917/",
       "imdbRating": "6.7",
-      "imdbVotes": 487,
+      "imdbVotes": 500,
       "source": "curated"
-    },
-    {
-      "id": "tvmaze-58951",
-      "title": "X-Men '97",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-08",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Action",
-        "Science-Fiction"
-      ],
-      "season": 2,
-      "episodes": null,
-      "epRuntime": 33,
-      "cast": [],
-      "synopsis": "X-Men '97 revisits the iconic era of the 1990s as The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576859.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=X-Men+%2797+official+trailer",
-      "rating": "8/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt16026746",
-      "imdbUrl": "https://www.imdb.com/title/tt16026746/",
-      "imdbRating": "8.7",
-      "imdbVotes": 56400
-    },
-    {
-      "id": "tvmaze-92863",
-      "title": "No tengo miedo",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-08",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": 44,
-      "cast": [],
-      "synopsis": "When a 10-year-old boy stumbles upon a terrifying sight, he learns the brutal realities of life, survival and desperation in a town on the edge.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576591.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=No+tengo+miedo+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt36742917",
-      "imdbUrl": "https://www.imdb.com/title/tt36742917/",
-      "imdbRating": "6.7",
-      "imdbVotes": 487
-    },
-    {
-      "id": "tvmaze-92864",
-      "title": "Salcedo, cuero y boogaloo",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-08",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "season": 1,
-      "episodes": 12,
-      "epRuntime": 7,
-      "cast": [],
-      "synopsis": "Martín Salcedo is rarely swept off his feet — until Verónica Pinilla and Quiebra Canto turn up the party, booze and danger.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576592.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Salcedo%2C+cuero+y+boogaloo+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43588603",
-      "imdbUrl": "https://www.imdb.com/title/tt43588603/",
-      "imdbRating": "6.1",
-      "imdbVotes": 79
-    },
-    {
-      "id": "tvmaze-82319",
-      "title": "The Fox Hollow Murders: Playground of a Serial Killer (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-07-08",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Crime"
-      ],
-      "season": 2,
-      "episodes": null,
-      "epRuntime": 52,
-      "cast": [],
-      "synopsis": "In the wealthy suburbs of Indianapolis, husband and father of three Herb Baumeister led a double life — businessman by day, serial killer by night. Throughout the 1990s, he targeted gay men, amassing a victim count possibly surpassing that of Jeffrey Dahmer. The Fox Hollow Murder",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/556/1390682.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Fox+Hollow+Murders%3A+Playground+of+a+Serial+Killer+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt35617850",
-      "imdbUrl": "https://www.imdb.com/title/tt35617850/",
-      "imdbRating": "6.6",
-      "imdbVotes": 1647
     },
     {
       "id": "little-house-prairie-netflix",
@@ -895,67 +773,7 @@
       "imdbId": "tt2431250",
       "imdbUrl": "https://www.imdb.com/title/tt2431250/",
       "imdbRating": "7.3",
-      "imdbVotes": 5884
-    },
-    {
-      "id": "tvmaze-81",
-      "title": "Criminal Minds",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-07-09",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 19,
-      "episodes": null,
-      "epRuntime": 59,
-      "cast": [],
-      "synopsis": "Criminal Minds revolves around an elite team of FBI profilers who analyze the country's most twisted criminal minds, anticipating their next moves before they strike again.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/626/1567475.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Criminal+Minds+official+trailer",
-      "rating": "8.1/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt0452046",
-      "imdbUrl": "https://www.imdb.com/title/tt0452046/",
-      "imdbRating": "8.1",
-      "imdbVotes": 241330
-    },
-    {
-      "id": "tvmaze-82297",
-      "title": "The Five Star Weekend",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Peacock",
-      "date": "2026-07-09",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Drama"
-      ],
-      "season": 1,
-      "episodes": 8,
-      "epRuntime": 41,
-      "cast": [],
-      "synopsis": "The Five Star Weekend is centered on Hollis Shaw, a famed cook and best-selling author known for her delicious recipes, impeccable taste, and warm demeanor, who suffers a devastating loss. Unable to move forward, the death starts to expose the cracks in Hollis's picture-perfect l",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/627/1567606.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Five+Star+Weekend+official+trailer",
-      "rating": "6.2/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt35587659",
-      "imdbUrl": "https://www.imdb.com/title/tt35587659/",
-      "imdbRating": "7.2",
-      "imdbVotes": 3034
+      "imdbVotes": 6131
     },
     {
       "id": "moana-live-action",
@@ -986,8 +804,7 @@
       "imdbId": "tt27419466",
       "imdbUrl": "https://www.imdb.com/title/tt27419466/",
       "imdbRating": "5.8",
-      "imdbVotes": 10792,
-      "runtime": 115
+      "imdbVotes": 11206
     },
     {
       "id": "the-invite-a24",
@@ -1018,8 +835,7 @@
       "imdbId": "tt14173636",
       "imdbUrl": "https://www.imdb.com/title/tt14173636/",
       "imdbRating": "7.9",
-      "imdbVotes": 19015,
-      "runtime": 107
+      "imdbVotes": 19946
     },
     {
       "id": "tvmaze-68688",
@@ -1064,7 +880,7 @@
       ],
       "season": 20,
       "episodes": 20,
-      "epRuntime": 97,
+      "epRuntime": 96,
       "cast": [],
       "synopsis": "Married at First Sight is an extreme social experiment that follows six brave singles yearning for a life-long partnership as they agree to a provocative proposal: getting legally married to a complete stranger the moment they first meet. Four specialists – sexologist, Dr. Logan ",
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485659.jpg",
@@ -1074,7 +890,7 @@
       "imdbId": "tt3868860",
       "imdbUrl": "https://www.imdb.com/title/tt3868860/",
       "imdbRating": "6.2",
-      "imdbVotes": 2998
+      "imdbVotes": 2999
     },
     {
       "id": "wuthering-heights-ott",
@@ -1104,8 +920,7 @@
       "imdbId": "tt32897959",
       "imdbUrl": "https://www.imdb.com/title/tt32897959/",
       "imdbRating": "6.1",
-      "imdbVotes": 86226,
-      "runtime": 136
+      "imdbVotes": 86441
     },
     {
       "id": "second-love-reality",
@@ -1159,7 +974,7 @@
       "imdbId": "tt39163341",
       "imdbUrl": "https://www.imdb.com/title/tt39163341/",
       "imdbRating": "7.3",
-      "imdbVotes": 457
+      "imdbVotes": 483
     },
     {
       "id": "passenger-2026",
@@ -1185,8 +1000,7 @@
       "imdbId": "tt33763941",
       "imdbUrl": "https://www.imdb.com/title/tt33763941/",
       "imdbRating": "5.5",
-      "imdbVotes": 15187,
-      "runtime": 94
+      "imdbVotes": 15423
     },
     {
       "id": "tvmaze-802",
@@ -1214,7 +1028,7 @@
       "imdbId": "tt0185103",
       "imdbUrl": "https://www.imdb.com/title/tt0185103/",
       "imdbRating": "7.7",
-      "imdbVotes": 11034
+      "imdbVotes": 11036
     },
     {
       "id": "tvmaze-92750",
@@ -1243,8 +1057,8 @@
       "source": "tvmaze",
       "imdbId": "tt43611663",
       "imdbUrl": "https://www.imdb.com/title/tt43611663/",
-      "imdbRating": "5.4",
-      "imdbVotes": 75
+      "imdbRating": "5.5",
+      "imdbVotes": 76
     },
     {
       "id": "tvmaze-30329",
@@ -1272,7 +1086,7 @@
       "imdbId": "tt0135729",
       "imdbUrl": "https://www.imdb.com/title/tt0135729/",
       "imdbRating": "8.6",
-      "imdbVotes": 137
+      "imdbVotes": 138
     },
     {
       "id": "tvmaze-93075",
@@ -1331,7 +1145,7 @@
       "imdbId": "tt26777035",
       "imdbUrl": "https://www.imdb.com/title/tt26777035/",
       "imdbRating": "8.0",
-      "imdbVotes": 5939
+      "imdbVotes": 5955
     },
     {
       "id": "tvmaze-92748",
@@ -1360,7 +1174,7 @@
       "imdbId": "tt39399104",
       "imdbUrl": "https://www.imdb.com/title/tt39399104/",
       "imdbRating": "7.1",
-      "imdbVotes": 210
+      "imdbVotes": 223
     },
     {
       "id": "ride-or-die-prime",
@@ -1390,7 +1204,38 @@
       "imdbId": "tt30494226",
       "imdbUrl": "https://www.imdb.com/title/tt30494226/",
       "imdbRating": "7.6",
-      "imdbVotes": 7138
+      "imdbVotes": 7899
+    },
+    {
+      "id": "tvmaze-58951",
+      "title": "X-Men '97",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-07-15",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Action",
+        "Science-Fiction"
+      ],
+      "season": 2,
+      "episodes": null,
+      "epRuntime": 33,
+      "cast": [],
+      "synopsis": "X-Men '97 revisits the iconic era of the 1990s as The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576859.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=X-Men+%2797+official+trailer",
+      "rating": "8/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt16026746",
+      "imdbUrl": "https://www.imdb.com/title/tt16026746/",
+      "imdbRating": "8.7",
+      "imdbVotes": 56544
     },
     {
       "id": "tvmaze-60873",
@@ -1418,7 +1263,7 @@
       "imdbId": "tt18396952",
       "imdbUrl": "https://www.imdb.com/title/tt18396952/",
       "imdbRating": "5.5",
-      "imdbVotes": 3337
+      "imdbVotes": 3350
     },
     {
       "id": "raktanchal-s3",
@@ -1448,7 +1293,38 @@
       "imdbId": "tt12347286",
       "imdbUrl": "https://www.imdb.com/title/tt12347286/",
       "imdbRating": "6.8",
-      "imdbVotes": 8242
+      "imdbVotes": 8248
+    },
+    {
+      "id": "tvmaze-81",
+      "title": "Criminal Minds",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-07-16",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "season": 19,
+      "episodes": null,
+      "epRuntime": 59,
+      "cast": [],
+      "synopsis": "Criminal Minds revolves around an elite team of FBI profilers who analyze the country's most twisted criminal minds, anticipating their next moves before they strike again.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/626/1567475.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Criminal+Minds+official+trailer",
+      "rating": "8.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt0452046",
+      "imdbUrl": "https://www.imdb.com/title/tt0452046/",
+      "imdbRating": "8.1",
+      "imdbVotes": 241389
     },
     {
       "id": "tvmaze-77059",
@@ -1479,7 +1355,7 @@
       "imdbId": "tt27550719",
       "imdbUrl": "https://www.imdb.com/title/tt27550719/",
       "imdbRating": "6.4",
-      "imdbVotes": 6312
+      "imdbVotes": 6968
     },
     {
       "id": "transfer-trimurthulu",
@@ -1504,8 +1380,8 @@
       "source": "curated",
       "imdbId": "tt42932774",
       "imdbUrl": "https://www.imdb.com/title/tt42932774/",
-      "imdbRating": "6.5",
-      "imdbVotes": 85
+      "imdbRating": "6.4",
+      "imdbVotes": 89
     },
     {
       "id": "agent-kim-reactivated",
@@ -1532,7 +1408,7 @@
       "imdbId": "tt42127457",
       "imdbUrl": "https://www.imdb.com/title/tt42127457/",
       "imdbRating": "7.7",
-      "imdbVotes": 4676
+      "imdbVotes": 5155
     },
     {
       "id": "sannidhanam-po",
@@ -1565,8 +1441,8 @@
       "source": "curated",
       "imdbId": "tt29429839",
       "imdbUrl": "https://www.imdb.com/title/tt29429839/",
-      "imdbRating": "8.4",
-      "imdbVotes": 962
+      "imdbRating": "8.3",
+      "imdbVotes": 965
     },
     {
       "id": "the-map-of-longing",
@@ -1592,7 +1468,7 @@
       "imdbId": "tt36495086",
       "imdbUrl": "https://www.imdb.com/title/tt36495086/",
       "imdbRating": "6.8",
-      "imdbVotes": 537
+      "imdbVotes": 585
     },
     {
       "id": "tvmaze-53269",
@@ -1624,7 +1500,7 @@
       "imdbId": "tt10638036",
       "imdbUrl": "https://www.imdb.com/title/tt10638036/",
       "imdbRating": "8.5",
-      "imdbVotes": 94646
+      "imdbVotes": 94707
     },
     {
       "id": "tvmaze-92430",
@@ -1655,7 +1531,7 @@
       "imdbId": "tt36495086",
       "imdbUrl": "https://www.imdb.com/title/tt36495086/",
       "imdbRating": "6.8",
-      "imdbVotes": 537
+      "imdbVotes": 585
     },
     {
       "id": "tvmaze-92790",
@@ -1686,8 +1562,8 @@
       "source": "tvmaze",
       "imdbId": "tt42206320",
       "imdbUrl": "https://www.imdb.com/title/tt42206320/",
-      "imdbRating": "6.5",
-      "imdbVotes": 15
+      "imdbRating": "6.4",
+      "imdbVotes": 17
     },
     {
       "id": "tvmaze-93168",
@@ -1717,7 +1593,7 @@
       "imdbId": "tt43639205",
       "imdbUrl": "https://www.imdb.com/title/tt43639205/",
       "imdbRating": "6.7",
-      "imdbVotes": 132
+      "imdbVotes": 141
     },
     {
       "id": "tvmaze-93201",
@@ -1744,8 +1620,8 @@
       "source": "tvmaze",
       "imdbId": "tt37090886",
       "imdbUrl": "https://www.imdb.com/title/tt37090886/",
-      "imdbRating": "8.5",
-      "imdbVotes": 102
+      "imdbRating": "6.7",
+      "imdbVotes": 113
     },
     {
       "id": "tvmaze-93328",
@@ -1799,8 +1675,7 @@
       "imdbId": "tt40247521",
       "imdbUrl": "https://www.imdb.com/title/tt40247521/",
       "imdbRating": "7.7",
-      "imdbVotes": 309,
-      "runtime": 70
+      "imdbVotes": 340
     },
     {
       "id": "trikala-sunnxt",
@@ -1832,7 +1707,7 @@
       "imdbId": "tt33674441",
       "imdbUrl": "https://www.imdb.com/title/tt33674441/",
       "imdbRating": "7.9",
-      "imdbVotes": 1150
+      "imdbVotes": 1155
     },
     {
       "id": "tvmaze-93262",
@@ -1889,7 +1764,7 @@
       "imdbId": "tt30063915",
       "imdbUrl": "https://www.imdb.com/title/tt30063915/",
       "imdbRating": "6.8",
-      "imdbVotes": 4889
+      "imdbVotes": 4955
     },
     {
       "id": "tvmaze-115",
@@ -1918,7 +1793,7 @@
       "imdbId": "tt0118375",
       "imdbUrl": "https://www.imdb.com/title/tt0118375/",
       "imdbRating": "7.6",
-      "imdbVotes": 66351
+      "imdbVotes": 66393
     },
     {
       "id": "tvmaze-8910",
@@ -1945,8 +1820,8 @@
       "source": "tvmaze",
       "imdbId": "tt43699654",
       "imdbUrl": "https://www.imdb.com/title/tt43699654/",
-      "imdbRating": "6.7",
-      "imdbVotes": 20
+      "imdbRating": "6.6",
+      "imdbVotes": 31
     },
     {
       "id": "tvmaze-69216",
@@ -2004,7 +1879,7 @@
       "imdbId": "tt36614693",
       "imdbUrl": "https://www.imdb.com/title/tt36614693/",
       "imdbRating": "8.0",
-      "imdbVotes": 2600
+      "imdbVotes": 2610
     },
     {
       "id": "a-shop-for-killers-s2",
@@ -2035,7 +1910,7 @@
       "imdbId": "tt26450613",
       "imdbUrl": "https://www.imdb.com/title/tt26450613/",
       "imdbRating": "8.0",
-      "imdbVotes": 10901
+      "imdbVotes": 10965
     },
     {
       "id": "tvmaze-92905",
@@ -2067,7 +1942,7 @@
       "imdbId": "tt35495063",
       "imdbUrl": "https://www.imdb.com/title/tt35495063/",
       "imdbRating": "6.3",
-      "imdbVotes": 1186
+      "imdbVotes": 1517
     },
     {
       "id": "tvmaze-93219",
@@ -2097,8 +1972,8 @@
       "source": "tvmaze",
       "imdbId": "tt39390494",
       "imdbUrl": "https://www.imdb.com/title/tt39390494/",
-      "imdbRating": "5.4",
-      "imdbVotes": 175
+      "imdbRating": "5.5",
+      "imdbVotes": 246
     },
     {
       "id": "tvmaze-73223",
@@ -2130,7 +2005,7 @@
       "imdbId": "tt28088031",
       "imdbUrl": "https://www.imdb.com/title/tt28088031/",
       "imdbRating": "6.8",
-      "imdbVotes": 11006
+      "imdbVotes": 11204
     },
     {
       "id": "tvmaze-75519",
@@ -2160,7 +2035,7 @@
       "imdbId": "tt31806050",
       "imdbUrl": "https://www.imdb.com/title/tt31806050/",
       "imdbRating": "7.1",
-      "imdbVotes": 1390
+      "imdbVotes": 1404
     },
     {
       "id": "tvmaze-93204",
@@ -2217,9 +2092,8 @@
       "source": "curated",
       "imdbId": "tt31170389",
       "imdbUrl": "https://www.imdb.com/title/tt31170389/",
-      "imdbRating": "6.7",
-      "imdbVotes": 20486,
-      "runtime": 110
+      "imdbRating": "6.6",
+      "imdbVotes": 21132
     },
     {
       "id": "star-trek-snw-new-season",
@@ -2274,8 +2148,8 @@
       "source": "curated",
       "imdbId": "tt10515398",
       "imdbUrl": "https://www.imdb.com/title/tt10515398/",
-      "imdbRating": "6.2",
-      "imdbVotes": 4384
+      "imdbRating": "6.1",
+      "imdbVotes": 4438
     },
     {
       "id": "musafir-cafe",
@@ -2303,8 +2177,8 @@
       "source": "curated",
       "imdbId": "tt39665097",
       "imdbUrl": "https://www.imdb.com/title/tt39665097/",
-      "imdbRating": "7.9",
-      "imdbVotes": 1758
+      "imdbRating": "7.8",
+      "imdbVotes": 2448
     },
     {
       "id": "tvmaze-93281",
@@ -2336,7 +2210,7 @@
       "imdbId": "tt41515375",
       "imdbUrl": "https://www.imdb.com/title/tt41515375/",
       "imdbRating": "3.3",
-      "imdbVotes": 275
+      "imdbVotes": 307
     },
     {
       "id": "tvmaze-93304",
@@ -2365,8 +2239,8 @@
       "source": "tvmaze",
       "imdbId": "tt41880577",
       "imdbUrl": "https://www.imdb.com/title/tt41880577/",
-      "imdbRating": "8.3",
-      "imdbVotes": 25
+      "imdbRating": "8.4",
+      "imdbVotes": 30
     },
     {
       "id": "tvmaze-87753",
@@ -2392,12 +2266,12 @@
       "synopsis": "Furious follows an FBI agent, Alice Black, on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585631.jpg",
       "trailer": "https://www.youtube.com/results?search_query=Furious+official+trailer",
-      "rating": "7.1/10 TVMaze",
+      "rating": "7/10 TVMaze",
       "source": "tvmaze",
       "imdbId": "tt36303968",
       "imdbUrl": "https://www.imdb.com/title/tt36303968/",
-      "imdbRating": "7.3",
-      "imdbVotes": 658
+      "imdbRating": "7.4",
+      "imdbVotes": 1273
     },
     {
       "id": "tvmaze-91604",
@@ -2423,7 +2297,9 @@
       "rating": null,
       "source": "tvmaze",
       "imdbId": "tt39496157",
-      "imdbUrl": "https://www.imdb.com/title/tt39496157/"
+      "imdbUrl": "https://www.imdb.com/title/tt39496157/",
+      "imdbRating": "5.2",
+      "imdbVotes": 32
     },
     {
       "id": "tvmaze-46457",
@@ -2451,7 +2327,7 @@
       "imdbId": "tt11871764",
       "imdbUrl": "https://www.imdb.com/title/tt11871764/",
       "imdbRating": "3.3",
-      "imdbVotes": 5632
+      "imdbVotes": 5640
     },
     {
       "id": "tvmaze-69170",
@@ -2481,8 +2357,8 @@
       "source": "tvmaze",
       "imdbId": "tt27982433",
       "imdbUrl": "https://www.imdb.com/title/tt27982433/",
-      "imdbRating": "7.8",
-      "imdbVotes": 772
+      "imdbRating": "7.7",
+      "imdbVotes": 809
     },
     {
       "id": "tvmaze-92414",
@@ -2539,7 +2415,9 @@
       "rating": null,
       "source": "tvmaze",
       "imdbId": "tt43640818",
-      "imdbUrl": "https://www.imdb.com/title/tt43640818/"
+      "imdbUrl": "https://www.imdb.com/title/tt43640818/",
+      "imdbRating": "6.0",
+      "imdbVotes": 37
     },
     {
       "id": "tvmaze-93337",
@@ -2567,7 +2445,61 @@
       "rating": null,
       "source": "tvmaze",
       "imdbId": "tt43680755",
-      "imdbUrl": "https://www.imdb.com/title/tt43680755/"
+      "imdbUrl": "https://www.imdb.com/title/tt43680755/",
+      "imdbRating": "6.9",
+      "imdbVotes": 497
+    },
+    {
+      "id": "tvmaze-93347",
+      "title": "Murder Club: Liar's Table",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-07-29",
+      "language": "Korean",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586548.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Murder+Club%3A+Liar%27s+Table+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-93242",
+      "title": "20/20 Britain's Most Notorious Crime Investigations",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-07-30",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Crime"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "A Greek paradise turns tragic. A dangerous killer could be living next door. Romance and religion are tied to the death of two elderly neighbors. A serial killer is discovered hidden in plain sight. The Royal family is linked to a deadly scandal. A high-speed car chase turns dead",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586641.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=20%2F20+Britain%27s+Most+Notorious+Crime+Investigations+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt43715777",
+      "imdbUrl": "https://www.imdb.com/title/tt43715777/"
     },
     {
       "id": "tvmaze-55415",
@@ -2594,12 +2526,12 @@
       "synopsis": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the BATMAN. His one-man crus",
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/529/1323819.jpg",
       "trailer": "https://www.youtube.com/results?search_query=Batman%3A+Caped+Crusader+official+trailer",
-      "rating": "7.2/10 TVMaze",
+      "rating": "7.3/10 TVMaze",
       "source": "tvmaze",
       "imdbId": "tt14681596",
       "imdbUrl": "https://www.imdb.com/title/tt14681596/",
       "imdbRating": "7.2",
-      "imdbVotes": 17078
+      "imdbVotes": 17121
     },
     {
       "id": "tvmaze-93044",
@@ -2620,7 +2552,7 @@
       "epRuntime": null,
       "cast": [],
       "synopsis": "",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586009.jpg",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586854.jpg",
       "trailer": "https://www.youtube.com/results?search_query=ESPN+Jeopardy%21+official+trailer",
       "rating": null,
       "source": "tvmaze",
@@ -2656,7 +2588,7 @@
       "imdbId": "tt13111078",
       "imdbUrl": "https://www.imdb.com/title/tt13111078/",
       "imdbRating": "7.8",
-      "imdbVotes": 89201
+      "imdbVotes": 89317
     },
     {
       "id": "tvmaze-538",
@@ -2687,7 +2619,7 @@
       "imdbId": "tt0149460",
       "imdbUrl": "https://www.imdb.com/title/tt0149460/",
       "imdbRating": "8.5",
-      "imdbVotes": 279366
+      "imdbVotes": 279407
     },
     {
       "id": "tvmaze-88841",
@@ -2742,7 +2674,7 @@
       "imdbId": "tt34258509",
       "imdbUrl": "https://www.imdb.com/title/tt34258509/",
       "imdbRating": "6.1",
-      "imdbVotes": 1279
+      "imdbVotes": 1286
     },
     {
       "id": "tvmaze-2100",
@@ -2771,8 +2703,8 @@
       "source": "tvmaze",
       "imdbId": "tt0176095",
       "imdbUrl": "https://www.imdb.com/title/tt0176095/",
-      "imdbRating": "8.2",
-      "imdbVotes": 5115
+      "imdbRating": "8.1",
+      "imdbVotes": 5122
     },
     {
       "id": "tvmaze-41256",
@@ -2830,7 +2762,7 @@
       "imdbId": "tt29420686",
       "imdbUrl": "https://www.imdb.com/title/tt29420686/",
       "imdbRating": "7.9",
-      "imdbVotes": 9698
+      "imdbVotes": 9712
     },
     {
       "id": "tvmaze-82911",
@@ -2949,7 +2881,7 @@
       "imdbId": "tt8323628",
       "imdbUrl": "https://www.imdb.com/title/tt8323628/",
       "imdbRating": "6.8",
-      "imdbVotes": 26684
+      "imdbVotes": 26727
     },
     {
       "id": "tvmaze-91086",
@@ -3006,6 +2938,33 @@
       "imdbUrl": "https://www.imdb.com/title/tt38264832/"
     },
     {
+      "id": "tvmaze-93357",
+      "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-08-07",
+      "language": "Hindi",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Action",
+        "War"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586617.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Operation+Safed+Sagar%3A+The+Untold+Story+of+the+Kargil+War+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
       "id": "tvmaze-82663",
       "title": "The Chosen in the Wild with Bear Grylls",
       "type": "series",
@@ -3058,7 +3017,7 @@
       "imdbId": "tt15614920",
       "imdbUrl": "https://www.imdb.com/title/tt15614920/",
       "imdbRating": "7.1",
-      "imdbVotes": 946
+      "imdbVotes": 947
     },
     {
       "id": "tvmaze-86362",
@@ -3087,6 +3046,34 @@
       "imdbUrl": "https://www.imdb.com/title/tt18940264/",
       "imdbRating": "6.5",
       "imdbVotes": 86
+    },
+    {
+      "id": "tvmaze-93356",
+      "title": "Mourinho",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-08-11",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Sports"
+      ],
+      "season": 1,
+      "episodes": 3,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "No career in football has generated more masterstrokes, headlines or contradictions. Twenty years on from the night he shocked the sporting world by leading FC Porto to Champions League glory, José Mourinho has gone on to manage some of the biggest clubs on the planet — from Chel",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586742.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Mourinho+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt43673968",
+      "imdbUrl": "https://www.imdb.com/title/tt43673968/"
     },
     {
       "id": "tvmaze-43031",
@@ -3118,7 +3105,67 @@
       "imdbId": "tt9288030",
       "imdbUrl": "https://www.imdb.com/title/tt9288030/",
       "imdbRating": "8.0",
-      "imdbVotes": 298710
+      "imdbVotes": 299018
+    },
+    {
+      "id": "tvmaze-74979",
+      "title": "Tires (Season 3)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-08-13",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 3,
+      "episodes": null,
+      "epRuntime": 23,
+      "cast": [],
+      "synopsis": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/520/1300772.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Tires+official+trailer",
+      "rating": "5.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt31491435",
+      "imdbUrl": "https://www.imdb.com/title/tt31491435/",
+      "imdbRating": "7.6",
+      "imdbVotes": 21339
+    },
+    {
+      "id": "tvmaze-85474",
+      "title": "My Brilliant Career",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-08-13",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Sybylla is a shockingly modern young woman with one searing ambition - to be a writer, while her family is determined to marry her off. With an irrepressible taste for fun, Sybylla breaks every convention of 1900 Australia as she searches for a story that will allow her to write ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583365.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=My+Brilliant+Career+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt37352716",
+      "imdbUrl": "https://www.imdb.com/title/tt37352716/"
     },
     {
       "id": "batwara-1947",
@@ -3175,6 +3222,62 @@
       "imdbUrl": "https://www.imdb.com/title/tt36300841/"
     },
     {
+      "id": "tvmaze-93191",
+      "title": "Umthetho",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-08-14",
+      "language": "Afrikaans",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "A skilled young public prosecutor is pulled into a brutal prison syndicate led by the brother she thought she lost. Forcing her to choose between justice and family, law and survival, truth and betrayal.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584392.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Umthetho+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt43657402",
+      "imdbUrl": "https://www.imdb.com/title/tt43657402/"
+    },
+    {
+      "id": "tvmaze-93358",
+      "title": "Moria",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-08-14",
+      "language": "Spanish",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "In this highly stylized fictionalization, Moria Casán transforms her life story into a symbolic spectacle of fame, controversy and ceaseless reinvention.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586715.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Moria+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt41559147",
+      "imdbUrl": "https://www.imdb.com/title/tt41559147/"
+    },
+    {
       "id": "rahun-main-tere-rubaru",
       "title": "Rahun Main Tere Rubaru",
       "type": "movie",
@@ -3198,8 +3301,8 @@
       "source": "curated",
       "imdbId": "tt40427174",
       "imdbUrl": "https://www.imdb.com/title/tt40427174/",
-      "imdbRating": "5.9",
-      "imdbVotes": 9
+      "imdbRating": "6.7",
+      "imdbVotes": 11
     },
     {
       "id": "immortal-2026",
@@ -3255,8 +3358,7 @@
       "imdbId": "tt33612209",
       "imdbUrl": "https://www.imdb.com/title/tt33612209/",
       "imdbRating": "6.4",
-      "imdbVotes": 78692,
-      "runtime": 119
+      "imdbVotes": 80780
     },
     {
       "id": "super-mario-galaxy-movie-stream",
@@ -3287,8 +3389,7 @@
       "imdbId": "tt28650488",
       "imdbUrl": "https://www.imdb.com/title/tt28650488/",
       "imdbRating": "6.3",
-      "imdbVotes": 65764,
-      "runtime": 98
+      "imdbVotes": 65985
     },
     {
       "id": "heartstopper-forever",
@@ -3319,8 +3420,7 @@
       "imdbId": "tt36619926",
       "imdbUrl": "https://www.imdb.com/title/tt36619926/",
       "imdbRating": "7.0",
-      "imdbVotes": 5765,
-      "runtime": 111
+      "imdbVotes": 6009
     },
     {
       "id": "the-long-walk-stream",
@@ -3352,8 +3452,7 @@
       "imdbId": "tt10374610",
       "imdbUrl": "https://www.imdb.com/title/tt10374610/",
       "imdbRating": "6.6",
-      "imdbVotes": 135609,
-      "runtime": 108
+      "imdbVotes": 136328
     },
     {
       "id": "operation-safed-sagar",

@@ -802,5 +802,55 @@
   "qid": "tvSeries",
   "rank": 68,
   "img": "https://m.media-amazon.com/images/M/MV5BMmE0YTA3MTItMjhiNC00MGQ3LTllZDktNGNiZWY1OWFmNmM1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "murderclubliarstable": null,
+ "2020britainsmostnotoriouscrimeinvestigations": {
+  "id": "tt43715777",
+  "title": "20/20 Britain's Most Notorious Crime Investigations",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": null,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDBjNjllY2UtZGFjNy00ZjRmLTgzYWEtOWZmNjI0NjZlYmMyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "operationsafedsagartheuntoldstoryofthekargilwar": null,
+ "mourinho": {
+  "id": "tt43673968",
+  "title": "Mourinho",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 31995,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzU3NDFmNjMtYmVkMi00YzRmLWJlNTYtYzI5MzU4N2U4ODM4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "tires": {
+  "id": "tt31491435",
+  "title": "Tires",
+  "year": 2024,
+  "qid": "tvSeries",
+  "rank": 1027,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDUyMjhlZTQtYTFhZi00OWU3LTg5MDQtNzE3ZTUyNWZmODkwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "mybrilliantcareer": {
+  "id": "tt37352716",
+  "title": "My Brilliant Career",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 2136,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTU3NzA4MDQtMDUxYy00NmQ2LWFlMzgtNDQwY2MxNjkyMDg3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "umthetho": {
+  "id": "tt43657402",
+  "title": "Umthetho",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 49334,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzgyYjExYjYtNDQ4OC00NzRkLWI0MmEtNTZkN2UwNDE5MzE1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "moria": {
+  "id": "tt41559147",
+  "title": "Moria",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 69597,
+  "img": null
  }
 }
