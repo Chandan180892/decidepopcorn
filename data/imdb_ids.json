@@ -348,7 +348,7 @@
   "title": "Star Trek: Strange New Worlds",
   "year": 2022,
   "qid": "tvSeries",
-  "rank": 49,
+  "rank": 47,
   "img": "https://m.media-amazon.com/images/M/MV5BOWY1Y2ZlNzctMzIwMi00NTM3LWJiNDUtMTZmYWY0Y2NmZmE2XkEyXkFqcGc@._V1_.jpg"
  },
  "pallichattambi": {
@@ -852,5 +852,620 @@
   "qid": "tvSeries",
   "rank": 69597,
   "img": null
+ },
+ "thegentlemen": {
+  "id": "tt13210838",
+  "title": "The Gentlemen",
+  "year": 2024,
+  "qid": "tvSeries",
+  "rank": 4,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "jagamaesangeetham": {
+  "id": "tt40857865",
+  "title": "Jagamae Sangeetham",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 37267,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDE5NmM5N2ItNjIyNi00ZTRlLTgzMDYtNDk3MzY1MjM1YmUzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "goodluckguysoverlevenzonderfilter": null,
+ "chadpowers": {
+  "id": "tt31449991",
+  "title": "Chad Powers",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 134,
+  "img": "https://m.media-amazon.com/images/M/MV5BZmFhYTRlZjMtYjAwZS00ZGY1LWI3ODYtYmQ2MTE5NjU2Y2E2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "conanobrienmustgo": {
+  "id": "tt27790101",
+  "title": "Conan O'Brien Must Go",
+  "year": 2024,
+  "qid": "tvSeries",
+  "rank": 5100,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTEwNDkwYTktMGEzNC00ZGM1LWEzMDEtOTNhNWMxYmUyYThhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theprogramtexastech": {
+  "id": "tt43630864",
+  "title": "The Program: Texas Tech",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 47556,
+  "img": "https://m.media-amazon.com/images/M/MV5BYWRmM2MwNmItMDRhNy00YzI2LWI2OWQtMjFkMzVlYmYyMDBlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "earlemeetsworld": {
+  "id": "tt42654265",
+  "title": "Earle Meets World",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 6371,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTcyNTRkZjctMTEwMy00NjdjLWIxZmUtOTAyMDZiZDQ4YzFmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thegrandtour": {
+  "id": "tt44974627",
+  "title": "The Grand Tour",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 510,
+  "img": "https://m.media-amazon.com/images/M/MV5BMGRlZjk0OTUtYjhkZS00NTU3LWI5NDItODZiMjM1N2U0NGQwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "allemotalle": {
+  "id": "tt13085650",
+  "title": "Alle mot alle",
+  "year": 2020,
+  "qid": "tvSeries",
+  "rank": 182980,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzkwZDkyOWItMWQyNS00NzEwLWJkY2QtMDRlYjIzYjFjMjNhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "colisin": {
+  "id": "tt38116565",
+  "title": "Collision",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 3503,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzc3ZmM1NGMtOGNiOS00NWUxLWE4Y2UtODE4OTQ0NTk4MTIyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "71nordnorgestffestekjendis": {
+  "id": "tt2283115",
+  "title": "71° nord - Norges tøffeste kjendis",
+  "year": 2010,
+  "qid": "tvSeries",
+  "rank": 161918,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWYxODdiMGEtM2RhYi00MjY5LWEyYWEtOGRjYzEwNDZmMDBiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "untold": {
+  "id": "tt15402976",
+  "title": "Untold",
+  "year": 2021,
+  "qid": "tvSeries",
+  "rank": 14085,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTYzYmYwZDUtM2I5NS00OWE4LTg2NzAtODYwNTNkOTliYWJlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "dang": {
+  "id": "tt40003445",
+  "title": "Dang!",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 354,
+  "img": "https://m.media-amazon.com/images/M/MV5BNmE4MmI1MzItZjhiZS00N2RjLThmZmEtMDJmNmM3N2IyM2I5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "bogdanboneregzorcysta": null,
+ "madeinkorea": {
+  "id": "tt33298903",
+  "title": "Made in Korea",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 1669,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTI2MTEwOTctN2E1YS00ZWU0LThmNDAtNTFhODA1NmYxMWQ5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thepaper": {
+  "id": "tt32159809",
+  "title": "The Paper",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 171,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGFmMGIxMmItNGYyMi00MzJkLWE5NTgtM2Y3YjMyMjk3YjJjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "eljuicio": {
+  "id": "tt42449970",
+  "title": "El juicio",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 259054,
+  "img": null
+ },
+ "crewgirl": {
+  "id": "tt38218082",
+  "title": "Crew Girl",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 22,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWVmYTE5OWQtOWJlMi00NzY4LWJmMTAtZDQ2ZTg1MTZhNWVlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "deeetclub": {
+  "id": "tt37439410",
+  "title": "The Perfect Lie",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 36,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzZkNzcyODktZTE5Yy00ZGEzLWE1OWUtNzVkZjI5NzNlODgzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "chumbak": {
+  "id": "tt39640519",
+  "title": "Chumbak",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 758,
+  "img": "https://m.media-amazon.com/images/M/MV5BM2RjNGYxMDYtY2U0OS00OTI0LWIzNmYtYzQ3ZTAyYzY1YzI0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "lolnext": {
+  "id": "tt38956012",
+  "title": "LOL Next",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 34890,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGJlNzhhODItZGY1ZC00NTU0LTkzOTgtNDdmNGJkMjg2MjBiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thesecretlivesofmormonwives": {
+  "id": "tt31091039",
+  "title": "The Secret Lives of Mormon Wives",
+  "year": 2024,
+  "qid": "tvSeries",
+  "rank": 926,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTJmMDllYzgtYjJmOS00YzZjLWE3YTctMzhiMTkyZjU5ZjRkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "alibabaaur40bhoot": {
+  "id": "tt44101690",
+  "title": "Ali Baba aur 40 Bhoot",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 3308,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2M2MTZlMmQtZjkxMC00ODgzLTljZDgtMTFjYjc2YzVhNzE2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "physicalitaliada100a1": {
+  "id": "tt37694172",
+  "title": "Physical 100: Italy",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 1356,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzkyMzM1Y2QtYmViOS00YTY3LThmNGEtNmEwNjEwZWU2ZmE0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "honorthymother": {
+  "id": "tt41793323",
+  "title": "Honor Thy Mother",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 21461,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjQ1M2ZkYjEtMDQyMi00MDM0LWJlYWUtYjUxYzdlMzI3NWNiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "encoma": {
+  "id": "tt45403168",
+  "title": "En coma",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 11640,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzg0ZGY5YzYtNzNjZi00MjBiLWI2YzQtNTU3ZDU2Y2U0OWI5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "professeurraoultvslegangdescerises": {
+  "id": "tt45658470",
+  "title": "Professeur Raoult vs le gang des Cerises",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 13374,
+  "img": "https://m.media-amazon.com/images/M/MV5BM2M5ODFhMDItNzFlMi00ZDJjLWFhMDctMzRlMDRkYWRmYmExXkEyXkFqcGc@._V1_.jpg"
+ },
+ "gabbysdollhouse": {
+  "id": "tt9165438",
+  "title": "Gabby's Dollhouse",
+  "year": 2021,
+  "qid": "tvSeries",
+  "rank": 4235,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjQ5ZjA1NDQtMmVhOS00ZWUyLWI5ZDktODU4MWUyYTljODkwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "nullstjerner": {
+  "id": "tt31511769",
+  "title": "Null stjerner",
+  "year": 2024,
+  "qid": "tvSeries",
+  "rank": 68392,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDQ5NTJhODAtY2FlMy00ZTc4LTlkNDAtMmI1ZmRlOWJjZGJiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "dancingwiththestars": {
+  "id": "tt0463398",
+  "title": "Dancing with the Stars",
+  "year": 2005,
+  "qid": "tvSeries",
+  "rank": 1529,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmU2ZmFlODItZWVlZS00YzU2LTgzYmUtZjQzMGFmYTg5MjlmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "goldenaxe": {
+  "id": "tt32149571",
+  "title": "Golden Axe",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 283,
+  "img": "https://m.media-amazon.com/images/M/MV5BNWRiM2NkZmUtNzM0NC00ODMyLWE5MmItOTVjYjVkNjYxNTgwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "neagley": {
+  "id": "tt33539520",
+  "title": "Neagley",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 3,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "cityofblood": {
+  "id": "tt32642114",
+  "title": "City of Blood",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 80,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzFiMDM2MjgtZDJkYS00YTM5LTkyZTYtMTVhMzI0NGQwOGFhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "rettskalvrerett": null,
+ "lalka": {
+  "id": "tt0127384",
+  "title": "Lalka",
+  "year": 1978,
+  "qid": "tvMiniSeries",
+  "rank": 26619,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTg5MjhjOTctYmM0My00ZDA1LTlhNzItYzUyOTNmMGQ0MzMzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "surveillant": {
+  "id": "tt44924447",
+  "title": "Surveillant!",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 2652,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmVjNmQzZmUtMWY1MC00ZjE0LThlOWYtNTFhN2Q4YWI1OThmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "habilidadfsica100mxico": {
+  "id": "tt39390479",
+  "title": "Physical 100: Mexico",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 3330,
+  "img": "https://m.media-amazon.com/images/M/MV5BODIxYTZjZmItZDdiMC00ZGQ1LTkxYmQtOWQ2ZTNmNjg1OGQ3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "route187": {
+  "id": "tt32132697",
+  "title": "Route 187",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 217,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTgwNGMyMDYtMWFlNS00YWJiLWI3YzAtMmM3ZjAyNzY0N2UyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "catedrales": {
+  "id": "tt44600168",
+  "title": "Catedrales",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 2100,
+  "img": "https://m.media-amazon.com/images/M/MV5BZWNhYzVmYjgtYThiNS00YzhiLTg2M2YtYTEwZjZiNjhhNDE1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "kongenbefaler": null,
+ "thursdaynightfootballonprimevideo": null,
+ "strangerthingstalesfrom85": {
+  "id": "tt27486290",
+  "title": "Stranger Things: Tales from '85",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 614,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWU5NzgzY2QtNDVjZS00NDFkLThmMzctNTIzZmY5ZWYxZTE5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "monsterthelizziebordenstory": null,
+ "plasticbeauty": {
+  "id": "tt37884325",
+  "title": "Plastic Beauty",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 819,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTg4YWY0NmYtYTI4NC00ZWQ1LWFlZTMtMTk2N2RjZmU2YTc4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "senitanyorum": {
+  "id": "tt39397536",
+  "title": "Not a Stranger",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 167,
+  "img": "https://m.media-amazon.com/images/M/MV5BYWNjNzcxYzctZGM4Zi00OWUwLTkyODctNzc1Y2U4MjZiZDY0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thefixers": {
+  "id": "tt39495239",
+  "title": "The Fixers",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 991,
+  "img": "https://m.media-amazon.com/images/M/MV5BM2Q3NWY4ZTYtMmI0Yi00NDZlLWI4MDEtYjAwZDNlYmFhNjNlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "mobland": {
+  "id": "tt31510819",
+  "title": "MobLand",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 7,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDc4MmYxNTAtM2ViYy00YWQ4LThjZWUtNDZjNTZjNDFhNzBjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thescandal": {
+  "id": "tt36347588",
+  "title": "The Scandal",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 61,
+  "img": "https://m.media-amazon.com/images/M/MV5BODMyM2VhYzktZTZhZi00NWNkLWI5NjgtNmU5MmI0ZDJiN2QzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "samanlaveritnascosta": {
+  "id": "tt45017187",
+  "title": "Saman: La verità nascosta",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 6894,
+  "img": "https://m.media-amazon.com/images/M/MV5BNDZjOGI5ODgtZjkxYS00YzM3LWE2OGYtODkyODA1NzU5YmUyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "cautiva": {
+  "id": "tt43700003",
+  "title": "Cautiva",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 4459,
+  "img": "https://m.media-amazon.com/images/M/MV5BNGZjZmVkYTEtOGQ2Yi00OThjLThhYTEtZmUwNmZhOThhOWViXkEyXkFqcGc@._V1_.jpg"
+ },
+ "kiansbizarrebb": {
+  "id": "tt33047061",
+  "title": "Kian's Bizarre B&B",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 25984,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2MwNzBiNzktZDI3YS00OTcyLTllZDYtZGQxNTRmMmE1ZjIzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "minervalascuola": {
+  "id": "tt28765828",
+  "title": "Minerva Academy",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 7815,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDI2YTkzYjItZWIzZi00MWFkLWI3MzctYmU3OWVhODUwNjM5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "wonkasthegoldenticket": {
+  "id": "tt36258621",
+  "title": "Wonka's the Golden Ticket",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 5484,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTViMTljYjAtMDRiYi00NjAzLWEzZjEtODg4ODI5OTJlYjVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "habeascorpus": {
+  "id": "tt39369819",
+  "title": "Habeas Corpus",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 12933,
+  "img": "https://m.media-amazon.com/images/M/MV5BYmE2NGRiYzAtMDE1NC00NzgwLWExYTctYzc5ODg5ZmI1YmVlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "mismuertostristes": {
+  "id": "tt37158600",
+  "title": "My Sad Dead",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 3973,
+  "img": "https://m.media-amazon.com/images/M/MV5BODhiYTQzYWUtNzhjYi00MWM4LWIzMjUtYzRkOGNiZmRiNmRlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "teammoms": {
+  "id": "tt41377479",
+  "title": "Team Moms: Baseball",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 45126,
+  "img": null
+ },
+ "adifferentworld": {
+  "id": "tt33081352",
+  "title": "A Different World",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 2356,
+  "img": "https://m.media-amazon.com/images/M/MV5BNGIwZDc3OWYtZTZkOS00NmRjLTk3NTAtNjQzODI3ZTI4MWU4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "delusion": {
+  "id": "tt39749747",
+  "title": "Delusion",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 24888,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjU4ZTEyYzktNGUxOC00ZTUyLTkxMDQtY2IzY2NmMTFjZTdjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "shaquetrustnoone": {
+  "id": "tt35929525",
+  "title": "Shaque: Trust No One",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 10954,
+  "img": "https://m.media-amazon.com/images/M/MV5BYWRlNDA3MGYtMWMzZS00MDAwLTk4MTAtY2RhMGI3OTA2OTY1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "teammomsbaseball": {
+  "id": "tt41377479",
+  "title": "Team Moms: Baseball",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 45126,
+  "img": null
+ },
+ "impactxnightline": {
+  "id": "tt27126939",
+  "title": "Impact x Nightline",
+  "year": 2022,
+  "qid": "tvSeries",
+  "rank": 96529,
+  "img": "https://m.media-amazon.com/images/M/MV5BNGY4NGNjMzYtNGQ1YS00YjkwLTlhMTEtMWU3YjYyOGE4MGI5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "4blockszero": {
+  "id": "tt39379365",
+  "title": "4 Blocks Zero",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 7435,
+  "img": "https://m.media-amazon.com/images/M/MV5BZjRkODE5Y2UtYjMzOC00NTNjLTk4NDctZDVhNTA1MzBhMDViXkEyXkFqcGc@._V1_.jpg"
+ },
+ "elproblemafinal": {
+  "id": "tt36832679",
+  "title": "The Final Problem",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 3388,
+  "img": "https://m.media-amazon.com/images/M/MV5BOTQ1NzI2ZTUtZjE5OS00NmM4LWFlMzItNDI1ZmMyZGQ2ZGY2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "paolo": {
+  "id": "tt40407840",
+  "title": "Paolo",
+  "year": null,
+  "qid": "tvSeries",
+  "rank": 23546,
+  "img": "https://m.media-amazon.com/images/M/MV5BNDNjZmY5ZjAtNTExMy00Yjc3LTkzMjQtMDJmNGQ2NDVmNzgzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thegreatindiankapilshow": {
+  "id": "tt30003786",
+  "title": "The Great Indian Kapil Show",
+  "year": 2024,
+  "qid": "tvSeries",
+  "rank": 20262,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTkxNTNhYjktMTcxNy00OTA5LThlY2ItZjM3YTFjYmQ1ZmYzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "overgeared": {
+  "id": "tt43691353",
+  "title": "Overgeared",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 13304,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjQ3YWEzMDUtZTgyZS00YjUzLWJjNTktZThjZDM4OWQ1MWY1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "outside": {
+  "id": "tt32389619",
+  "title": "Outside",
+  "year": 2024,
+  "qid": "movie",
+  "rank": 34985,
+  "img": "https://m.media-amazon.com/images/M/MV5BYWNmNDAyOGMtYmVhZC00MGNmLTgyMTgtMWQwODU4YWQyYTRlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "medusa": {
+  "id": "tt35836959",
+  "title": "Medusa",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 7957,
+  "img": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "larne": {
+  "id": "tt38234547",
+  "title": "L'arène",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 136143,
+  "img": "https://m.media-amazon.com/images/M/MV5BMmJiZmExMTEtYzIyZC00YmE1LWI0MzctZDIwNTU1MDExMTE2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "sacrifice": {
+  "id": "tt13236336",
+  "title": "Sacrifice",
+  "year": 2021,
+  "qid": "tvSeries",
+  "rank": 13471,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTZkZGI1ZmYtMDdhZC00MGE5LWEyMTItYmYzZTE2YmI5N2E0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "dupahiya": {
+  "id": "tt31925820",
+  "title": "Dupahiya",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 12075,
+  "img": "https://m.media-amazon.com/images/M/MV5BNWUwNTgwZjktZjVlNC00YmRkLWFhNDQtMDgwOGNjZTc5MjdiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "eastofeden": {
+  "id": "tt21097264",
+  "title": "East of Eden",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 265,
+  "img": "https://m.media-amazon.com/images/M/MV5BY2FhZjRkNDEtMWViZC00YmM2LTljNTMtY2U4MzE3MDY0YmMwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "yourpersonaltaxi": {
+  "id": "tt41070790",
+  "title": "Your Personal Taxi",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 119139,
+  "img": null
+ },
+ "reinaroja": {
+  "id": "tt21849778",
+  "title": "Reina Roja (Audiolibro)",
+  "year": 2019,
+  "qid": "podcastSeries",
+  "rank": 1235595,
+  "img": "https://m.media-amazon.com/images/M/MV5BZWQxZTIxZmMtZDk5Ny00MjQzLWI5N2MtNTRlOGNkNDk3OGRlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "killjackie": {
+  "id": "tt35726020",
+  "title": "Kill Jackie",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 3557,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTFiNjYxMWEtNGMzMC00MTZjLThhZTUtYTllNTkwNzhkYzYzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "covenacademy": {
+  "id": "tt36064406",
+  "title": "Coven Academy",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 718,
+  "img": "https://m.media-amazon.com/images/M/MV5BNzAzYmQ0MTktMzBmNi00OWMyLTkzNzEtYjRkYTM2NGMzYWIxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "paullasrie": null,
+ "ataleofthesecretsaint": {
+  "id": "tt38939893",
+  "title": "Tensei Shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 32624,
+  "img": "https://m.media-amazon.com/images/M/MV5BZjAwODk4OTUtYWNhMi00ODAxLWEyZjAtZGZlM2IyMDViMjJjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "reasonabledoubt": {
+  "id": "tt11231226",
+  "title": "Reasonable Doubt",
+  "year": 2022,
+  "qid": "tvSeries",
+  "rank": 7129,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTQ5NzAzODctMTIwYy00MWUxLTk0M2QtNjhkNTBjYmRiOTZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "carrie": {
+  "id": "tt11540908",
+  "title": "Carrie",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 206,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTRhNGJmY2YtYjNmOC00ZTA4LThjMzktYTEwYTdkZDE0OTllXkEyXkFqcGc@._V1_.jpg"
+ },
+ "below": {
+  "id": "tt35934755",
+  "title": "Below",
+  "year": 2026,
+  "qid": "tvMiniSeries",
+  "rank": 175,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzRjZjU3NTktOTY5My00YTEzLTliYjAtMDNjYjhiN2MyYjllXkEyXkFqcGc@._V1_.jpg"
+ },
+ "reincarnatedasasword": {
+  "id": "tt15483602",
+  "title": "Reincarnated as a Sword",
+  "year": 2022,
+  "qid": "tvSeries",
+  "rank": 24895,
+  "img": "https://m.media-amazon.com/images/M/MV5BMzk0MmY5MzYtZDk3Zi00NGNjLWJjNWMtN2FkZTgyOWQ2NTg2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "thekardashians": {
+  "id": "tt15791630",
+  "title": "The Kardashians",
+  "year": 2022,
+  "qid": "tvSeries",
+  "rank": 15982,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDI2YmI1ZjMtNWE3Ni00YmUzLWIyYzEtN2MyYTk3ZDMwYjZmXkEyXkFqcGc@._V1_.jpg"
  }
 }

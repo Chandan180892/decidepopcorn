@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31 19:10 UTC",
+  "generated_at": "2026-09-24 19:29 UTC",
   "window": {
-    "from": "2026-07-10",
-    "to": "2026-08-14"
+    "from": "2026-09-03",
+    "to": "2026-10-08"
   },
   "counts": {
-    "total": 117
+    "total": 141
   },
   "items": [
     {
@@ -41,8 +41,8 @@
       "source": "curated",
       "imdbId": "tt27548557",
       "imdbUrl": "https://www.imdb.com/title/tt27548557/",
-      "imdbRating": "8.3",
-      "imdbVotes": 34970
+      "imdbRating": "6.8",
+      "imdbVotes": 38779
     },
     {
       "id": "the-odyssey-2026",
@@ -62,7 +62,7 @@
         "Action",
         "Adventure"
       ],
-      "runtime": null,
+      "runtime": 172,
       "cast": [
         "Matt Damon",
         "Tom Holland",
@@ -81,8 +81,8 @@
       "source": "curated",
       "imdbId": "tt33764258",
       "imdbUrl": "https://www.imdb.com/title/tt33764258/",
-      "imdbRating": "8.5",
-      "imdbVotes": 291292
+      "imdbRating": "8.4",
+      "imdbVotes": 505750
     },
     {
       "id": "gdn-2026",
@@ -112,7 +112,9 @@
       "featured": true,
       "source": "curated",
       "imdbId": "tt35712605",
-      "imdbUrl": "https://www.imdb.com/title/tt35712605/"
+      "imdbUrl": "https://www.imdb.com/title/tt35712605/",
+      "imdbRating": "7.6",
+      "imdbVotes": 2637
     },
     {
       "id": "mysaa-2026",
@@ -165,13 +167,13 @@
         "Diganth"
       ],
       "synopsis": "Samantha Ruth Prabhu's theatrical hit — over ₹100 crore worldwide at the box office — makes its digital premiere.",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2a/Maa_Inti_Bangaaram_poster.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2a/Maa_Inti_Bangaaram_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "trailer": "https://www.youtube.com/results?search_query=Maa+Inti+Bangaaram+official+trailer",
       "featured": true,
       "imdbId": "tt32237111",
       "imdbUrl": "https://www.imdb.com/title/tt32237111/",
-      "imdbRating": "7.6",
-      "imdbVotes": 6273,
+      "imdbRating": "7.3",
+      "imdbVotes": 7741,
       "source": "curated"
     },
     {
@@ -203,8 +205,8 @@
       "source": "curated",
       "imdbId": "tt35051401",
       "imdbUrl": "https://www.imdb.com/title/tt35051401/",
-      "imdbRating": "7.4",
-      "imdbVotes": 3186
+      "imdbRating": "7.3",
+      "imdbVotes": 5956
     },
     {
       "id": "fifa-wc-2026-final",
@@ -263,8 +265,8 @@
       "source": "curated",
       "imdbId": "tt11198330",
       "imdbUrl": "https://www.imdb.com/title/tt11198330/",
-      "imdbRating": "8.3",
-      "imdbVotes": 552329
+      "imdbRating": "8.2",
+      "imdbVotes": 570754
     },
     {
       "id": "stuart-fails-to-save-the-universe",
@@ -295,8 +297,8 @@
       "source": "curated",
       "imdbId": "tt27497393",
       "imdbUrl": "https://www.imdb.com/title/tt27497393/",
-      "imdbRating": "6.9",
-      "imdbVotes": 2038
+      "imdbRating": "7.1",
+      "imdbVotes": 9971
     },
     {
       "id": "adarsh-baal-vidyalaya",
@@ -325,8 +327,8 @@
       "source": "curated",
       "imdbId": "tt40856520",
       "imdbUrl": "https://www.imdb.com/title/tt40856520/",
-      "imdbRating": "8.3",
-      "imdbVotes": 2784
+      "imdbRating": "8.1",
+      "imdbVotes": 6957
     },
     {
       "id": "spider-man-brand-new-day",
@@ -363,8 +365,9 @@
       "source": "curated",
       "imdbId": "tt22084616",
       "imdbUrl": "https://www.imdb.com/title/tt22084616/",
-      "imdbRating": "8.2",
-      "imdbVotes": 21857
+      "imdbRating": "8.0",
+      "imdbVotes": 308003,
+      "runtime": 145
     },
     {
       "id": "dc-lokesh-2026",
@@ -395,7 +398,9 @@
       "imdbUrl": "https://www.imdb.com/title/tt37501035/",
       "trailer": "https://www.youtube.com/results?search_query=DC+Lokesh+Kanagaraj+official+trailer",
       "featured": true,
-      "source": "curated"
+      "source": "curated",
+      "imdbRating": "7.9",
+      "imdbVotes": 7899
     },
     {
       "id": "toxic-2026",
@@ -428,7 +433,9 @@
       "featured": true,
       "source": "curated",
       "imdbId": "tt27530512",
-      "imdbUrl": "https://www.imdb.com/title/tt27530512/"
+      "imdbUrl": "https://www.imdb.com/title/tt27530512/",
+      "imdbRating": "4.0",
+      "imdbVotes": 28419
     },
     {
       "id": "mirzapur-the-film",
@@ -462,7 +469,9 @@
       "featured": true,
       "source": "curated",
       "imdbId": "tt34339725",
-      "imdbUrl": "https://www.imdb.com/title/tt34339725/"
+      "imdbUrl": "https://www.imdb.com/title/tt34339725/",
+      "imdbRating": "7.7",
+      "imdbVotes": 6408
     },
     {
       "id": "panchayat-s5",
@@ -495,7 +504,7 @@
       "imdbId": "tt12004706",
       "imdbUrl": "https://www.imdb.com/title/tt12004706/",
       "imdbRating": "9.0",
-      "imdbVotes": 118804
+      "imdbVotes": 119903
     },
     {
       "id": "farzi-s2",
@@ -527,7 +536,7 @@
       "imdbId": "tt15477488",
       "imdbUrl": "https://www.imdb.com/title/tt15477488/",
       "imdbRating": "8.3",
-      "imdbVotes": 56557
+      "imdbVotes": 57326
     },
     {
       "id": "alpha-ducournau",
@@ -559,8 +568,8 @@
       "source": "curated",
       "imdbId": "tt28363783",
       "imdbUrl": "https://www.imdb.com/title/tt28363783/",
-      "imdbRating": "2.9",
-      "imdbVotes": 23924
+      "imdbRating": "3.6",
+      "imdbVotes": 27702
     },
     {
       "id": "minions-monsters",
@@ -589,8 +598,9 @@
       "source": "curated",
       "imdbId": "tt32890033",
       "imdbUrl": "https://www.imdb.com/title/tt32890033/",
-      "imdbRating": "6.5",
-      "imdbVotes": 17345
+      "imdbRating": "6.3",
+      "imdbVotes": 32944,
+      "runtime": 90
     },
     {
       "id": "young-washington",
@@ -616,8 +626,9 @@
       "source": "curated",
       "imdbId": "tt32104007",
       "imdbUrl": "https://www.imdb.com/title/tt32104007/",
-      "imdbRating": "7.5",
-      "imdbVotes": 9203
+      "imdbRating": "6.8",
+      "imdbVotes": 13825,
+      "runtime": 125
     },
     {
       "id": "thrash-2026",
@@ -648,7 +659,7 @@
       "imdbId": "tt32362890",
       "imdbUrl": "https://www.imdb.com/title/tt32362890/",
       "imdbRating": "5.0",
-      "imdbVotes": 31812
+      "imdbVotes": 33705
     },
     {
       "id": "project-hail-mary-stream",
@@ -677,7 +688,8 @@
       "imdbId": "tt12042730",
       "imdbUrl": "https://www.imdb.com/title/tt12042730/",
       "imdbRating": "8.2",
-      "imdbVotes": 470348
+      "imdbVotes": 554761,
+      "runtime": 156
     },
     {
       "id": "silo-s3",
@@ -710,7 +722,7 @@
       "imdbId": "tt14688458",
       "imdbUrl": "https://www.imdb.com/title/tt14688458/",
       "imdbRating": "8.1",
-      "imdbVotes": 223146
+      "imdbVotes": 243288
     },
     {
       "id": "im-not-afraid",
@@ -744,8 +756,8 @@
       "trailer": "https://www.youtube.com/results?search_query=I%27m+Not+Afraid+Netflix+official+trailer",
       "imdbId": "tt36742917",
       "imdbUrl": "https://www.imdb.com/title/tt36742917/",
-      "imdbRating": "6.7",
-      "imdbVotes": 500,
+      "imdbRating": "6.6",
+      "imdbVotes": 684,
       "source": "curated"
     },
     {
@@ -773,7 +785,7 @@
       "imdbId": "tt2431250",
       "imdbUrl": "https://www.imdb.com/title/tt2431250/",
       "imdbRating": "7.3",
-      "imdbVotes": 6131
+      "imdbVotes": 8611
     },
     {
       "id": "moana-live-action",
@@ -804,7 +816,8 @@
       "imdbId": "tt27419466",
       "imdbUrl": "https://www.imdb.com/title/tt27419466/",
       "imdbRating": "5.8",
-      "imdbVotes": 11206
+      "imdbVotes": 17844,
+      "runtime": 115
     },
     {
       "id": "the-invite-a24",
@@ -834,63 +847,9 @@
       "source": "curated",
       "imdbId": "tt14173636",
       "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-      "imdbRating": "7.9",
-      "imdbVotes": 19946
-    },
-    {
-      "id": "tvmaze-68688",
-      "title": "LOL: Kto się śmieje ostatni (Season 4)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-10",
-      "language": "Polish",
-      "country": "",
-      "genres": [
-        "Comedy"
-      ],
-      "season": 4,
-      "episodes": null,
-      "epRuntime": 31,
-      "cast": [],
-      "synopsis": "It's time for the first Polish Prime Video original! Cezary Pazura invites ten comedy stars and entertainment personalities to a unique challenge, where they can't laugh for six hours. Contestants try everything to make others laugh while keeping a poker face at the same time. Th",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/524/1310925.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=LOL%3A+Kto+si%C4%99+%C5%9Bmieje+ostatni+official+trailer",
-      "rating": null,
-      "source": "tvmaze"
-    },
-    {
-      "id": "tvmaze-2709",
-      "title": "Married at First Sight (Season 20)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Peacock",
-      "date": "2026-07-12",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Romance"
-      ],
-      "season": 20,
-      "episodes": 20,
-      "epRuntime": 96,
-      "cast": [],
-      "synopsis": "Married at First Sight is an extreme social experiment that follows six brave singles yearning for a life-long partnership as they agree to a provocative proposal: getting legally married to a complete stranger the moment they first meet. Four specialists – sexologist, Dr. Logan ",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485659.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Married+at+First+Sight+official+trailer",
-      "rating": "3/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt3868860",
-      "imdbUrl": "https://www.imdb.com/title/tt3868860/",
-      "imdbRating": "6.2",
-      "imdbVotes": 2999
+      "imdbRating": "7.5",
+      "imdbVotes": 73342,
+      "runtime": 107
     },
     {
       "id": "wuthering-heights-ott",
@@ -920,7 +879,8 @@
       "imdbId": "tt32897959",
       "imdbUrl": "https://www.imdb.com/title/tt32897959/",
       "imdbRating": "6.1",
-      "imdbVotes": 86441
+      "imdbVotes": 92575,
+      "runtime": 136
     },
     {
       "id": "second-love-reality",
@@ -974,7 +934,7 @@
       "imdbId": "tt39163341",
       "imdbUrl": "https://www.imdb.com/title/tt39163341/",
       "imdbRating": "7.3",
-      "imdbVotes": 483
+      "imdbVotes": 839
     },
     {
       "id": "passenger-2026",
@@ -1000,181 +960,8 @@
       "imdbId": "tt33763941",
       "imdbUrl": "https://www.imdb.com/title/tt33763941/",
       "imdbRating": "5.5",
-      "imdbVotes": 15423
-    },
-    {
-      "id": "tvmaze-802",
-      "title": "WWE Monday Night RAW",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 33,
-      "episodes": null,
-      "epRuntime": 179,
-      "cast": [],
-      "synopsis": "WWE Monday Night RAW is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program du",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568559.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=WWE+Monday+Night+RAW+official+trailer",
-      "rating": "7.5/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt0185103",
-      "imdbUrl": "https://www.imdb.com/title/tt0185103/",
-      "imdbRating": "7.7",
-      "imdbVotes": 11036
-    },
-    {
-      "id": "tvmaze-92750",
-      "title": "Hot Ones: Extra Heat",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Food"
-      ],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": 27,
-      "cast": [],
-      "synopsis": "Hot Ones: Extra Heat challenges celebrity guests to answer spicy questions while eating even spicier wings.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581144.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Hot+Ones%3A+Extra+Heat+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43611663",
-      "imdbUrl": "https://www.imdb.com/title/tt43611663/",
-      "imdbRating": "5.5",
-      "imdbVotes": 76
-    },
-    {
-      "id": "tvmaze-30329",
-      "title": "Home Run Derby (Season 2026)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 2026,
-      "episodes": 1,
-      "epRuntime": 120,
-      "cast": [],
-      "synopsis": "The Home Run Derby is an annual home run hitting contest in Major League Baseball (MLB) customarily held the day before the MLB All-Star Game, which places the contest on a Monday in July. Since the inaugural derby in 1985, the event has seen several rule changes, evolving from a",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/416/1040253.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Home+Run+Derby+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt0135729",
-      "imdbUrl": "https://www.imdb.com/title/tt0135729/",
-      "imdbRating": "8.6",
-      "imdbVotes": 138
-    },
-    {
-      "id": "tvmaze-93075",
-      "title": "Rabbit Hole",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Family"
-      ],
-      "season": 1,
-      "episodes": 10,
-      "epRuntime": 28,
-      "cast": [],
-      "synopsis": "A 36-member cast of the world's most influential creators, including Topper Guild, Zhong, Mackenzie Turner, Matthew Beem and Jesser come together for the ultimate teen variety show.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580563.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Rabbit+Hole+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt38737396",
-      "imdbUrl": "https://www.imdb.com/title/tt38737396/",
-      "imdbRating": "3.5",
-      "imdbVotes": 16
-    },
-    {
-      "id": "tvmaze-67138",
-      "title": "Quarterback (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-14",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Sports"
-      ],
-      "season": 3,
-      "episodes": 7,
-      "epRuntime": 49,
-      "cast": [],
-      "synopsis": "Go inside the huddle and into the homes of Patrick Mahomes, Kirk Cousins, and Marcus Mariota in this candid docuseries following their 2022-23 NFL season.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581074.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Quarterback+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt26777035",
-      "imdbUrl": "https://www.imdb.com/title/tt26777035/",
-      "imdbRating": "8.0",
-      "imdbVotes": 5955
-    },
-    {
-      "id": "tvmaze-92748",
-      "title": "The Real Wolf of Wall Street",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-07-14",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Crime"
-      ],
-      "season": 1,
-      "episodes": 3,
-      "epRuntime": 51,
-      "cast": [],
-      "synopsis": "This three-part documentary reveals the explosive true story that inspired The Wolf of Wall Street.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581128.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Real+Wolf+of+Wall+Street+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt39399104",
-      "imdbUrl": "https://www.imdb.com/title/tt39399104/",
-      "imdbRating": "7.1",
-      "imdbVotes": 223
+      "imdbVotes": 22738,
+      "runtime": 94
     },
     {
       "id": "ride-or-die-prime",
@@ -1203,67 +990,8 @@
       "source": "curated",
       "imdbId": "tt30494226",
       "imdbUrl": "https://www.imdb.com/title/tt30494226/",
-      "imdbRating": "7.6",
-      "imdbVotes": 7899
-    },
-    {
-      "id": "tvmaze-58951",
-      "title": "X-Men '97",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-15",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Action",
-        "Science-Fiction"
-      ],
-      "season": 2,
-      "episodes": null,
-      "epRuntime": 33,
-      "cast": [],
-      "synopsis": "X-Men '97 revisits the iconic era of the 1990s as The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576859.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=X-Men+%2797+official+trailer",
-      "rating": "8/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt16026746",
-      "imdbUrl": "https://www.imdb.com/title/tt16026746/",
-      "imdbRating": "8.7",
-      "imdbVotes": 56544
-    },
-    {
-      "id": "tvmaze-60873",
-      "title": "The Ultimatum: Marry or Move On (Season 4)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-15",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 4,
-      "episodes": 10,
-      "epRuntime": 50,
-      "cast": [],
-      "synopsis": "Get hitched or call it quits? Couples put their love to the test — while shacking up with other potential matches — in a provocative reality series.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/403/1007874.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Ultimatum%3A+Marry+or+Move+On+official+trailer",
-      "rating": "5.6/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt18396952",
-      "imdbUrl": "https://www.imdb.com/title/tt18396952/",
-      "imdbRating": "5.5",
-      "imdbVotes": 3350
+      "imdbRating": "7.5",
+      "imdbVotes": 16697
     },
     {
       "id": "raktanchal-s3",
@@ -1293,69 +1021,7 @@
       "imdbId": "tt12347286",
       "imdbUrl": "https://www.imdb.com/title/tt12347286/",
       "imdbRating": "6.8",
-      "imdbVotes": 8248
-    },
-    {
-      "id": "tvmaze-81",
-      "title": "Criminal Minds",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-07-16",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 19,
-      "episodes": null,
-      "epRuntime": 59,
-      "cast": [],
-      "synopsis": "Criminal Minds revolves around an elite team of FBI profilers who analyze the country's most twisted criminal minds, anticipating their next moves before they strike again.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/626/1567475.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Criminal+Minds+official+trailer",
-      "rating": "8.1/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt0452046",
-      "imdbUrl": "https://www.imdb.com/title/tt0452046/",
-      "imdbRating": "8.1",
-      "imdbVotes": 241389
-    },
-    {
-      "id": "tvmaze-77059",
-      "title": "The Hawk",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-16",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Comedy",
-        "Sports"
-      ],
-      "season": 1,
-      "episodes": 10,
-      "epRuntime": 31,
-      "cast": [],
-      "synopsis": "Lonnie Hawkins, 2004's number one golfer, struggles on the back nine of his career to recapture his magic. His body says retire, but his heart says he's not done yet. His ex-wife and his son Lance, golf's new golden boy, know he's through. But with one more major to win to comple",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/617/1543410.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Hawk+official+trailer",
-      "rating": "5.4/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt27550719",
-      "imdbUrl": "https://www.imdb.com/title/tt27550719/",
-      "imdbRating": "6.4",
-      "imdbVotes": 6968
+      "imdbVotes": 8324
     },
     {
       "id": "transfer-trimurthulu",
@@ -1381,7 +1047,7 @@
       "imdbId": "tt42932774",
       "imdbUrl": "https://www.imdb.com/title/tt42932774/",
       "imdbRating": "6.4",
-      "imdbVotes": 89
+      "imdbVotes": 112
     },
     {
       "id": "agent-kim-reactivated",
@@ -1407,8 +1073,8 @@
       "source": "curated",
       "imdbId": "tt42127457",
       "imdbUrl": "https://www.imdb.com/title/tt42127457/",
-      "imdbRating": "7.7",
-      "imdbVotes": 5155
+      "imdbRating": "7.6",
+      "imdbVotes": 9348
     },
     {
       "id": "sannidhanam-po",
@@ -1441,8 +1107,8 @@
       "source": "curated",
       "imdbId": "tt29429839",
       "imdbUrl": "https://www.imdb.com/title/tt29429839/",
-      "imdbRating": "8.3",
-      "imdbVotes": 965
+      "imdbRating": "6.6",
+      "imdbVotes": 3969
     },
     {
       "id": "the-map-of-longing",
@@ -1468,186 +1134,7 @@
       "imdbId": "tt36495086",
       "imdbUrl": "https://www.imdb.com/title/tt36495086/",
       "imdbRating": "6.8",
-      "imdbVotes": 585
-    },
-    {
-      "id": "tvmaze-53269",
-      "title": "Heartstopper",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-17",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "season": 3,
-      "episodes": null,
-      "epRuntime": 34,
-      "cast": [],
-      "synopsis": "Heartstopper tells the story of Nick and Charlie, two British teens at an all-boys grammar school. Charlie, a highly-strung, openly gay over-thinker, and Nick, a cheerful, soft-hearted rugby player, who one day are made to sit together.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580747.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Heartstopper+official+trailer",
-      "rating": "7.8/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt10638036",
-      "imdbUrl": "https://www.imdb.com/title/tt10638036/",
-      "imdbRating": "8.5",
-      "imdbVotes": 94707
-    },
-    {
-      "id": "tvmaze-92430",
-      "title": "El mapa de los anhelos",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-17",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": 46,
-      "cast": [],
-      "synopsis": "El mapa de los anhelos tells the moving story of Greta, who claims she was born with the purpose of saving her sister Lucy, who suffers from leukemia, through her stem cells. However, events take an unexpected turn and Lucy passes away, leaving Greta with a deep existential void.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/628/1571140.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=El+mapa+de+los+anhelos+official+trailer",
-      "rating": "6.5/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt36495086",
-      "imdbUrl": "https://www.imdb.com/title/tt36495086/",
-      "imdbRating": "6.8",
-      "imdbVotes": 585
-    },
-    {
-      "id": "tvmaze-92790",
-      "title": "Hanzaisha",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-17",
-      "language": "Japanese",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 7,
-      "epRuntime": 44,
-      "cast": [],
-      "synopsis": "Following the sole survivor of a random mass stabbing who is given a mysterious 10-day ultimatum to live, three unlikely allies—a determined detective, an investigative reporter, and the targeted survivor—risk everything to unravel the truth behind a shocking conspiracy hiding in",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1582247.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Hanzaisha+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt42206320",
-      "imdbUrl": "https://www.imdb.com/title/tt42206320/",
-      "imdbRating": "6.4",
-      "imdbVotes": 17
-    },
-    {
-      "id": "tvmaze-93168",
-      "title": "Super Market",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-17",
-      "language": "Italian",
-      "country": "",
-      "genres": [
-        "Comedy"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": 27,
-      "cast": [],
-      "synopsis": "Super Market is the new Italian Prime Original comedy series written and directed by the collective Il Terzo Segreto di Satira on the tragicomic events of Eury, a chaotic neighborhood supermarket that risks closure.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581928.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Super+Market+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43639205",
-      "imdbUrl": "https://www.imdb.com/title/tt43639205/",
-      "imdbRating": "6.7",
-      "imdbVotes": 141
-    },
-    {
-      "id": "tvmaze-93201",
-      "title": "Young Farts Trailer Parts",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-17",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Small-town brothers Jagger and Dawson run Young Farts RV Parts, a multi-million-dollar business where they turn trailer trash into cash. Between outrageous schemes, chaotic stunts, and big-hearted hijinks, these brothers chase one wild idea after the next - all for the love of th",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1582518.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Young+Farts+Trailer+Parts+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt37090886",
-      "imdbUrl": "https://www.imdb.com/title/tt37090886/",
-      "imdbRating": "6.7",
-      "imdbVotes": 113
-    },
-    {
-      "id": "tvmaze-93328",
-      "title": "Heartstopper Forever: The Official Podcast",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-17",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": 5,
-      "epRuntime": 15,
-      "cast": [],
-      "synopsis": "The stars and creators of \"Heartstopper Forever\" discuss the film, look back on the series and answer questions from fans in this official podcast.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585993.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Heartstopper+Forever%3A+The+Official+Podcast+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43689080",
-      "imdbUrl": "https://www.imdb.com/title/tt43689080/"
+      "imdbVotes": 1249
     },
     {
       "id": "spooky-in-love",
@@ -1674,8 +1161,9 @@
       "source": "curated",
       "imdbId": "tt40247521",
       "imdbUrl": "https://www.imdb.com/title/tt40247521/",
-      "imdbRating": "7.7",
-      "imdbVotes": 340
+      "imdbRating": "7.5",
+      "imdbVotes": 2704,
+      "runtime": 70
     },
     {
       "id": "trikala-sunnxt",
@@ -1706,180 +1194,8 @@
       "source": "curated",
       "imdbId": "tt33674441",
       "imdbUrl": "https://www.imdb.com/title/tt33674441/",
-      "imdbRating": "7.9",
-      "imdbVotes": 1155
-    },
-    {
-      "id": "tvmaze-93262",
-      "title": "Cyborg 009: Nemesis",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-19",
-      "language": "Japanese",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "For over half a century since their creation, cyborg warriors have protected humanity from various enemies that threaten peace.However, the battle continues...And now, a group of nine cyborgs known as \"Nemesis\" has emerged, believing that the 009s alone cannot bring peace to the ",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584026.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Cyborg+009%3A+Nemesis+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt37627165",
-      "imdbUrl": "https://www.imdb.com/title/tt37627165/"
-    },
-    {
-      "id": "tvmaze-76694",
-      "title": "The Crow Girl (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-07-20",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 2,
-      "episodes": 6,
-      "epRuntime": 48,
-      "cast": [],
-      "synopsis": "The Crow Girl begins with the gruesome discovery of a teenage boy's body discarded in plain sight. Determined to find who is responsible, DCI Jeanette Kilburn joins forces with psychotherapist Dr Sophia Craven to hunt the killer despite opposition from her superiors including con",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577245.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Crow+Girl+official+trailer",
-      "rating": "7/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt30063915",
-      "imdbUrl": "https://www.imdb.com/title/tt30063915/",
-      "imdbRating": "6.8",
-      "imdbVotes": 4955
-    },
-    {
-      "id": "tvmaze-115",
-      "title": "King of the Hill (Season 15)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-07-20",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Comedy"
-      ],
-      "season": 15,
-      "episodes": 10,
-      "epRuntime": 30,
-      "cast": [],
-      "synopsis": "King of the Hill depicts the life and times of Hank Hill, his family, and their neighbors in the fictional suburb of Arlen, Texas, the heartland of America. A hard-working, loyal family man and proud Texan, Hank always strives to be a voice of common sense and reason. After years",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583514.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=King+of+the+Hill+official+trailer",
-      "rating": "7.5/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt0118375",
-      "imdbUrl": "https://www.imdb.com/title/tt0118375/",
       "imdbRating": "7.6",
-      "imdbVotes": 66393
-    },
-    {
-      "id": "tvmaze-8910",
-      "title": "Mark Twain Prize for American Humor (Season 2026)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-21",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 2026,
-      "episodes": 1,
-      "epRuntime": 90,
-      "cast": [],
-      "synopsis": "The Mark Twain Prize for American Humor (aka: The Mark Twain Prize) is an American award for humor awarded by the John F. Kennedy Center for the Performing Arts annually since 1998. It is named after the 19th century novelist, essayist and humorist Mark Twain and is presented to ",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/453/1132829.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Mark+Twain+Prize+for+American+Humor+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43699654",
-      "imdbUrl": "https://www.imdb.com/title/tt43699654/",
-      "imdbRating": "6.6",
-      "imdbVotes": 31
-    },
-    {
-      "id": "tvmaze-69216",
-      "title": "Teen Mom UK: Next Generation (Season 4)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-07-21",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 4,
-      "episodes": null,
-      "epRuntime": 60,
-      "cast": [],
-      "synopsis": "There's a new generation of teen moms on the scene. Baby daddy drama, family feuds and mothering missteps are just the start for our girls.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/464/1161577.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Teen+Mom+UK%3A+Next+Generation+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt28018364",
-      "imdbUrl": "https://www.imdb.com/title/tt28018364/",
-      "imdbRating": "5.5",
-      "imdbVotes": 30
-    },
-    {
-      "id": "tvmaze-84228",
-      "title": "WWE: Unreal (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-21",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Sports"
-      ],
-      "season": 3,
-      "episodes": 5,
-      "epRuntime": 57,
-      "cast": [],
-      "synopsis": "See John Cena, Cody Rhodes, Rhea Ripley and other Superstars like never before in this unprecedented backstage look at the WWE Universe.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583403.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=WWE%3A+Unreal+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt36614693",
-      "imdbUrl": "https://www.imdb.com/title/tt36614693/",
-      "imdbRating": "8.0",
-      "imdbVotes": 2610
+      "imdbVotes": 1180
     },
     {
       "id": "a-shop-for-killers-s2",
@@ -1910,160 +1226,7 @@
       "imdbId": "tt26450613",
       "imdbUrl": "https://www.imdb.com/title/tt26450613/",
       "imdbRating": "8.0",
-      "imdbVotes": 10965
-    },
-    {
-      "id": "tvmaze-92905",
-      "title": "GIGN",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-22",
-      "language": "French",
-      "country": "",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": 49,
-      "cast": [],
-      "synopsis": "After an unprecedented attack on his elite unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577160.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=GIGN+official+trailer",
-      "rating": "7.1/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt35495063",
-      "imdbUrl": "https://www.imdb.com/title/tt35495063/",
-      "imdbRating": "6.3",
-      "imdbVotes": 1517
-    },
-    {
-      "id": "tvmaze-93219",
-      "title": "El otro padre",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-22",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Family"
-      ],
-      "season": 1,
-      "episodes": 10,
-      "epRuntime": 43,
-      "cast": [],
-      "synopsis": "With her daughter's life on the line, a doctor's search for a kidney donor exposes a secret affair and a DNA test that could shatter two families.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1582988.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=El+otro+padre+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt39390494",
-      "imdbUrl": "https://www.imdb.com/title/tt39390494/",
-      "imdbRating": "5.5",
-      "imdbVotes": 246
-    },
-    {
-      "id": "tvmaze-73223",
-      "title": "Ransom Canyon (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-23",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Western"
-      ],
-      "season": 2,
-      "episodes": 8,
-      "epRuntime": 46,
-      "cast": [],
-      "synopsis": "Ransom Canyon is a romance-fueled family drama and contemporary western saga that charts the intersecting lives of three ranching families, all set against the rugged expanse of Texas Hill Country.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583807.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Ransom+Canyon+official+trailer",
-      "rating": "7.2/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt28088031",
-      "imdbUrl": "https://www.imdb.com/title/tt28088031/",
-      "imdbRating": "6.8",
-      "imdbVotes": 11204
-    },
-    {
-      "id": "tvmaze-75519",
-      "title": "Kaulitz & Kaulitz (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-23",
-      "language": "German",
-      "country": "",
-      "genres": [
-        "Music"
-      ],
-      "season": 3,
-      "episodes": 8,
-      "epRuntime": 46,
-      "cast": [],
-      "synopsis": "Bill and Tom Kaulitz bring us close to their life as Tokio Hotel frontmen, podcast hosts and close-knit twins, and to the highs and lows of fame.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/524/1312284.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Kaulitz+%26+Kaulitz+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt31806050",
-      "imdbUrl": "https://www.imdb.com/title/tt31806050/",
-      "imdbRating": "7.1",
-      "imdbVotes": 1404
-    },
-    {
-      "id": "tvmaze-93204",
-      "title": "Come Dine with Me: Celebrity Philippines",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "HBO Max",
-      "date": "2026-07-23",
-      "language": "Tagalog",
-      "country": "",
-      "genres": [
-        "Food"
-      ],
-      "season": 1,
-      "episodes": 20,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "A group of celebrities take turns hosting their own dinner parties and grading each other. Over the week they battle for the title of best host, and the chance to win a grand cash prize for their chosen charity.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1582551.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Come+Dine+with+Me%3A+Celebrity+Philippines+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43595717",
-      "imdbUrl": "https://www.imdb.com/title/tt43595717/"
+      "imdbVotes": 12560
     },
     {
       "id": "evil-dead-burn",
@@ -2092,8 +1255,9 @@
       "source": "curated",
       "imdbId": "tt31170389",
       "imdbUrl": "https://www.imdb.com/title/tt31170389/",
-      "imdbRating": "6.6",
-      "imdbVotes": 21132
+      "imdbRating": "6.3",
+      "imdbVotes": 47957,
+      "runtime": 110
     },
     {
       "id": "star-trek-snw-new-season",
@@ -2148,8 +1312,8 @@
       "source": "curated",
       "imdbId": "tt10515398",
       "imdbUrl": "https://www.imdb.com/title/tt10515398/",
-      "imdbRating": "6.1",
-      "imdbVotes": 4438
+      "imdbRating": "5.9",
+      "imdbVotes": 4750
     },
     {
       "id": "musafir-cafe",
@@ -2177,995 +1341,8 @@
       "source": "curated",
       "imdbId": "tt39665097",
       "imdbUrl": "https://www.imdb.com/title/tt39665097/",
-      "imdbRating": "7.8",
-      "imdbVotes": 2448
-    },
-    {
-      "id": "tvmaze-93281",
-      "title": "Soy Luna: Volver a Rodar",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-24",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Music"
-      ],
-      "season": 1,
-      "episodes": 12,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Luna faces fresh challenges and personal conflicts after an accident forces her away from the skating rink. The story features new songs alongside re-imagined versions of beloved tracks from the original series.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584300.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Soy+Luna%3A+Volver+a+Rodar+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt41515375",
-      "imdbUrl": "https://www.imdb.com/title/tt41515375/",
-      "imdbRating": "3.3",
-      "imdbVotes": 307
-    },
-    {
-      "id": "tvmaze-93304",
-      "title": "Locker Diaries: Descendants",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-25",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Fantasy"
-      ],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Glimpse the drama happening in the school hallways of Auradon Prep and discover the secret adventures that unfold.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584958.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Locker+Diaries%3A+Descendants+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt41880577",
-      "imdbUrl": "https://www.imdb.com/title/tt41880577/",
-      "imdbRating": "8.4",
-      "imdbVotes": 30
-    },
-    {
-      "id": "tvmaze-87753",
-      "title": "Furious",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-07-27",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 8,
-      "epRuntime": 53,
-      "cast": [],
-      "synopsis": "Furious follows an FBI agent, Alice Black, on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585631.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Furious+official+trailer",
-      "rating": "7/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt36303968",
-      "imdbUrl": "https://www.imdb.com/title/tt36303968/",
-      "imdbRating": "7.4",
-      "imdbVotes": 1273
-    },
-    {
-      "id": "tvmaze-91604",
-      "title": "Bloody Smart",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-28",
-      "language": "Chinese",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": 10,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "In a town where strict rules shape students into their \"best selves,\" a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly \"need\" them. Once received, they awaken long-suppressed desires—gently unravelling the heart",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586273.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Bloody+Smart+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt39496157",
-      "imdbUrl": "https://www.imdb.com/title/tt39496157/",
-      "imdbRating": "5.2",
-      "imdbVotes": 32
-    },
-    {
-      "id": "tvmaze-46457",
-      "title": "The Proud Family: Louder and Prouder (Season 4)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-29",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 4,
-      "episodes": null,
-      "epRuntime": 29,
-      "cast": [],
-      "synopsis": "A continuation of the acclaimed series, \"The Proud Family: Louder and Prouder\" follows the adventures and misadventures of newly 14-year-old Penny Proud and her Proud Family as they navigate modern life with hilarity and heart. The 2020s brings new career highs for mom Trudy, wil",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573761.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Proud+Family%3A+Louder+and+Prouder+official+trailer",
-      "rating": "8/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt11871764",
-      "imdbUrl": "https://www.imdb.com/title/tt11871764/",
-      "imdbRating": "3.3",
-      "imdbVotes": 5640
-    },
-    {
-      "id": "tvmaze-69170",
-      "title": "Diarra from Detroit (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-07-29",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Mystery"
-      ],
-      "season": 2,
-      "episodes": 8,
-      "epRuntime": 43,
-      "cast": [],
-      "synopsis": "Diarra from Detroit follows a divorcing schoolteacher who refuses to believe she's been ghosted by her rebound Tinder date. Her search for the missing man pulls her into a decades-old mystery involving the Detroit underworld. As the case unfolds, her co-workers, friends, and love",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/507/1269977.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Diarra+from+Detroit+official+trailer",
-      "rating": "5.8/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt27982433",
-      "imdbUrl": "https://www.imdb.com/title/tt27982433/",
-      "imdbRating": "7.7",
-      "imdbVotes": 809
-    },
-    {
-      "id": "tvmaze-92414",
-      "title": "Fúria",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-29",
-      "language": "Portuguese",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Sports"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": 50,
-      "cast": [],
-      "synopsis": "Fúria tells the story of a young man rescued from the brink of death by an MMA coach. With no memory of his own identity, he is given the name Marcelo and finds a new purpose in the world of MMA. But as he is drawn deeper into this universe, he begins to uncover clues to his past",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/628/1570807.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=F%C3%BAria+official+trailer",
-      "rating": null,
-      "source": "tvmaze"
-    },
-    {
-      "id": "tvmaze-93275",
-      "title": "Proyecto Final",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-29",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 20,
-      "epRuntime": 8,
-      "cast": [],
-      "synopsis": "New school, new start — until vicious online attacks and a classmate's twisted challenge spark a dangerous bond that pushes Tamara toward transformation.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584214.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Proyecto+Final+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43640818",
-      "imdbUrl": "https://www.imdb.com/title/tt43640818/",
-      "imdbRating": "6.0",
-      "imdbVotes": 37
-    },
-    {
-      "id": "tvmaze-93337",
-      "title": "The Idaho Murders: College Nightmare",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-29",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Crime"
-      ],
-      "season": 1,
-      "episodes": 3,
-      "epRuntime": 44,
-      "cast": [],
-      "synopsis": "From the crime scene to the courtroom, this true-crime series unpacks the University of Idaho murders and the hunt for Bryan Kohberger in forensic detail.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586326.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Idaho+Murders%3A+College+Nightmare+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43680755",
-      "imdbUrl": "https://www.imdb.com/title/tt43680755/",
-      "imdbRating": "6.9",
-      "imdbVotes": 497
-    },
-    {
-      "id": "tvmaze-93347",
-      "title": "Murder Club: Liar's Table",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-29",
-      "language": "Korean",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586548.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Murder+Club%3A+Liar%27s+Table+official+trailer",
-      "rating": null,
-      "source": "tvmaze"
-    },
-    {
-      "id": "tvmaze-93242",
-      "title": "20/20 Britain's Most Notorious Crime Investigations",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-30",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Crime"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "A Greek paradise turns tragic. A dangerous killer could be living next door. Romance and religion are tied to the death of two elderly neighbors. A serial killer is discovered hidden in plain sight. The Royal family is linked to a deadly scandal. A high-speed car chase turns dead",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586641.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=20%2F20+Britain%27s+Most+Notorious+Crime+Investigations+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43715777",
-      "imdbUrl": "https://www.imdb.com/title/tt43715777/"
-    },
-    {
-      "id": "tvmaze-55415",
-      "title": "Batman: Caped Crusader (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-31",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Action",
-        "Crime"
-      ],
-      "season": 2,
-      "episodes": 10,
-      "epRuntime": 26,
-      "cast": [],
-      "synopsis": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the BATMAN. His one-man crus",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/529/1323819.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Batman%3A+Caped+Crusader+official+trailer",
-      "rating": "7.3/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt14681596",
-      "imdbUrl": "https://www.imdb.com/title/tt14681596/",
-      "imdbRating": "7.2",
-      "imdbVotes": 17121
-    },
-    {
-      "id": "tvmaze-93044",
-      "title": "ESPN Jeopardy!",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-07-31",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586854.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=ESPN+Jeopardy%21+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt41983415",
-      "imdbUrl": "https://www.imdb.com/title/tt41983415/"
-    },
-    {
-      "id": "tvmaze-50415",
-      "title": "Lioness (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-08-02",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Espionage"
-      ],
-      "season": 3,
-      "episodes": 8,
-      "epRuntime": 46,
-      "cast": [],
-      "synopsis": "Lioness, inspired by an actual U.S. Military program, follows the life of Joe while she attempts to balance her personal and professional life as the tip of the CIA's spear in the war on terror. The Lioness Program, overseen by Kaitlyn Meade and Donald Westfield, enlists an aggre",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584748.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Lioness+official+trailer",
-      "rating": "7.6/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt13111078",
-      "imdbUrl": "https://www.imdb.com/title/tt13111078/",
-      "imdbRating": "7.8",
-      "imdbVotes": 89317
-    },
-    {
-      "id": "tvmaze-538",
-      "title": "Futurama (Season 14)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-08-03",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Science-Fiction"
-      ],
-      "season": 14,
-      "episodes": 10,
-      "epRuntime": 29,
-      "cast": [],
-      "synopsis": "Futurama follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet Express delivery crew, Fry travels to the farthest reaches of the universe with his robot buddy Bender and cyclopsian love interest Leela, di",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584696.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Futurama+official+trailer",
-      "rating": "8.6/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt0149460",
-      "imdbUrl": "https://www.imdb.com/title/tt0149460/",
-      "imdbRating": "8.5",
-      "imdbVotes": 279407
-    },
-    {
-      "id": "tvmaze-88841",
-      "title": "Ravu Jôtô (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-04",
-      "language": "Japanese",
-      "country": "",
-      "genres": [
-        "Romance"
-      ],
-      "season": 2,
-      "episodes": 10,
-      "epRuntime": 44,
-      "cast": [],
-      "synopsis": "In Japan's first dating show for rebellious yankiis, 11 singles butt heads, forge bonds and live together for 14 days as they go all out to find the one.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/604/1510943.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Ravu+J%C3%B4t%C3%B4+official+trailer",
-      "rating": null,
-      "source": "tvmaze"
-    },
-    {
-      "id": "tvmaze-69808",
-      "title": "Betrayal (Season 4)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-08-04",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Crime"
-      ],
-      "season": 4,
-      "episodes": null,
-      "epRuntime": 44,
-      "cast": [],
-      "synopsis": "Betrayal details real-life fairytales gone horribly wrong, cautionary tales of deceitful relationships that have destroyed the lives of those involved.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/529/1323675.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Betrayal+official+trailer",
-      "rating": "4.3/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt34258509",
-      "imdbUrl": "https://www.imdb.com/title/tt34258509/",
-      "imdbRating": "6.1",
-      "imdbVotes": 1286
-    },
-    {
-      "id": "tvmaze-2100",
-      "title": "The Challenge (Season 42)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Paramount+",
-      "date": "2026-08-05",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "season": 42,
-      "episodes": null,
-      "epRuntime": 66,
-      "cast": [],
-      "synopsis": "Set in the middle of the jungle, \"The Challenge: War of the Worlds 2\" returns to a classic team format; 14 Brits will battle it out against 14 Americans for their share of the $1 million-dollar prize.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1582759.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Challenge+official+trailer",
-      "rating": "8/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt0176095",
-      "imdbUrl": "https://www.imdb.com/title/tt0176095/",
-      "imdbRating": "8.1",
-      "imdbVotes": 5122
-    },
-    {
-      "id": "tvmaze-41256",
-      "title": "Cien años de soledad (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-05",
-      "language": "Spanish",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "season": 2,
-      "episodes": null,
-      "epRuntime": 64,
-      "cast": [],
-      "synopsis": "The story of the Buendia family, who lived for a century in the town of Macondo.It will be the first time that Gabriel García Márquez's seminal novel One Hundred Years of Solitude is adapted for the screen, more than 50 years after it was originally published, in 1967.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/543/1357566.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Cien+a%C3%B1os+de+soledad+official+trailer",
-      "rating": "6.9/10 TVMaze",
-      "source": "tvmaze"
-    },
-    {
-      "id": "tvmaze-72655",
-      "title": "1670 (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-05",
-      "language": "Polish",
-      "country": "",
-      "genres": [
-        "Comedy",
-        "History"
-      ],
-      "season": 3,
-      "episodes": null,
-      "epRuntime": 35,
-      "cast": [],
-      "synopsis": "In this satirical comedy, a zany nobleman navigates through family feuds and clashes with peasants in his quest to become Poland's most famous figure.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/587/1468938.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=1670+official+trailer",
-      "rating": "7.5/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt29420686",
-      "imdbUrl": "https://www.imdb.com/title/tt29420686/",
-      "imdbRating": "7.9",
-      "imdbVotes": 9712
-    },
-    {
-      "id": "tvmaze-82911",
-      "title": "Sterling Point",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-08-05",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama"
-      ],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Raised in New York City with her twin brother and loving adoptive father, 17-year-old Annie Jacobson experiences a life turn when she inherits her mysterious grandfather's island in Canada. There, she finds new friends, budding romance romances and untold family secrets.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586041.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Sterling+Point+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt35618070",
-      "imdbUrl": "https://www.imdb.com/title/tt35618070/"
-    },
-    {
-      "id": "tvmaze-84988",
-      "title": "Star Wars: Visions Presents — The Ninth Jedi",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+",
-      "date": "2026-08-05",
-      "language": "Japanese",
-      "country": "",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Anime",
-        "Science-Fiction"
-      ],
-      "season": 1,
-      "episodes": 8,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Part of an all-new Star Wars: Visions Presents banner, which will be used to tell longer-form Star Wars: Visions stories, the limited series picks up not long after the events of the Visions shorts: \"The Ninth Jedi\" and \"The Ninth Jedi: Child of Hope\". In the new series, Lah Kara",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577469.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Star+Wars%3A+Visions+Presents+%E2%80%94+The+Ninth+Jedi+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43337681",
-      "imdbUrl": "https://www.imdb.com/title/tt43337681/"
-    },
-    {
-      "id": "tvmaze-68193",
-      "title": "The Shards",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Hulu",
-      "date": "2026-08-05",
-      "language": "English",
-      "country": "United States",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 10,
-      "epRuntime": 60,
-      "cast": [],
-      "synopsis": "Set against the vivid backdrop of 1980s Los Angeles, the series follows a group of privileged high school seniors at an elite prep school as they navigate identity, sex, jealousy, obsession and the dangers lurking beneath the surface of American adolescence.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584649.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Shards+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt27543562",
-      "imdbUrl": "https://www.imdb.com/title/tt27543562/"
-    },
-    {
-      "id": "tvmaze-60523",
-      "title": "My Life With the Walter Boys (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-06",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "season": 3,
-      "episodes": 10,
-      "epRuntime": 45,
-      "cast": [],
-      "synopsis": "In the coming of age show, following the loss of her family in a tragic accident, 16-year old Manhattanite Jackie Howard has to learn to adapt to a new life in rural Colorado with her guardian – and 12 very rowdy kids.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/584/1462354.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=My+Life+With+the+Walter+Boys+official+trailer",
-      "rating": "7/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt8323628",
-      "imdbUrl": "https://www.imdb.com/title/tt8323628/",
-      "imdbRating": "6.8",
-      "imdbVotes": 26727
-    },
-    {
-      "id": "tvmaze-91086",
-      "title": "Our Sticky Love",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-07",
-      "language": "Korean",
-      "country": "",
-      "genres": [],
-      "season": 1,
-      "episodes": null,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/619/1549143.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Our+Sticky+Love+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt36955608",
-      "imdbUrl": "https://www.imdb.com/title/tt36955608/"
-    },
-    {
-      "id": "tvmaze-91116",
-      "title": "Ricky Gervais Alley Cats",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-07",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Comedy"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Follows the challenges of a group of feral British cats who seek companionship.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573487.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Ricky+Gervais+Alley+Cats+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt38264832",
-      "imdbUrl": "https://www.imdb.com/title/tt38264832/"
-    },
-    {
-      "id": "tvmaze-93357",
-      "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-07",
-      "language": "Hindi",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Action",
-        "War"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586617.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Operation+Safed+Sagar%3A+The+Untold+Story+of+the+Kargil+War+official+trailer",
-      "rating": null,
-      "source": "tvmaze"
-    },
-    {
-      "id": "tvmaze-82663",
-      "title": "The Chosen in the Wild with Bear Grylls",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-08-09",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Adventure"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "The series follows the cast of the groundbreaking historical drama The Chosen as they take on challenges across forests, deserts, and canyons.  Cast members Jonathan Roumie (Jesus), Paras Patel (Matthew), Elizabeth Tabish (Mary Magdalene), Noah James (Andrew), and Luke Dimyan (Ju",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585071.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Chosen+in+the+Wild+with+Bear+Grylls+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt35781996",
-      "imdbUrl": "https://www.imdb.com/title/tt35781996/"
-    },
-    {
-      "id": "tvmaze-59007",
-      "title": "The Real Housewives: Ultimate Girls Trip (Season 5)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Peacock",
-      "date": "2026-08-09",
-      "language": "English",
-      "country": "United States",
-      "genres": [],
-      "season": 5,
-      "episodes": null,
-      "epRuntime": 49,
-      "cast": [],
-      "synopsis": "For the first time in television history, Bravo universes collide as iconic Housewives from different cities come together for the ultimate girls' trip to beautiful Turks and Caicos.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/492/1230471.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Real+Housewives%3A+Ultimate+Girls+Trip+official+trailer",
-      "rating": "4.7/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt15614920",
-      "imdbUrl": "https://www.imdb.com/title/tt15614920/",
-      "imdbRating": "7.1",
-      "imdbVotes": 947
-    },
-    {
-      "id": "tvmaze-86362",
-      "title": "Dr. Seuss's Red Fish, Blue Fish (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-10",
-      "language": "English",
-      "country": "",
-      "genres": [],
-      "season": 3,
-      "episodes": null,
-      "epRuntime": 8,
-      "cast": [],
-      "synopsis": "Building a snowman under the sea? Meeting a shark and serving him tea? Red and Blue's days are full of surprises, with ocean pals of all shapes and sizes!",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/587/1467502.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Dr.+Seuss%27s+Red+Fish%2C+Blue+Fish+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt18940264",
-      "imdbUrl": "https://www.imdb.com/title/tt18940264/",
-      "imdbRating": "6.5",
-      "imdbVotes": 86
-    },
-    {
-      "id": "tvmaze-93356",
-      "title": "Mourinho",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-11",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Sports"
-      ],
-      "season": 1,
-      "episodes": 3,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "No career in football has generated more masterstrokes, headlines or contradictions. Twenty years on from the night he shocked the sporting world by leading FC Porto to Champions League glory, José Mourinho has gone on to manage some of the biggest clubs on the planet — from Chel",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586742.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Mourinho+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt43673968",
-      "imdbUrl": "https://www.imdb.com/title/tt43673968/"
-    },
-    {
-      "id": "tvmaze-43031",
-      "title": "Reacher (Season 4)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-08-12",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Action",
-        "Thriller"
-      ],
-      "season": 4,
-      "episodes": 8,
-      "epRuntime": 50,
-      "cast": [],
-      "synopsis": "Reacher follows Jack Reacher, a veteran military police investigator who has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served. When Reacher arrives in the sma",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1582513.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Reacher+official+trailer",
-      "rating": "8.2/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt9288030",
-      "imdbUrl": "https://www.imdb.com/title/tt9288030/",
-      "imdbRating": "8.0",
-      "imdbVotes": 299018
-    },
-    {
-      "id": "tvmaze-74979",
-      "title": "Tires (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-13",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Comedy"
-      ],
-      "season": 3,
-      "episodes": null,
-      "epRuntime": 23,
-      "cast": [],
-      "synopsis": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/520/1300772.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Tires+official+trailer",
-      "rating": "5.1/10 TVMaze",
-      "source": "tvmaze",
-      "imdbId": "tt31491435",
-      "imdbUrl": "https://www.imdb.com/title/tt31491435/",
       "imdbRating": "7.6",
-      "imdbVotes": 21339
-    },
-    {
-      "id": "tvmaze-85474",
-      "title": "My Brilliant Career",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-08-13",
-      "language": "English",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Romance",
-        "History"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": null,
-      "cast": [],
-      "synopsis": "Sybylla is a shockingly modern young woman with one searing ambition - to be a writer, while her family is determined to marry her off. With an irrepressible taste for fun, Sybylla breaks every convention of 1900 Australia as she searches for a story that will allow her to write ",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583365.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=My+Brilliant+Career+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt37352716",
-      "imdbUrl": "https://www.imdb.com/title/tt37352716/"
+      "imdbVotes": 6831
     },
     {
       "id": "batwara-1947",
@@ -3191,7 +1368,9 @@
       "trailer": "https://www.youtube.com/results?search_query=Batwara+1947+Sunny+Deol+trailer",
       "source": "curated",
       "imdbId": "tt29330744",
-      "imdbUrl": "https://www.imdb.com/title/tt29330744/"
+      "imdbUrl": "https://www.imdb.com/title/tt29330744/",
+      "imdbRating": "4.5",
+      "imdbVotes": 3521
     },
     {
       "id": "awarapan-2",
@@ -3219,11 +1398,13 @@
       "trailer": "https://www.youtube.com/results?search_query=Awarapan+2+official+trailer",
       "source": "curated",
       "imdbId": "tt36300841",
-      "imdbUrl": "https://www.imdb.com/title/tt36300841/"
+      "imdbUrl": "https://www.imdb.com/title/tt36300841/",
+      "imdbRating": "6.4",
+      "imdbVotes": 12556
     },
     {
-      "id": "tvmaze-93191",
-      "title": "Umthetho",
+      "id": "tvmaze-64992",
+      "title": "The Gentlemen (Season 2)",
       "type": "series",
       "medium": "ott",
       "audience": [
@@ -3231,8 +1412,1844 @@
         "india"
       ],
       "platform": "Netflix",
-      "date": "2026-08-14",
-      "language": "Afrikaans",
+      "date": "2026-09-03",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "season": 2,
+      "episodes": 8,
+      "epRuntime": 53,
+      "cast": [],
+      "synopsis": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603070.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Gentlemen+official+trailer",
+      "rating": "7.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt13210838",
+      "imdbUrl": "https://www.imdb.com/title/tt13210838/",
+      "imdbRating": "8.1",
+      "imdbVotes": 199046
+    },
+    {
+      "id": "tvmaze-93947",
+      "title": "Jagamae Sangeetham",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-03",
+      "language": "Telugu",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "A young Carnatic prodigy carries the weight of his grandfather's name and his family's survival. As financial pressure mounts and a long-buried family conflict resurfaces through his uncle Thyagaraju, Balu is pushed to question everything he's been trained to honor. An unexpected",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599390.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Jagamae+Sangeetham+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt40857865",
+      "imdbUrl": "https://www.imdb.com/title/tt40857865/",
+      "imdbRating": "4.8",
+      "imdbVotes": 44
+    },
+    {
+      "id": "tvmaze-94490",
+      "title": "Good Luck Guys: Overleven zonder filter (Season 4)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-03",
+      "language": "Dutch",
+      "country": "",
+      "genres": [],
+      "season": 4,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "In this program, an unexpected group of heroes embark on the adventure of a lifetime. Surviving on a deserted beach on the other side of the world. They all have some form of fame, but once on the beach that no longer matters and they have to rely on themselves. Completely outsid",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604034.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Good+Luck+Guys%3A+Overleven+zonder+filter+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-74865",
+      "title": "Chad Powers (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-09-03",
+      "language": "English",
+      "country": "United States",
+      "genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "season": 2,
+      "episodes": 6,
+      "epRuntime": 33,
+      "cast": [],
+      "synopsis": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers — a talented oddball who walks onto the struggling South Georgia Catfish.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599358.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Chad+Powers+official+trailer",
+      "rating": "6.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt31449991",
+      "imdbUrl": "https://www.imdb.com/title/tt31449991/",
+      "imdbRating": "7.6",
+      "imdbVotes": 18425
+    },
+    {
+      "id": "tvmaze-68789",
+      "title": "Conan O'Brien Must Go",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-04",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Travel"
+      ],
+      "season": 3,
+      "episodes": null,
+      "epRuntime": 43,
+      "cast": [],
+      "synopsis": "In this riotously funny travel series, Conan O'Brien experiences local cultures and connects with fans he previously met on his podcast.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/637/1594478.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Conan+O%27Brien+Must+Go+official+trailer",
+      "rating": "8/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt27790101",
+      "imdbUrl": "https://www.imdb.com/title/tt27790101/",
+      "imdbRating": "8.2",
+      "imdbVotes": 5765
+    },
+    {
+      "id": "tvmaze-93811",
+      "title": "The Program: Texas Tech",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-04",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Sports"
+      ],
+      "season": 1,
+      "episodes": 4,
+      "epRuntime": 44,
+      "cast": [],
+      "synopsis": "The Program: Texas Tech gives unprecedented access into the Texas Tech University Red Raiders College Football Program - including exclusive interviews with head coach Joey McGuire, former quarterback Brendan Sorsby, Chairman of the Texas Tech University System Board of Regents C",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599662.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Program%3A+Texas+Tech+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt43630864",
+      "imdbUrl": "https://www.imdb.com/title/tt43630864/",
+      "imdbRating": "8.6",
+      "imdbVotes": 45
+    },
+    {
+      "id": "tvmaze-93855",
+      "title": "Earle Meets World",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-04",
+      "language": "English",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 38,
+      "cast": [],
+      "synopsis": "Candid, chaotic and still getting started, influencer Alix Earle navigates breakups, best friends and a unique blended family in this reality series.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597787.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Earle+Meets+World+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt42654265",
+      "imdbUrl": "https://www.imdb.com/title/tt42654265/",
+      "imdbRating": "5.2",
+      "imdbVotes": 399
+    },
+    {
+      "id": "tvmaze-93948",
+      "title": "The Grand Tour",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-04",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Comedy",
+        "Adventure"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": 52,
+      "cast": [],
+      "synopsis": "Welcome to The Grand Tour. The world's greatest motoring show returns with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599893.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Grand+Tour+official+trailer",
+      "rating": "4.2/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt44974627",
+      "imdbUrl": "https://www.imdb.com/title/tt44974627/",
+      "imdbRating": "8.2",
+      "imdbVotes": 2151
+    },
+    {
+      "id": "tvmaze-50415",
+      "title": "Lioness",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-06",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Espionage"
+      ],
+      "season": 3,
+      "episodes": null,
+      "epRuntime": 49,
+      "cast": [],
+      "synopsis": "Lioness, inspired by an actual U.S. Military program, follows the life of Joe while she attempts to balance her personal and professional life as the tip of the CIA's spear in the war on terror. The Lioness Program, overseen by Kaitlyn Meade and Donald Westfield, enlists an aggre",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/635/1587727.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Lioness+official+trailer",
+      "rating": "7.7/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt13111078",
+      "imdbUrl": "https://www.imdb.com/title/tt13111078/",
+      "imdbRating": "7.8",
+      "imdbVotes": 100164
+    },
+    {
+      "id": "tvmaze-802",
+      "title": "WWE Monday Night RAW",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-07",
+      "language": "English",
+      "country": "",
+      "genres": [],
+      "season": 33,
+      "episodes": null,
+      "epRuntime": 179,
+      "cast": [],
+      "synopsis": "WWE Monday Night RAW is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program du",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568559.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=WWE+Monday+Night+RAW+official+trailer",
+      "rating": "7.5/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt0185103",
+      "imdbUrl": "https://www.imdb.com/title/tt0185103/",
+      "imdbRating": "7.7",
+      "imdbVotes": 11075
+    },
+    {
+      "id": "tvmaze-49859",
+      "title": "Alle mot alle (Season 13)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-07",
+      "language": "Norwegian",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 13,
+      "episodes": 48,
+      "epRuntime": 43,
+      "cast": [],
+      "synopsis": "Who are the smartest celebrities that Norway has to offer? Norwegian celebs meet for a very hard and entertaining educational battle, led by Henriette Steenstrup and Jon Almaas.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/435/1089982.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Alle+mot+alle+official+trailer",
+      "rating": "6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt13085650",
+      "imdbUrl": "https://www.imdb.com/title/tt13085650/",
+      "imdbRating": "7.4",
+      "imdbVotes": 124
+    },
+    {
+      "id": "tvmaze-93921",
+      "title": "Colisión",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-07",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": 42,
+      "cast": [],
+      "synopsis": "When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603475.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Colisi%C3%B3n+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt38116565",
+      "imdbUrl": "https://www.imdb.com/title/tt38116565/",
+      "imdbRating": "4.4",
+      "imdbVotes": 48
+    },
+    {
+      "id": "tvmaze-538",
+      "title": "Futurama",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-09-07",
+      "language": "English",
+      "country": "United States",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Science-Fiction"
+      ],
+      "season": 14,
+      "episodes": null,
+      "epRuntime": 29,
+      "cast": [],
+      "synopsis": "Futurama follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet Express delivery crew, Fry travels to the farthest reaches of the universe with his robot buddy Bender and cyclopsian love interest Leela, di",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584696.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Futurama+official+trailer",
+      "rating": "8.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt0149460",
+      "imdbUrl": "https://www.imdb.com/title/tt0149460/",
+      "imdbRating": "8.5",
+      "imdbVotes": 280620
+    },
+    {
+      "id": "tvmaze-13184",
+      "title": "71° nord - Norges tøffeste kjendis (Season 18)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-08",
+      "language": "Norwegian",
+      "country": "",
+      "genres": [
+        "Adventure",
+        "Nature"
+      ],
+      "season": 18,
+      "episodes": null,
+      "epRuntime": 56,
+      "cast": [],
+      "synopsis": "Ten celebrities get to experience Norway at its most beautiful and get to test their physical limits, competing for the title «Norway's toughest celebrity».",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/602/1505459.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=71%C2%B0+nord+-+Norges+t%C3%B8ffeste+kjendis+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt2283115",
+      "imdbUrl": "https://www.imdb.com/title/tt2283115/",
+      "imdbRating": "6.9",
+      "imdbVotes": 97
+    },
+    {
+      "id": "tvmaze-56741",
+      "title": "Untold",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-08",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Sports"
+      ],
+      "season": 7,
+      "episodes": null,
+      "epRuntime": 73,
+      "cast": [],
+      "synopsis": "Untold is a sports docuseries that brings fresh eyes to some of the greatest stories in sports. From tennis to boxing to basketball, these stories aren't the ones you've heard before, even if you think you have.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/598/1495720.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Untold+official+trailer",
+      "rating": "7.8/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt15402976",
+      "imdbUrl": "https://www.imdb.com/title/tt15402976/",
+      "imdbRating": "7.2",
+      "imdbVotes": 10306
+    },
+    {
+      "id": "tvmaze-90434",
+      "title": "DANG!",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-08",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 26,
+      "cast": [],
+      "synopsis": "DANG! follows a brother and sister duo whose fun, messy lives in New York City are interrupted when their worst nightmare comes true: their high-achieving older sister shows up and wants to hang out with them.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597999.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=DANG%21+official+trailer",
+      "rating": "6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt40003445",
+      "imdbUrl": "https://www.imdb.com/title/tt40003445/",
+      "imdbRating": "6.2",
+      "imdbVotes": 725
+    },
+    {
+      "id": "tvmaze-2100",
+      "title": "The Challenge",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-09",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "season": 42,
+      "episodes": null,
+      "epRuntime": 66,
+      "cast": [],
+      "synopsis": "Set in the middle of the jungle, \"The Challenge: War of the Worlds 2\" returns to a classic team format; 14 Brits will battle it out against 14 Americans for their share of the $1 million-dollar prize.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/635/1588785.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Challenge+official+trailer",
+      "rating": "8.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt0176095",
+      "imdbUrl": "https://www.imdb.com/title/tt0176095/",
+      "imdbRating": "8.2",
+      "imdbVotes": 5223
+    },
+    {
+      "id": "tvmaze-43031",
+      "title": "Reacher",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-09",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "season": 4,
+      "episodes": null,
+      "epRuntime": 48,
+      "cast": [],
+      "synopsis": "Reacher follows Jack Reacher, a veteran military police investigator who has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served. When Reacher arrives in the sma",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/636/1591350.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Reacher+official+trailer",
+      "rating": "8.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt9288030",
+      "imdbUrl": "https://www.imdb.com/title/tt9288030/",
+      "imdbRating": "8.0",
+      "imdbVotes": 317452
+    },
+    {
+      "id": "tvmaze-52548",
+      "title": "Bogdan Boner: Egzorcysta (Season 7)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-09",
+      "language": "Polish",
+      "country": "",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "season": 7,
+      "episodes": null,
+      "epRuntime": 12,
+      "cast": [],
+      "synopsis": "No demon is safe as Bogdan Boner, the alcohol-loving, self-taught exorcist-for-hire, returns with more inventive, obscene and deadly deeds.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/289/724647.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Bogdan+Boner%3A+Egzorcysta+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-81597",
+      "title": "Made in Korea (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-09-09",
+      "language": "Korean",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "season": 2,
+      "episodes": 6,
+      "epRuntime": 63,
+      "cast": [],
+      "synopsis": "In 1970s South Korea a man determined to reach the pinnacle of wealth and power lives a double life - KCIA agent by day and dangerous business man by night. Determined and unstoppable, he comes face to face with a tenacious prosecutor willing to risk it all to bring him down.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/607/1517771.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Made+in+Korea+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt33298903",
+      "imdbUrl": "https://www.imdb.com/title/tt33298903/",
+      "imdbRating": "7.2",
+      "imdbVotes": 1554
+    },
+    {
+      "id": "tvmaze-84611",
+      "title": "The Paper (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Peacock",
+      "date": "2026-09-09",
+      "language": "English",
+      "country": "United States",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 2,
+      "episodes": 10,
+      "epRuntime": 27,
+      "cast": [],
+      "synopsis": "The Paper finds the same documentary crew that immortalized Dunder Mifflin Scranton searching for a new subject. They ultimately find it in an historic Toledo newspaper, The Truth Teller, and the eager publisher that's trying to revive it.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/636/1591367.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Paper+official+trailer",
+      "rating": "6.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt32159809",
+      "imdbUrl": "https://www.imdb.com/title/tt32159809/",
+      "imdbRating": "6.9",
+      "imdbVotes": 15387
+    },
+    {
+      "id": "tvmaze-81031",
+      "title": "El Juicio",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-10",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 42,
+      "cast": [],
+      "synopsis": "When a wealthy heir is accused of raping a classmate, a brutal battle erupts between two families-one fighting for justice, the other wielding power, money, and fear to bury the truth. As the war escalates, and secrets unravel, both sets of parents are forced to confront the terr",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/640/1602049.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=El+Juicio+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt42449970",
+      "imdbUrl": "https://www.imdb.com/title/tt42449970/"
+    },
+    {
+      "id": "tvmaze-86983",
+      "title": "Crew Girl",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-10",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 46,
+      "cast": [],
+      "synopsis": "At Easton Prep, newcomer Teagan trades her oars for a cox seat on the boys-only rowing team — but can she earn their trust and lead them to victory?",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601998.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Crew+Girl+official+trailer",
+      "rating": "6.2/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt38218082",
+      "imdbUrl": "https://www.imdb.com/title/tt38218082/",
+      "imdbRating": "6.6",
+      "imdbVotes": 2916
+    },
+    {
+      "id": "tvmaze-92590",
+      "title": "De Eetclub",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-10",
+      "language": "Dutch",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 7,
+      "epRuntime": 52,
+      "cast": [],
+      "synopsis": "When Karen moves with her family to Bergen, they are warmly welcomed into the dinner club, a seductive group of friends who fully indulge in an extravagant and hedonistic lifestyle. Until one of the luxurious villas goes up in flames, and their friend Evert is killed. His wife an",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/636/1590800.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=De+Eetclub+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt37439410",
+      "imdbUrl": "https://www.imdb.com/title/tt37439410/",
+      "imdbRating": "6.6",
+      "imdbVotes": 2020
+    },
+    {
+      "id": "tvmaze-93721",
+      "title": "Chumbak",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-10",
+      "language": "Hindi",
+      "country": "",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "season": 1,
+      "episodes": 16,
+      "epRuntime": 26,
+      "cast": [],
+      "synopsis": "Five quirky families navigate life as neighbors in Chumbak Colony, where chaotic conflicts and hilarious antics turn each day into a new chapter.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/638/1595040.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Chumbak+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt39640519",
+      "imdbUrl": "https://www.imdb.com/title/tt39640519/",
+      "imdbRating": "6.4",
+      "imdbVotes": 875
+    },
+    {
+      "id": "tvmaze-93880",
+      "title": "LOL Next",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-10",
+      "language": "German",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": 27,
+      "cast": [],
+      "synopsis": "",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598033.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=LOL+Next+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt38956012",
+      "imdbUrl": "https://www.imdb.com/title/tt38956012/",
+      "imdbRating": "4.8",
+      "imdbVotes": 145
+    },
+    {
+      "id": "tvmaze-78970",
+      "title": "The Secret Lives of Mormon Wives (Season 5)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-09-10",
+      "language": "English",
+      "country": "United States",
+      "genres": [],
+      "season": 5,
+      "episodes": 5,
+      "epRuntime": 50,
+      "cast": [],
+      "synopsis": "The scandalous world of a group of Mormon mom influencers implodes when they get caught in the midst of a swinging sex scandal that makes international headlines. Now, their sisterhood is shook to its core. Faith, friendship and reputations are all on the line. Will #MomTok be ab",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601973.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Secret+Lives+of+Mormon+Wives+official+trailer",
+      "rating": "5.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt31091039",
+      "imdbUrl": "https://www.imdb.com/title/tt31091039/",
+      "imdbRating": "5.5",
+      "imdbVotes": 3741
+    },
+    {
+      "id": "tvmaze-94387",
+      "title": "Ali Baba aur 40 Bhoot",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "JioHotstar",
+      "date": "2026-09-11",
+      "language": "",
+      "country": "India",
+      "genres": [
+        "Comedy",
+        "Adventure"
+      ],
+      "season": 1,
+      "episodes": 4,
+      "epRuntime": 32,
+      "cast": [],
+      "synopsis": "Rooted in logic and science, Alisha is drawn into an experience that defies everything she believes. Will she find answers or uncover a terrifying truth?",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1602544.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Ali+Baba+aur+40+Bhoot+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt44101690",
+      "imdbUrl": "https://www.imdb.com/title/tt44101690/",
+      "imdbRating": "5.4",
+      "imdbVotes": 167
+    },
+    {
+      "id": "tvmaze-92224",
+      "title": "Physical Italia: da 100 a 1",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-11",
+      "language": "Italian",
+      "country": "",
+      "genres": [
+        "Sports"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 56,
+      "cast": [],
+      "synopsis": "One hundred Italian athletes face brutal physical challenges, each battling to outlast the rest and claim the glory of becoming the one true champion.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597653.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Physical+Italia%3A+da+100+a+1+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt37694172",
+      "imdbUrl": "https://www.imdb.com/title/tt37694172/",
+      "imdbRating": "6.7",
+      "imdbVotes": 203
+    },
+    {
+      "id": "tvmaze-93562",
+      "title": "Honor Thy Mother",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-11",
+      "language": "Tagalog",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Family",
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 14,
+      "epRuntime": 58,
+      "cast": [],
+      "synopsis": "A powerful CEO and a struggling actress from opposite worlds are forced into an unlikely partnership to rescue a company in crisis. As they fight to rebuild its reputation, old betrayals and lingering resentment resurface, putting both their fragile partnership and their chance a",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/636/1592044.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Honor+Thy+Mother+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt41793323",
+      "imdbUrl": "https://www.imdb.com/title/tt41793323/"
+    },
+    {
+      "id": "tvmaze-94366",
+      "title": "En Coma",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-11",
+      "language": "",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/640/1602279.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=En+Coma+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt45403168",
+      "imdbUrl": "https://www.imdb.com/title/tt45403168/",
+      "imdbRating": "5.1",
+      "imdbVotes": 38
+    },
+    {
+      "id": "tvmaze-94386",
+      "title": "Professeur Raoult vs le gang des Cerises",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-11",
+      "language": "French",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": 4,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "2020. The Covid-19 pandemic strikes the world. In Marseille, Professor Didier Raoult claims to have found a miracle cure: hydroxychloroquine. Within weeks, the scientist becomes a star in France and a global phenomenon. But six ordinary people—teachers, researchers, and healthcar",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1602517.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Professeur+Raoult+vs+le+gang+des+Cerises+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt45658470",
+      "imdbUrl": "https://www.imdb.com/title/tt45658470/",
+      "imdbRating": "7.5",
+      "imdbVotes": 66
+    },
+    {
+      "id": "tvmaze-51222",
+      "title": "Gabby's Dollhouse (Season 14)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-14",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Children"
+      ],
+      "season": 14,
+      "episodes": 4,
+      "epRuntime": 24,
+      "cast": [],
+      "synopsis": "Cute cats, quirky crafts and colorful magic! Join kitty enthusiast Gabby and her sidekick Pandy Paws as they team up for a series of animated adventures.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172282.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Gabby%27s+Dollhouse+official+trailer",
+      "rating": "6.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt9165438",
+      "imdbUrl": "https://www.imdb.com/title/tt9165438/",
+      "imdbRating": "7.1",
+      "imdbVotes": 1169
+    },
+    {
+      "id": "tvmaze-74696",
+      "title": "Null stjerner (Season 3)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-15",
+      "language": "Norwegian",
+      "country": "",
+      "genres": [],
+      "season": 3,
+      "episodes": 8,
+      "epRuntime": 42,
+      "cast": [],
+      "synopsis": "Best friends Linn Skåber and Ine Jansen turn TripAdvisor upside down, seeking out the places with the stingiest, worst, funniest and most incomprehensible reviews.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/510/1275417.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Null+stjerner+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt31511769",
+      "imdbUrl": "https://www.imdb.com/title/tt31511769/",
+      "imdbRating": "7.5",
+      "imdbVotes": 178
+    },
+    {
+      "id": "tvmaze-71",
+      "title": "Dancing with the Stars (Season 35)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-09-15",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Family"
+      ],
+      "season": 35,
+      "episodes": 12,
+      "epRuntime": 119,
+      "cast": [],
+      "synopsis": "The hit series in which celebrities perform choreographed dance routines that are judged by a panel of renowned ballroom experts",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603519.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Dancing+with+the+Stars+official+trailer",
+      "rating": "6.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt0463398",
+      "imdbUrl": "https://www.imdb.com/title/tt0463398/",
+      "imdbRating": "5.0",
+      "imdbVotes": 11345
+    },
+    {
+      "id": "tvmaze-76188",
+      "title": "Golden Axe",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-16",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "season": 1,
+      "episodes": 10,
+      "epRuntime": 22,
+      "cast": [],
+      "synopsis": "Golden Axe follows veteran warriors Ax Battler, Tyris Flare, and Gilius Thunderhead as they once again battle to save Yuria from the evil giant Death Adder who just won't seem to stay dead. Fortunately, this time they have the inexperienced and underprepared Hampton Squib on thei",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/637/1594231.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Golden+Axe+official+trailer",
+      "rating": "5.5/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt32149571",
+      "imdbUrl": "https://www.imdb.com/title/tt32149571/",
+      "imdbRating": "7.1",
+      "imdbVotes": 335
+    },
+    {
+      "id": "tvmaze-82707",
+      "title": "Neagley",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-16",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 49,
+      "cast": [],
+      "synopsis": "Frances Neagley is a private investigator in Chicago and former military protege of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice. Using ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604422.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Neagley+official+trailer",
+      "rating": "7.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt33539520",
+      "imdbUrl": "https://www.imdb.com/title/tt33539520/",
+      "imdbRating": "7.8",
+      "imdbVotes": 9964
+    },
+    {
+      "id": "tvmaze-91059",
+      "title": "City of Blood",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-09-16",
+      "language": "German",
+      "country": "",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Supernatural"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 53,
+      "cast": [],
+      "synopsis": "Estranged sisters Bea and Phoebe uncover a terrifying truth: Vampires control Berlin.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604423.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=City+of+Blood+official+trailer",
+      "rating": "5.2/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt32642114",
+      "imdbUrl": "https://www.imdb.com/title/tt32642114/",
+      "imdbRating": "4.6",
+      "imdbVotes": 424
+    },
+    {
+      "id": "tvmaze-93434",
+      "title": "Rett skal være rett",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-16",
+      "language": "Norwegian",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": 12,
+      "epRuntime": 43,
+      "cast": [],
+      "synopsis": "Humorous guessing game where Olli Wermskog invites famous guests to place events and things in the correct order.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603890.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Rett+skal+v%C3%A6re+rett+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-93728",
+      "title": "Lalka",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-16",
+      "language": "Polish",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": 67,
+      "cast": [],
+      "synopsis": "This stylish new take on the classic Polish novel chronicles the many attempts of an ambitious merchant to win the heart of a nobleman's daughter.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/638/1595423.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Lalka+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-93846",
+      "title": "Surveillant!",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-09-16",
+      "language": "French",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Corinne Maillard is the director of the Chénoise detention center. Day to day, she tends to be overprotective of the inmates and her rather clumsy team of guards, like a smothering mother. But everything changes when her son, with whom she has lost contact, is incarcerated in her",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597543.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Surveillant%21+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt44924447",
+      "imdbUrl": "https://www.imdb.com/title/tt44924447/",
+      "imdbRating": "5.2",
+      "imdbVotes": 125
+    },
+    {
+      "id": "tvmaze-93926",
+      "title": "Habilidad física 100: México",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-16",
+      "language": "Spanish",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": 9,
+      "epRuntime": 51,
+      "cast": [],
+      "synopsis": "Taqueros, cops and CrossFit champs haul massive weights, battle in hand-to-hand combat and conquer relentless physical trials for a juicy cash prize.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598986.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Habilidad+f%C3%ADsica+100%3A+M%C3%A9xico+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt39390479",
+      "imdbUrl": "https://www.imdb.com/title/tt39390479/",
+      "imdbRating": "7.2",
+      "imdbVotes": 114
+    },
+    {
+      "id": "tvmaze-93997",
+      "title": "Route 187",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-16",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "season": 1,
+      "episodes": 4,
+      "epRuntime": 30,
+      "cast": [],
+      "synopsis": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604424.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Route+187+official+trailer",
+      "rating": "4.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt32132697",
+      "imdbUrl": "https://www.imdb.com/title/tt32132697/",
+      "imdbRating": "4.2",
+      "imdbVotes": 243
+    },
+    {
+      "id": "tvmaze-94502",
+      "title": "Catedrales",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-16",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": 41,
+      "cast": [],
+      "synopsis": "Catedrales is told across two timelines as the Sardá family confronts the devastating truth behind a thirty-year-old murder. In 1986, Ana, the youngest daughter of the devoutly religious family, is found dismembered and burned in a vacant lot. The case is closed without a suspect",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604292.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Catedrales+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt44600168",
+      "imdbUrl": "https://www.imdb.com/title/tt44600168/",
+      "imdbRating": "7.3",
+      "imdbVotes": 161
+    },
+    {
+      "id": "tvmaze-44671",
+      "title": "Kongen Befaler (Season 13)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-17",
+      "language": "Norwegian",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 13,
+      "episodes": 10,
+      "epRuntime": 43,
+      "cast": [],
+      "synopsis": "Atle Antonsen takes on the role as the almighty king, with Olli Wermskog as his right hand assistant. In each program he gives absurd and practical assignments and challenges to five comedians, which they will have to solve in the most creative and effective way possible. Dirty t",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/587/1469128.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Kongen+Befaler+official+trailer",
+      "rating": "7.7/10 TVMaze",
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-59591",
+      "title": "Thursday Night Football on Prime Video (Season 5)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-17",
+      "language": "English",
+      "country": "",
+      "genres": [],
+      "season": 5,
+      "episodes": 17,
+      "epRuntime": 192,
+      "cast": [],
+      "synopsis": "Thursday Night Football on Prime Video will provide members a unique viewing experience with interactive features that bring fans closer to the game, such as X-Ray and Next Gen Stats powered by AWS. Prime members will also be able to choose from multiple alternative audio options",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/414/1036969.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Thursday+Night+Football+on+Prime+Video+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-85214",
+      "title": "Stranger Things: Tales from '85 (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-17",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Science-Fiction",
+        "Mystery",
+        "Supernatural"
+      ],
+      "season": 2,
+      "episodes": 8,
+      "epRuntime": 29,
+      "cast": [],
+      "synopsis": "In the winter of 1985, snow blankets the town and the horrors of the Upside Down are finally fading. Our heroes Eleven, Mike, Will, Dustin, Lucas, and Max have settled back into a normal life of D&amp;D, snowball fights, and quiet days. But beneath the ice, something terrifying h",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/622/1556313.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Stranger+Things%3A+Tales+from+%2785+official+trailer",
+      "rating": "6.5/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt27486290",
+      "imdbUrl": "https://www.imdb.com/title/tt27486290/",
+      "imdbRating": "5.9",
+      "imdbVotes": 7280
+    },
+    {
+      "id": "tvmaze-87597",
+      "title": "Monster: The Lizzie Borden Story",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-17",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Horror"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 49,
+      "cast": [],
+      "synopsis": "Monster: The Lizzie Borden Story tells the story of how one young woman changed what the world believed a killer could be... all it took was an axe.When the repressed daughter of a wealthy New England family and her rebellious maid find themselves trapped in a house built on humi",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604670.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Monster%3A+The+Lizzie+Borden+Story+official+trailer",
+      "rating": "5.1/10 TVMaze",
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-90115",
+      "title": "Plastic Beauty",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-17",
+      "language": "Japanese",
+      "country": "",
+      "genres": [
+        "Drama"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 68,
+      "cast": [],
+      "synopsis": "Welcome to Tohyama Cosmetic Surgery Clinic: Botox parties, secret VIP floors and shadow doctors. Now along comes a new surgeon who won't stay silent.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604539.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Plastic+Beauty+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt37884325",
+      "imdbUrl": "https://www.imdb.com/title/tt37884325/",
+      "imdbRating": "6.9",
+      "imdbVotes": 219
+    },
+    {
+      "id": "tvmaze-93793",
+      "title": "Seni Tanıyorum",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-17",
+      "language": "Turkish",
+      "country": "",
+      "genres": [
+        "Drama"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 50,
+      "cast": [],
+      "synopsis": "After giving birth, Funda wants to return to painting, the career she had paused, and finally finds the nanny she has been looking for. Nanny Nazlı's mystery and unsettling nature will change Funda and her husband İlker's lives forever.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/638/1596672.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Seni+Tan%C4%B1yorum+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt39397536",
+      "imdbUrl": "https://www.imdb.com/title/tt39397536/",
+      "imdbRating": "5.3",
+      "imdbVotes": 816
+    },
+    {
+      "id": "tvmaze-93899",
+      "title": "The Fixers",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-17",
+      "language": "Chinese",
+      "country": "",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "season": 1,
+      "episodes": 10,
+      "epRuntime": 43,
+      "cast": [],
+      "synopsis": "Christopher Lee and Shou Lou star as a mismatched pair of fixers for the rich and powerful, but a mysterious rival throws their mission into disarray.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598833.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Fixers+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt39495239",
+      "imdbUrl": "https://www.imdb.com/title/tt39495239/",
+      "imdbRating": "6.0",
+      "imdbVotes": 81
+    },
+    {
+      "id": "tvmaze-75026",
+      "title": "MobLand (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-18",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "season": 2,
+      "episodes": 10,
+      "epRuntime": 46,
+      "cast": [],
+      "synopsis": "With the most powerful clients in Europe, MobLand will see family fortunes and reputations at risk, odd alliances unfold, and betrayal around every corner; and while the family might be London's most elite fixers today, the nature of their business means there is no guarantee wha",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604671.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=MobLand+official+trailer",
+      "rating": "8.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt31510819",
+      "imdbUrl": "https://www.imdb.com/title/tt31510819/",
+      "imdbRating": "8.3",
+      "imdbVotes": 126431
+    },
+    {
+      "id": "tvmaze-91016",
+      "title": "The Scandal",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-18",
+      "language": "Korean",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 58,
+      "cast": [],
+      "synopsis": "In Joseon's world of rank and reputation, an aristocratic wife and an infamous libertine pull a reserved lady into a scheme where love turns dangerous.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604826.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Scandal+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt36347588",
+      "imdbUrl": "https://www.imdb.com/title/tt36347588/",
+      "imdbRating": "6.1",
+      "imdbVotes": 724
+    },
+    {
+      "id": "tvmaze-94534",
+      "title": "Saman: La verità nascosta",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-18",
+      "language": "Italian",
+      "country": "",
+      "genres": [
+        "Crime"
+      ],
+      "season": 1,
+      "episodes": 3,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Saman, la verità nascosta (Saman, The Hidden Truth) is a three-part docuseries that reconstructs the tragic story of Saman Abbas, the 18-year-old Pakistani girl killed in Novellara in 2021. Blending investigative journalism with cinematic storytelling, the series explores the cla",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604798.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Saman%3A+La+verit%C3%A0+nascosta+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt45017187",
+      "imdbUrl": "https://www.imdb.com/title/tt45017187/",
+      "imdbRating": "8.0",
+      "imdbVotes": 36
+    },
+    {
+      "id": "tvmaze-94552",
+      "title": "Cautiva",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-18",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Travel"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "A devout young woman enters a cloistered convent, never imagining that her spirit will be crushed by the Mother Superior's abuses.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1605161.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Cautiva+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt43700003",
+      "imdbUrl": "https://www.imdb.com/title/tt43700003/",
+      "imdbRating": "7.0",
+      "imdbVotes": 48
+    },
+    {
+      "id": "tvmaze-83568",
+      "title": "Kian's Bizarre B&B (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-22",
+      "language": "Korean",
+      "country": "",
+      "genres": [
+        "Food",
+        "Travel"
+      ],
+      "season": 2,
+      "episodes": 10,
+      "epRuntime": 63,
+      "cast": [],
+      "synopsis": "On a remote island, Kian84 hosts a quirky B&amp;B escape, where BTS' Jin and Ji Ye-eun lead guests through playful exploits and delightful chaos.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/562/1407430.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Kian%27s+Bizarre+B%26B+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt33047061",
+      "imdbUrl": "https://www.imdb.com/title/tt33047061/",
+      "imdbRating": "8.5",
+      "imdbVotes": 2426
+    },
+    {
+      "id": "tvmaze-93900",
+      "title": "Minerva - La scuola",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-22",
+      "language": "Italian",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Children",
+        "Mystery"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 52,
+      "cast": [],
+      "synopsis": "Minerva - La scuola is a teen drama series set in a military high school in Naples. It is a world that seems to belong to another era, where students are woken up at dawn for the flag-raising ceremony, where mobile phones and civilian clothes are not allowed, and where subjects i",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598834.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Minerva+-+La+scuola+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt28765828",
+      "imdbUrl": "https://www.imdb.com/title/tt28765828/",
+      "imdbRating": "5.5",
+      "imdbVotes": 73
+    },
+    {
+      "id": "tvmaze-92870",
+      "title": "Wonka's The Golden Ticket",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-23",
+      "language": "English",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": 9,
+      "epRuntime": 52,
+      "cast": [],
+      "synopsis": "In this one-of-a-kind reality competition, lucky players step inside Wonka's Chocolate Factory to face unpredictable games, tests and temptations.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604141.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Wonka%27s+The+Golden+Ticket+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt36258621",
+      "imdbUrl": "https://www.imdb.com/title/tt36258621/"
+    },
+    {
+      "id": "tvmaze-93677",
+      "title": "Habeas Corpus",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-23",
+      "language": "Portuguese",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 64,
+      "cast": [],
+      "synopsis": "A renowned law professor leads a team of students to prove a convicted man's innocence, only to discover her brightest pupil is bound to her past.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606976.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Habeas+Corpus+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt39369819",
+      "imdbUrl": "https://www.imdb.com/title/tt39369819/"
+    },
+    {
+      "id": "tvmaze-85163",
+      "title": "Mis muertos tristes",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-24",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Horror",
+        "Supernatural"
+      ],
+      "season": 1,
+      "episodes": 4,
+      "epRuntime": 50,
+      "cast": [],
+      "synopsis": "Ema, a 60-year-old doctor, can see and hear the dead. She calls them \"presences\" and has lived her entire life avoiding letting this gift connect her with the suffering of others. But when her niece Julie — a disturbed young woman who can also communicate with the dead, but in a ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607062.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Mis+muertos+tristes+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt37158600",
+      "imdbUrl": "https://www.imdb.com/title/tt37158600/"
+    },
+    {
+      "id": "tvmaze-91182",
+      "title": "Team Moms",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-24",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Team Moms launches viewers into the world of nationally competitive youth baseball via immersion into the Legendary Prep Academy in Scottsdale, Arizona's first and only baseball prep school. The series follows the coaches, founders and a group of dynamic families and their respec",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/637/1594760.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Team+Moms+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt41377479",
+      "imdbUrl": "https://www.imdb.com/title/tt41377479/"
+    },
+    {
+      "id": "tvmaze-91916",
+      "title": "A Different World",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-24",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 1,
+      "episodes": 10,
+      "epRuntime": 32,
+      "cast": [],
+      "synopsis": "They're young, gifted and Black — and ready for a freshman year they won't forget. Meet the tightest crew at the country's top HBCU.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569835.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=A+Different+World+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt33081352",
+      "imdbUrl": "https://www.imdb.com/title/tt33081352/"
+    },
+    {
+      "id": "tvmaze-94640",
+      "title": "Delusion",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-24",
+      "language": "Thai",
       "country": "",
       "genres": [
         "Drama",
@@ -3240,20 +3257,132 @@
         "Thriller"
       ],
       "season": 1,
-      "episodes": null,
-      "epRuntime": null,
+      "episodes": 6,
+      "epRuntime": 52,
       "cast": [],
-      "synopsis": "A skilled young public prosecutor is pulled into a brutal prison syndicate led by the brother she thought she lost. Forcing her to choose between justice and family, law and survival, truth and betrayal.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584392.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Umthetho+official+trailer",
+      "synopsis": "Locals blame a ghost for a missing boy. A cynical cop hunts for logical explanations. Superstition clashes with skepticism in this twisty thriller.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606567.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Delusion+official+trailer",
       "rating": null,
       "source": "tvmaze",
-      "imdbId": "tt43657402",
-      "imdbUrl": "https://www.imdb.com/title/tt43657402/"
+      "imdbId": "tt39749747",
+      "imdbUrl": "https://www.imdb.com/title/tt39749747/"
     },
     {
-      "id": "tvmaze-93358",
-      "title": "Moria",
+      "id": "tvmaze-94641",
+      "title": "Shaque: Trust No One",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-24",
+      "language": "Hindi",
+      "country": "",
+      "genres": [
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 7,
+      "epRuntime": 38,
+      "cast": [],
+      "synopsis": "Desperately searching for her missing child, a mother finds dark secrets in her hillside hometown. With Jennifer Winget and Sumeet Vyas.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606570.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Shaque%3A+Trust+No+One+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt35929525",
+      "imdbUrl": "https://www.imdb.com/title/tt35929525/"
+    },
+    {
+      "id": "tvmaze-94663",
+      "title": "Team Moms: Baseball",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-24",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": 48,
+      "cast": [],
+      "synopsis": "Team Moms will immerse viewers into the Legendary Prep Academy in Scottsdale, Ariz., an intense baseball prep school for kids between 6th and 12th grade that serves as a feeder to Division 1 college scholarships, NIL deals and ultimately MLB fame. The show will follow the coaches",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607082.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Team+Moms%3A+Baseball+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt41377479",
+      "imdbUrl": "https://www.imdb.com/title/tt41377479/"
+    },
+    {
+      "id": "tvmaze-64528",
+      "title": "IMPACT x Nightline (Season 5)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-09-24",
+      "language": "English",
+      "country": "United States",
+      "genres": [],
+      "season": 5,
+      "episodes": null,
+      "epRuntime": 35,
+      "cast": [],
+      "synopsis": "A weekly news magazine offering hard-hitting investigative reports, deep dives on stories in the news cycle, profiles of newsmakers, and celebrity interviews. Unfiltered, straight to the source reporting on the stories you're talking about and the ones you soon will be.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/437/1094931.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=IMPACT+x+Nightline+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt27126939",
+      "imdbUrl": "https://www.imdb.com/title/tt27126939/",
+      "imdbRating": "6.2",
+      "imdbVotes": 104
+    },
+    {
+      "id": "tvmaze-89896",
+      "title": "4 Blocks Zero",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-25",
+      "language": "German",
+      "country": "",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "The prequel to the award-winning gangster drama ‘4 Blocks' tells the story of the Hamadys in 1990s Berlin: having fled Lebanon and only accepted as tolerated refugees in Germany, they struggle to gain a foothold in their new home. Who are they, how did the family become the most ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521801.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=4+Blocks+Zero+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt39379365",
+      "imdbUrl": "https://www.imdb.com/title/tt39379365/"
+    },
+    {
+      "id": "tvmaze-92984",
+      "title": "El problema final",
       "type": "series",
       "medium": "ott",
       "audience": [
@@ -3261,21 +3390,636 @@
         "india"
       ],
       "platform": "Netflix",
-      "date": "2026-08-14",
+      "date": "2026-09-25",
       "language": "Spanish",
       "country": "",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery"
+      ],
+      "season": 1,
+      "episodes": 5,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "In the spring of 1959, thirteen people were stuck by a violent storm on a small islet near Mallorca. Any of them could anticipate what is about to happen at the small hotel where they're staying: Elisa Mander, a discreet British tourist, is found dead. What initially seems like a",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1605419.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=El+problema+final+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt36832679",
+      "imdbUrl": "https://www.imdb.com/title/tt36832679/"
+    },
+    {
+      "id": "tvmaze-93776",
+      "title": "Paolo",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-25",
+      "language": "French",
+      "country": "",
+      "genres": [
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 7,
+      "epRuntime": 52,
+      "cast": [],
+      "synopsis": "Paolo's ordinary working-class existence is upended when he encounters the ambitious, and magnetic local politician Téophane, an old school mate. What begins as admiration and a desire to help Téophane's campaign, soon spirals into an all-consuming obsession, leading to a deadly ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/638/1596266.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Paolo+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt40407840",
+      "imdbUrl": "https://www.imdb.com/title/tt40407840/"
+    },
+    {
+      "id": "tvmaze-75082",
+      "title": "The Great Indian Kapil Show (Season 5)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-26",
+      "language": "Hindi",
+      "country": "",
       "genres": [],
+      "season": 5,
+      "episodes": null,
+      "epRuntime": 62,
+      "cast": [],
+      "synopsis": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/609/1522944.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Great+Indian+Kapil+Show+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt30003786",
+      "imdbUrl": "https://www.imdb.com/title/tt30003786/",
+      "imdbRating": "6.5",
+      "imdbVotes": 36250
+    },
+    {
+      "id": "tvmaze-92844",
+      "title": "Overgeared",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Crunchyroll",
+      "date": "2026-09-27",
+      "language": "Japanese",
+      "country": "",
+      "genres": [
+        "Action",
+        "Anime",
+        "Fantasy"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's mos",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576428.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Overgeared+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt43691353",
+      "imdbUrl": "https://www.imdb.com/title/tt43691353/"
+    },
+    {
+      "id": "tvmaze-94496",
+      "title": "Outside",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-28",
+      "language": "English",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Going beyond the four walls, Outside is the latest spin-off from the Sidemen's smash-hit seriesInside. A new group of content creators are thrown into the forest to battle for a prize of up to £1 million. With every comfort eating into the prize pot, they'll face brutal decisions",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604279.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Outside+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-82905",
+      "title": "Medusa (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-30",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Thriller"
+      ],
+      "season": 2,
+      "episodes": null,
+      "epRuntime": 38,
+      "cast": [],
+      "synopsis": "Somebody wants to kill CEO Bárbara Hidalgo. Can she find the culprit as her family schemes ruthlessly for control of their Colombian business empire?",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/557/1394751.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Medusa+official+trailer",
+      "rating": "7.2/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt35836959",
+      "imdbUrl": "https://www.imdb.com/title/tt35836959/",
+      "imdbRating": "5.3",
+      "imdbVotes": 1683
+    },
+    {
+      "id": "tvmaze-93602",
+      "title": "L'Arène",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-30",
+      "language": "French",
+      "country": "",
+      "genres": [
+        "Sports"
+      ],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "38 amateur MMA fighters — 19 women and 19 men — join the biggest Fight Camp ever imagined.Brought together in the Arena, an extraordinary setting, they'll face physical and mental challenges under the watchful eye of three French MMA stars: Ciryl Gane, Cédric Doumbé, and Benoît S",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599198.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=L%27Ar%C3%A8ne+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt38234547",
+      "imdbUrl": "https://www.imdb.com/title/tt38234547/"
+    },
+    {
+      "id": "tvmaze-50786",
+      "title": "Sacrifice (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Paramount+",
+      "date": "2026-09-30",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Legal"
+      ],
+      "season": 2,
+      "episodes": null,
+      "epRuntime": 60,
+      "cast": [],
+      "synopsis": "Sacrifice follows Daniella Hernandez, a highly sought-after entertainment lawyer, as she navigates the nefarious lives of her rich and famous clients.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/384/962318.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Sacrifice+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt13236336",
+      "imdbUrl": "https://www.imdb.com/title/tt13236336/",
+      "imdbRating": "6.6",
+      "imdbVotes": 217
+    },
+    {
+      "id": "tvmaze-75471",
+      "title": "Dupahiya (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-10-01",
+      "language": "Hindi",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 2,
+      "episodes": null,
+      "epRuntime": 35,
+      "cast": [],
+      "synopsis": "A village prepares for its 25th anniversary of being crime-free when a prized motorbike vanishes. With a jubilee trophy, wedding, and town pride at risk, a frantic search to recover the bike before it's too late ensues.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/559/1397557.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Dupahiya+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt31925820",
+      "imdbUrl": "https://www.imdb.com/title/tt31925820/",
+      "imdbRating": "7.4",
+      "imdbVotes": 6528
+    },
+    {
+      "id": "tvmaze-79399",
+      "title": "East of Eden",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-10-01",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "season": 1,
+      "episodes": 7,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "East of Eden will explore the novel's themes of trauma and repair; love and betrayal; duty and free will. The series will sketch an intimate portrait of the Trask family against the backdrop of huge historical forces.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/625/1562731.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=East+of+Eden+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt21097264",
+      "imdbUrl": "https://www.imdb.com/title/tt21097264/"
+    },
+    {
+      "id": "tvmaze-94637",
+      "title": "Your Personal Taxi",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-10-01",
+      "language": "Korean",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
       "season": 1,
       "episodes": 8,
       "epRuntime": null,
       "cast": [],
-      "synopsis": "In this highly stylized fictionalization, Moria Casán transforms her life story into a symbolic spectacle of fame, controversy and ceaseless reinvention.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586715.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Moria+official+trailer",
+      "synopsis": "There are times when all we want is for someone to truly listen to our story. And sometimes, we come across a song that feels like it's telling that story for us. Welcome to Your Personal Taxi—a special ride where music plays alongside memories, and your story is met with a liste",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606513.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Your+Personal+Taxi+official+trailer",
       "rating": null,
       "source": "tvmaze",
-      "imdbId": "tt41559147",
-      "imdbUrl": "https://www.imdb.com/title/tt41559147/"
+      "imdbId": "tt41070790",
+      "imdbUrl": "https://www.imdb.com/title/tt41070790/"
+    },
+    {
+      "id": "tvmaze-71269",
+      "title": "Reina Roja (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-10-02",
+      "language": "Spanish",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "season": 2,
+      "episodes": 6,
+      "epRuntime": 55,
+      "cast": [],
+      "synopsis": "With an IQ of 242, Antonia Scott is officially the smartest person on Earth. Her intelligence made her the \"Red Queen\" of a secret and experimental police project, but what seemed like a gift became a curse, and she ended up losing everything. When the son of a powerful tycoon is",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/640/1602436.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Reina+Roja+official+trailer",
+      "rating": "5.9/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt21849778",
+      "imdbUrl": "https://www.imdb.com/title/tt21849778/"
+    },
+    {
+      "id": "tvmaze-82618",
+      "title": "Kill Jackie",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-10-02",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Thriller"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Jackie Price has been living a luxurious existence for the last twenty years – travelling the world, selling fine art using sophisticated tax loopholes, and, above all, trying to stay anonymous after escaping a dangerous past as an international cocaine dealer. But just as life s",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/637/1594286.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Kill+Jackie+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt35726020",
+      "imdbUrl": "https://www.imdb.com/title/tt35726020/"
+    },
+    {
+      "id": "tvmaze-83159",
+      "title": "Coven Academy",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-10-02",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Supernatural"
+      ],
+      "season": 1,
+      "episodes": 10,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "In the haunted heart of New Orleans, Coven Academy follows three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability. Caught between ancient supernatural wars and ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/636/1592353.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Coven+Academy+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt36064406",
+      "imdbUrl": "https://www.imdb.com/title/tt36064406/"
+    },
+    {
+      "id": "tvmaze-92003",
+      "title": "Adventure Time: Side Quests (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-10-02",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "season": 2,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "The series will serve as a companion to the original Adventure Time, featuring brand-new adventures for Finn and Jake that aim to \"capture the spirit\" of the show's earlier years. While Adventure Timewent on to include traditional, episode-spanning story arcs, Adventure Time: Sid",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598837.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Adventure+Time%3A+Side+Quests+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt32603995",
+      "imdbUrl": "https://www.imdb.com/title/tt32603995/",
+      "imdbRating": "7.3",
+      "imdbVotes": 437
+    },
+    {
+      "id": "tvmaze-94472",
+      "title": "Paul, la série",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-10-02",
+      "language": "French",
+      "country": "",
+      "genres": [
+        "Comedy"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "The story blends fiction and reality as a struggling, uninspired Paul lies to Amazon about the progress of his sold stand-up recording and life documentary, all while dealing with an ex and a chaotic best friend.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1605770.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Paul%2C+la+s%C3%A9rie+official+trailer",
+      "rating": null,
+      "source": "tvmaze"
+    },
+    {
+      "id": "tvmaze-94415",
+      "title": "A Tale of the Secret Saint",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-10-03",
+      "language": "Japanese",
+      "country": "",
+      "genres": [],
+      "season": 1,
+      "episodes": null,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Fia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1602818.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=A+Tale+of+the+Secret+Saint+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt38939893",
+      "imdbUrl": "https://www.imdb.com/title/tt38939893/",
+      "imdbRating": "5.5",
+      "imdbVotes": 7
+    },
+    {
+      "id": "tvmaze-61704",
+      "title": "Reasonable Doubt (Season 4)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-10-06",
+      "language": "English",
+      "country": "United States",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "season": 4,
+      "episodes": 10,
+      "epRuntime": 51,
+      "cast": [],
+      "synopsis": "In Reasonable Doubt, you'll judge Jax Stewart for her questionable ethics and wild interpretations of the law... until you're the one in trouble. Then you'll see her for what she is: the most brilliant and fearless defense attorney in Los Angeles who bucks the justice system at e",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/587/1469210.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Reasonable+Doubt+official+trailer",
+      "rating": "4.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt11231226",
+      "imdbUrl": "https://www.imdb.com/title/tt11231226/",
+      "imdbRating": "6.7",
+      "imdbVotes": 4310
+    },
+    {
+      "id": "tvmaze-45562",
+      "title": "Carrie",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-10-07",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Horror"
+      ],
+      "season": 1,
+      "episodes": 8,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Based on Stephen King's iconic debut novel, Carrie is a bold, timely, and surprising reinvention of this classic coming of age story, adapted for television for the first time by visionary showrunner Mike Flanagan. Misfit high schooler Carrie White has spent her life hidden away ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/635/1587555.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Carrie+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt11540908",
+      "imdbUrl": "https://www.imdb.com/title/tt11540908/",
+      "imdbRating": "7.3",
+      "imdbVotes": 98
+    },
+    {
+      "id": "tvmaze-93115",
+      "title": "Below",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-10-08",
+      "language": "English",
+      "country": "",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Supernatural"
+      ],
+      "season": 1,
+      "episodes": 6,
+      "epRuntime": null,
+      "cast": [],
+      "synopsis": "Calvin Penney is a big hearted but stubborn fisherman living in a small Newfoundland town, who's still haunted by his father's mysterious death from decades ago. When an unidentified sea creature begins terrorizing his hometown, Calvin must fight to hold his close-knit community ",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606523.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Below+official+trailer",
+      "rating": null,
+      "source": "tvmaze",
+      "imdbId": "tt35934755",
+      "imdbUrl": "https://www.imdb.com/title/tt35934755/",
+      "imdbRating": "7.5",
+      "imdbVotes": 134
+    },
+    {
+      "id": "tvmaze-63237",
+      "title": "Reincarnated as a Sword (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-10-08",
+      "language": "Japanese",
+      "country": "United States",
+      "genres": [
+        "Action",
+        "Anime",
+        "Fantasy"
+      ],
+      "season": 2,
+      "episodes": null,
+      "epRuntime": 30,
+      "cast": [],
+      "synopsis": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Togeth",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/416/1042156.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Reincarnated+as+a+Sword+official+trailer",
+      "rating": "6.6/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt15483602",
+      "imdbUrl": "https://www.imdb.com/title/tt15483602/",
+      "imdbRating": "7.3",
+      "imdbVotes": 2612
+    },
+    {
+      "id": "tvmaze-59888",
+      "title": "The Kardashians (Season 8)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "Hulu",
+      "date": "2026-10-08",
+      "language": "English",
+      "country": "United States",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "season": 8,
+      "episodes": 10,
+      "epRuntime": 47,
+      "cast": [],
+      "synopsis": "Just when you think life can't get any faster in the Kardashian-Jenner family, they punch it into overdrive. From the big screen to baby bliss, the family continues to defy expectations in all their endeavors. Cameras roll as Kourtney, Kim, Khloé, Kendall, and Kylie navigate cont",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1605813.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Kardashians+official+trailer",
+      "rating": "3.1/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt15791630",
+      "imdbUrl": "https://www.imdb.com/title/tt15791630/",
+      "imdbRating": "4.5",
+      "imdbVotes": 6500
     },
     {
       "id": "rahun-main-tere-rubaru",
@@ -3302,7 +4046,7 @@
       "imdbId": "tt40427174",
       "imdbUrl": "https://www.imdb.com/title/tt40427174/",
       "imdbRating": "6.7",
-      "imdbVotes": 11
+      "imdbVotes": 12
     },
     {
       "id": "immortal-2026",
@@ -3326,7 +4070,9 @@
       "trailer": "https://www.youtube.com/results?search_query=Immortal+2026+hindi+movie+trailer",
       "source": "curated",
       "imdbId": "tt36931126",
-      "imdbUrl": "https://www.imdb.com/title/tt36931126/"
+      "imdbUrl": "https://www.imdb.com/title/tt36931126/",
+      "imdbRating": "9.0",
+      "imdbVotes": 1320
     },
     {
       "id": "devil-wears-prada-2-stream",
@@ -3357,8 +4103,9 @@
       "source": "curated",
       "imdbId": "tt33612209",
       "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-      "imdbRating": "6.4",
-      "imdbVotes": 80780
+      "imdbRating": "6.3",
+      "imdbVotes": 115940,
+      "runtime": 119
     },
     {
       "id": "super-mario-galaxy-movie-stream",
@@ -3389,7 +4136,8 @@
       "imdbId": "tt28650488",
       "imdbUrl": "https://www.imdb.com/title/tt28650488/",
       "imdbRating": "6.3",
-      "imdbVotes": 65985
+      "imdbVotes": 75166,
+      "runtime": 98
     },
     {
       "id": "heartstopper-forever",
@@ -3419,8 +4167,9 @@
       "source": "curated",
       "imdbId": "tt36619926",
       "imdbUrl": "https://www.imdb.com/title/tt36619926/",
-      "imdbRating": "7.0",
-      "imdbVotes": 6009
+      "imdbRating": "6.9",
+      "imdbVotes": 8630,
+      "runtime": 111
     },
     {
       "id": "the-long-walk-stream",
@@ -3452,7 +4201,8 @@
       "imdbId": "tt10374610",
       "imdbUrl": "https://www.imdb.com/title/tt10374610/",
       "imdbRating": "6.6",
-      "imdbVotes": 136328
+      "imdbVotes": 149353,
+      "runtime": 108
     },
     {
       "id": "operation-safed-sagar",
@@ -3484,7 +4234,9 @@
       "trailer": "https://www.youtube.com/results?search_query=Operation+Safed+Sagar+Netflix+trailer",
       "source": "curated",
       "imdbId": "tt36643714",
-      "imdbUrl": "https://www.imdb.com/title/tt36643714/"
+      "imdbUrl": "https://www.imdb.com/title/tt36643714/",
+      "imdbRating": "8.6",
+      "imdbVotes": 7399
     }
   ]
 }
