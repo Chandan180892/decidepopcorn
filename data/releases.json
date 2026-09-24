@@ -1,442 +1,13 @@
 {
-  "generated_at": "2026-09-24 19:29 UTC",
+  "generated_at": "2026-09-24 19:42 UTC",
   "window": {
     "from": "2026-09-03",
     "to": "2026-10-08"
   },
   "counts": {
-    "total": 141
+    "total": 133
   },
   "items": [
-    {
-      "id": "dhamaal-4",
-      "title": "Dhamaal 4",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-10",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Comedy",
-        "Action"
-      ],
-      "cast": [
-        "Ajay Devgn",
-        "Arshad Warsi",
-        "Riteish Deshmukh",
-        "Jaaved Jaaferi",
-        "Sanjay Mishra",
-        "Ravi Kishan",
-        "Esha Gupta"
-      ],
-      "director": "Indra Kumar",
-      "synopsis": "The fourth entry in the blockbuster comedy franchise — a chaotic hunt for a hidden fortune of Rs 50 crore. One of the largest ensemble casts in recent Hindi comedy. Opened to a Rs 64+ crore weekend.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTI2YTA2YzktMGUwOS00Njk3LWE0M2MtNDE4YTljNDdjNjNlXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Dhamaal+4+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt27548557",
-      "imdbUrl": "https://www.imdb.com/title/tt27548557/",
-      "imdbRating": "6.8",
-      "imdbVotes": 38779
-    },
-    {
-      "id": "the-odyssey-2026",
-      "title": "The Odyssey",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "In Theatres (IMAX)",
-      "date": "2026-07-17",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Epic",
-        "Action",
-        "Adventure"
-      ],
-      "runtime": 172,
-      "cast": [
-        "Matt Damon",
-        "Tom Holland",
-        "Anne Hathaway",
-        "Zendaya",
-        "Robert Pattinson",
-        "Lupita Nyong'o",
-        "Charlize Theron"
-      ],
-      "director": "Christopher Nolan",
-      "synopsis": "Christopher Nolan brings Homer's foundational saga to IMAX film screens for the first time — a mythic action epic shot across the world with brand-new IMAX film technology. 96% on Rotten Tomatoes, a career best for Nolan.",
-      "rating": "96% RT",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Odyssey+Nolan+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt33764258",
-      "imdbUrl": "https://www.imdb.com/title/tt33764258/",
-      "imdbRating": "8.4",
-      "imdbVotes": 505750
-    },
-    {
-      "id": "gdn-2026",
-      "title": "GDN",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-17",
-      "language": "Tamil / Hindi",
-      "country": "India",
-      "genres": [
-        "Biopic",
-        "Drama"
-      ],
-      "cast": [
-        "R. Madhavan",
-        "Priyamani",
-        "Sathyaraj",
-        "Jayaram"
-      ],
-      "synopsis": "Biographical drama inspired by legendary inventor and industrialist G. D. Naidu — his groundbreaking innovations, determination, personal struggles and lasting contribution to Indian industry.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BN2Y0ZjZjYWUtN2Y1My00YzhhLTkyNzgtN2QxNWViOWU0NDAyXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=GDN+Madhavan+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt35712605",
-      "imdbUrl": "https://www.imdb.com/title/tt35712605/",
-      "imdbRating": "7.6",
-      "imdbVotes": 2637
-    },
-    {
-      "id": "mysaa-2026",
-      "title": "Mysaa",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-17",
-      "language": "Telugu",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Period"
-      ],
-      "cast": [
-        "Rashmika Mandanna"
-      ],
-      "synopsis": "Rashmika Mandanna leads this period action drama — a fierce, rooted story arriving in theatres this week.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNWUyNmU0NzEtNTBiYS00OGFjLTkwOTMtOTEwYTgxM2Y4YzQzXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Mysaa+Rashmika+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt37454145",
-      "imdbUrl": "https://www.imdb.com/title/tt37454145/"
-    },
-    {
-      "id": "maa-inti-bangaaram",
-      "title": "Maa Inti Bangaaram",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "JioHotstar",
-      "date": "2026-07-17",
-      "language": "Telugu",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Drama",
-        "Family"
-      ],
-      "director": "B.V. Nandini Reddy",
-      "cast": [
-        "Samantha Ruth Prabhu",
-        "Gulshan Devaiah",
-        "Diganth"
-      ],
-      "synopsis": "Samantha Ruth Prabhu's theatrical hit — over ₹100 crore worldwide at the box office — makes its digital premiere.",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2a/Maa_Inti_Bangaaram_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "trailer": "https://www.youtube.com/results?search_query=Maa+Inti+Bangaaram+official+trailer",
-      "featured": true,
-      "imdbId": "tt32237111",
-      "imdbUrl": "https://www.imdb.com/title/tt32237111/",
-      "imdbRating": "7.3",
-      "imdbVotes": 7741,
-      "source": "curated"
-    },
-    {
-      "id": "the-east-palace",
-      "title": "The East Palace",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-17",
-      "language": "Korean",
-      "country": "South Korea",
-      "genres": [
-        "Fantasy",
-        "Thriller",
-        "Mystery"
-      ],
-      "cast": [
-        "Nam Joo-hyuk",
-        "Roh Yoon-seo"
-      ],
-      "synopsis": "Korean fantasy thriller limited series — a man who can travel between the worlds of the living and the dead.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjQ4ODU2YTctYjlhZi00ZGRmLTg4N2QtYWExNjY1NmY5MzZiXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+East+Palace+Netflix+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt35051401",
-      "imdbUrl": "https://www.imdb.com/title/tt35051401/",
-      "imdbRating": "7.3",
-      "imdbVotes": 5956
-    },
-    {
-      "id": "fifa-wc-2026-final",
-      "title": "FIFA World Cup 2026 Final — Spain vs Argentina",
-      "type": "sport",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Live TV / OTT (ZEE5 in India)",
-      "date": "2026-07-19",
-      "dateText": "Jul 19 (early hours Jul 20 IST)",
-      "language": "Multi-audio",
-      "country": "USA (host)",
-      "genres": [
-        "Sports",
-        "Football",
-        "Live"
-      ],
-      "cast": [],
-      "synopsis": "The championship match of the first 48-team World Cup, at MetLife Stadium. Spain vs Argentina — kickoff lands in the early hours of July 20 IST.",
-      "poster": null,
-      "trailer": "https://www.youtube.com/results?search_query=FIFA+World+Cup+2026+final+preview",
-      "featured": true,
-      "source": "curated"
-    },
-    {
-      "id": "house-of-the-dragon-s3",
-      "title": "House of the Dragon (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "HBO Max / JioHotstar",
-      "date": "2026-07-19",
-      "dateText": "Weekly — new episode Jul 19",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "season": 3,
-      "cast": [
-        "Emma D'Arcy",
-        "Matt Smith",
-        "Olivia Cooke"
-      ],
-      "synopsis": "The Dance of the Dragons rages on. Season 3 airing weekly — new episode this Sunday.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MTczODQtNGIxOC00Y2U2LTk1YmItNzA2N2VhYmE0Y2YwXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=House+of+the+Dragon+season+3+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt11198330",
-      "imdbUrl": "https://www.imdb.com/title/tt11198330/",
-      "imdbRating": "8.2",
-      "imdbVotes": 570754
-    },
-    {
-      "id": "stuart-fails-to-save-the-universe",
-      "title": "Stuart Fails to Save the Universe",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "JioHotstar / HBO Max",
-      "date": "2026-07-24",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Sci-Fi",
-        "Comedy"
-      ],
-      "cast": [
-        "Kevin Sussman",
-        "Lauren Lapkus",
-        "John Ross Bowie"
-      ],
-      "synopsis": "The Big Bang Theory spin-off: comic-store owner Stuart accidentally breaks the multiverse and must find a quantum device to restore reality.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmRmODg5ZTctMTMyMS00YmZmLWEyZTMtMjFmOGU1NjYwMGI2XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Stuart+Fails+to+Save+the+Universe+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt27497393",
-      "imdbUrl": "https://www.imdb.com/title/tt27497393/",
-      "imdbRating": "7.1",
-      "imdbVotes": 9971
-    },
-    {
-      "id": "adarsh-baal-vidyalaya",
-      "title": "Adarsh Baal Vidyalaya",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-24",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Kay Kay Menon",
-        "Naveen Kasturia"
-      ],
-      "synopsis": "A laid-back headmaster sets out to fix a broken education system through a chaotic, heart-warming transformation.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYmEzYTQ2OTEtMGM4MS00MWE1LWI3MGYtMTIyN2IwYzlkYmI0XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Adarsh+Baal+Vidyalaya+Prime+Video+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt40856520",
-      "imdbUrl": "https://www.imdb.com/title/tt40856520/",
-      "imdbRating": "8.1",
-      "imdbVotes": 6957
-    },
-    {
-      "id": "spider-man-brand-new-day",
-      "title": "Spider-Man: Brand New Day",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-31",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Superhero",
-        "Action",
-        "Adventure"
-      ],
-      "cast": [
-        "Tom Holland",
-        "Zendaya",
-        "Sadie Sink",
-        "Jon Bernthal",
-        "Mark Ruffalo",
-        "Jacob Batalon",
-        "Tramell Tillman"
-      ],
-      "director": "Destin Daniel Cretton",
-      "synopsis": "Peter Parker fights crime full-time as Spider-Man in a world that doesn't remember him, while investigating a powerful new threat to the city and those he loves.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Spider-Man+Brand+New+Day+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt22084616",
-      "imdbUrl": "https://www.imdb.com/title/tt22084616/",
-      "imdbRating": "8.0",
-      "imdbVotes": 308003,
-      "runtime": 145
-    },
-    {
-      "id": "dc-lokesh-2026",
-      "title": "DC",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-08-07",
-      "language": "Tamil",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Romance",
-        "Drama"
-      ],
-      "cast": [
-        "Lokesh Kanagaraj",
-        "Wamiqa Gabbi",
-        "Sanjana Krishnamoorthy"
-      ],
-      "director": "Arun Matheswaran",
-      "synopsis": "Filmmaker Lokesh Kanagaraj makes his lead acting debut as Devadas opposite Wamiqa Gabbi, in a romantic action drama directed by Arun Matheswaran with music by Anirudh Ravichander.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzMwODk4MjgtZjI5Mi00Nzk0LWE4OTQtYjU0ZGEyZjUyY2Y2XkEyXkFqcGc@._V1_UX500_.jpg",
-      "imdbId": "tt37501035",
-      "imdbUrl": "https://www.imdb.com/title/tt37501035/",
-      "trailer": "https://www.youtube.com/results?search_query=DC+Lokesh+Kanagaraj+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbRating": "7.9",
-      "imdbVotes": 7899
-    },
-    {
-      "id": "toxic-2026",
-      "title": "Toxic",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-08-26",
-      "language": "Kannada (multilingual)",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "cast": [
-        "Yash",
-        "Kiara Advani",
-        "Nayanthara",
-        "Huma Qureshi",
-        "Tara Sutaria"
-      ],
-      "director": "Geetu Mohandas",
-      "synopsis": "Yash headlines this large-scale crime drama set around a Goa drug cartel, releasing worldwide in six Indian languages plus English on August 26.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Toxic+Yash+official+trailer",
-      "featured": true,
-      "source": "curated",
-      "imdbId": "tt27530512",
-      "imdbUrl": "https://www.imdb.com/title/tt27530512/",
-      "imdbRating": "4.0",
-      "imdbVotes": 28419
-    },
     {
       "id": "mirzapur-the-film",
       "title": "Mirzapur: The Movie",
@@ -463,7 +34,7 @@
         "Shweta Tripathi"
       ],
       "director": "Gurmmeet Singh",
-      "synopsis": "The hit streaming crime franchise makes its first theatrical leap — the original ensemble returns to lawless Purvanchal for the big screen.",
+      "synopsis": "The hit streaming crime franchise makes its first theatrical leap — the original ensemble returns to lawless Purvanchal for the big screen. Still in theatres; a Prime Video digital premiere is expected in the coming weeks but is not yet officially confirmed.",
       "poster": "https://m.media-amazon.com/images/M/MV5BODAyYmJiODYtMDg4My00YjBlLTgwMDgtYTAzNzMzMGZlNGQ0XkEyXkFqcGc@._V1_UX500_.jpg",
       "trailer": "https://www.youtube.com/results?search_query=Mirzapur+The+Movie+official+trailer",
       "featured": true,
@@ -472,6 +43,601 @@
       "imdbUrl": "https://www.imdb.com/title/tt34339725/",
       "imdbRating": "7.7",
       "imdbVotes": 6408
+    },
+    {
+      "id": "practical-magic-2",
+      "title": "Practical Magic 2",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-10",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Maisie Williams",
+        "Joey King"
+      ],
+      "synopsis": "Sisters Sally and Gillian Owens, from a long line of witches, confront a family curse and their daughters' generation in this legacy sequel, based on Alice Hoffman's \"The Book of Magic.\"",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Practical+Magic+2+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt32588798",
+      "imdbUrl": "https://www.imdb.com/title/tt32588798/",
+      "imdbRating": "6.3",
+      "imdbVotes": 8618,
+      "runtime": 130
+    },
+    {
+      "id": "ranabaali",
+      "title": "Ranabaali",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-11",
+      "language": "Telugu",
+      "country": "India",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "cast": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna"
+      ],
+      "synopsis": "Vijay Deverakonda and Rashmika Mandanna headline this Telugu action drama in theatres.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Ranabaali+Vijay+Deverakonda+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt32324552",
+      "imdbUrl": "https://www.imdb.com/title/tt32324552/"
+    },
+    {
+      "id": "lust-stories-3",
+      "title": "Lust Stories 3",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-18",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Drama",
+        "Anthology"
+      ],
+      "cast": [
+        "Radhika Apte",
+        "Konkona Sen Sharma",
+        "Ali Fazal"
+      ],
+      "synopsis": "The acclaimed anthology of stories about desire and intimacy returns for a third round of shorts from top Indian directors.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Lust+Stories+3+Netflix+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt39667834",
+      "imdbUrl": "https://www.imdb.com/title/tt39667834/",
+      "imdbRating": "5.2",
+      "imdbVotes": 986
+    },
+    {
+      "id": "toy-story-5-stream",
+      "title": "Toy Story 5",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Disney+",
+      "date": "2026-09-23",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack",
+        "Tony Hale",
+        "Greta Lee"
+      ],
+      "director": "Andrew Stanton",
+      "synopsis": "Woody, Buzz Lightyear, Jessie and the gang face their toughest rival yet: Lilypad, a tablet device that threatens to steal Bonnie's attention forever. The billion-dollar 2026 hit arrives on Disney+ after a swift streaming turnaround.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Toy+Story+5+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt29355505",
+      "imdbUrl": "https://www.imdb.com/title/tt29355505/",
+      "imdbRating": "7.4",
+      "imdbVotes": 83210,
+      "runtime": 102
+    },
+    {
+      "id": "the-love-hypothesis-prime",
+      "title": "The Love Hypothesis",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-23",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "cast": [
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Jaboukie Young-White"
+      ],
+      "director": "Claire Scanlon",
+      "synopsis": "Adapted from Ali Hazelwood's bestselling novel — Stanford PhD candidate Olive Smith fakes a relationship with a brooding professor to prove to a friend she's over her ex, and it starts to feel real.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWI2ZWZjZGItZDFiMi00ODBmLThmODktY2FlZmNkNmU4YTEzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Love+Hypothesis+Prime+Video+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt22526100",
+      "imdbUrl": "https://www.imdb.com/title/tt22526100/",
+      "runtime": 112
+    },
+    {
+      "id": "shaque-trust-no-one",
+      "title": "Shaque: Trust No One",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-24",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "episodes": 7,
+      "cast": [
+        "Parineeti Chopra",
+        "Harleen Sethi",
+        "Jennifer Winget",
+        "Tahir Raj Bhasin",
+        "Soni Razdan",
+        "Anup Soni"
+      ],
+      "director": "Rensil D'Silva",
+      "synopsis": "Nine years after her baby is abducted from a hospital, a mother's relentless search resurfaces unsettling secrets and tests who she can trust. Parineeti Chopra's web-series debut.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWRlNDA3MGYtMWMzZS00MDAwLTk4MTAtY2RhMGI3OTA2OTY1XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Shaque+Trust+No+One+Netflix+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt35929525",
+      "imdbUrl": "https://www.imdb.com/title/tt35929525/"
+    },
+    {
+      "id": "the-paradise-nani",
+      "title": "The Paradise",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-24",
+      "language": "Telugu",
+      "country": "India",
+      "genres": [
+        "Period",
+        "Action",
+        "Drama"
+      ],
+      "cast": [
+        "Nani",
+        "Mohan Babu",
+        "Kayadu Lohar",
+        "Sonali Kulkarni",
+        "Raghav Juyal"
+      ],
+      "director": "Srikanth Odela",
+      "synopsis": "Set in 1980s Secunderabad — Jadal (Nani) rises to lead the marginalised Savaari tribe's fight for identity and dignity against the ruthless monarch Shikanja Malik (Mohan Babu).",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Paradise+Nani+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt31969655",
+      "imdbUrl": "https://www.imdb.com/title/tt31969655/"
+    },
+    {
+      "id": "toxic-2026",
+      "title": "Toxic",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "ZEE5",
+      "date": "2026-09-25",
+      "dateText": "In theatres Aug 26 — ZEE5 digital premiere Sep 25",
+      "language": "Kannada (multilingual)",
+      "country": "India",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Yash",
+        "Kiara Advani",
+        "Nayanthara",
+        "Huma Qureshi",
+        "Tara Sutaria"
+      ],
+      "director": "Geetu Mohandas",
+      "synopsis": "Yash's large-scale crime drama set around a Goa drug cartel arrives on ZEE5 for its digital premiere, roughly a month after its worldwide theatrical run in six Indian languages plus English.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Toxic+Yash+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt27530512",
+      "imdbUrl": "https://www.imdb.com/title/tt27530512/",
+      "imdbRating": "4.0",
+      "imdbVotes": 28419
+    },
+    {
+      "id": "the-vvaan-force-of-the-forest",
+      "title": "The Vvaan: Force of the Forest",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-25",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Fantasy",
+        "Folk Horror",
+        "Adventure"
+      ],
+      "cast": [
+        "Sidharth Malhotra",
+        "Tamannaah Bhatia"
+      ],
+      "director": "Deepak Kumar Mishra",
+      "synopsis": "A married couple returning to their ancestral village for Chhath Puja run afoul of the forbidden Vvaan Devi forest temple, where entry after sunset is banned — folklore, fantasy and an ancient secret collide. Produced by Ektaa R. Kapoor and TVF.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YWZlMjUtNDI1Zi00YjRjLTg2YzctMGU1MTkxMWU5M2U5XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=FRHLZMIWxJo",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt34498564",
+      "imdbUrl": "https://www.imdb.com/title/tt34498564/"
+    },
+    {
+      "id": "primetime-2026",
+      "title": "Primetime",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "In Theatres (A24)",
+      "date": "2026-09-25",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Biopic",
+        "Psychological Thriller"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Merritt Wever",
+        "Skyler Gisondo",
+        "Anna Faris"
+      ],
+      "director": "Lance Oppenheim",
+      "synopsis": "In 2006, To Catch a Predator host Chris Hansen (Robert Pattinson) sets out to make television history — A24's queasy, acclaimed biographical thriller about the making of the controversial reality series.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Primetime+Robert+Pattinson+A24+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt34206385",
+      "imdbUrl": "https://www.imdb.com/title/tt34206385/",
+      "imdbRating": "7.2",
+      "imdbVotes": 722,
+      "runtime": 110
+    },
+    {
+      "id": "heart-of-the-beast",
+      "title": "Heart of the Beast",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-25",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Survival",
+        "Drama",
+        "Adventure"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe"
+      ],
+      "director": "David Ayer",
+      "synopsis": "Special Forces officer James Belmont (Brad Pitt) is stranded in the Alaskan wilderness after a plane crash, with only his combat dog Odin at his side — a survival story that's really a love story between a man and his dog.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt7526136",
+      "imdbUrl": "https://www.imdb.com/title/tt7526136/",
+      "imdbRating": "7.2",
+      "imdbVotes": 1406,
+      "runtime": 101
+    },
+    {
+      "id": "backrooms-hbo-max",
+      "title": "Backrooms",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "HBO Max",
+      "date": "2026-09-25",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Psychological"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Mark Duplass",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Avan Jogia"
+      ],
+      "synopsis": "A24's highest-grossing film ever — a sci-fi psychological horror about people trapped in an endless, uncanny liminal space — makes its exclusive HBO Max streaming debut, timed for Halloween season.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Backrooms+A24+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt26657236",
+      "imdbUrl": "https://www.imdb.com/title/tt26657236/",
+      "imdbRating": "6.8",
+      "imdbVotes": 203793,
+      "runtime": 110
+    },
+    {
+      "id": "unabomber-netflix",
+      "title": "Unabomber",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-25",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Biopic",
+        "Thriller"
+      ],
+      "cast": [
+        "Jacob Tremblay",
+        "Russell Crowe",
+        "Shailene Woodley"
+      ],
+      "synopsis": "Ted Kaczynski's transformation from Harvard prodigy — subjected to controversial psychological experiments by Professor Henry Murray — into the infamous Unabomber, crosscut with the 1990s FBI manhunt that finally caught him.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDE2ODhlNTUtYjdiOS00OTlmLTg5OGMtMGNjZWZmNWE4MGJiXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.netflix.com/title/82010386",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt6933238",
+      "imdbUrl": "https://www.imdb.com/title/tt6933238/"
+    },
+    {
+      "id": "drishyam-3",
+      "title": "Drishyam 3",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-10-02",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "cast": [
+        "Ajay Devgn",
+        "Tabu",
+        "Shriya Saran",
+        "Ishita Dutta",
+        "Jaideep Ahlawat",
+        "Rajat Kapoor"
+      ],
+      "director": "Abhishek Pathak",
+      "synopsis": "Vijay Salgaonkar's razor-sharp mind is tested once again in the third instalment of India's biggest thriller franchise, as a new police officer (Jaideep Ahlawat) reopens the case.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2UwZDE3NGYtOGZiZi00ZjI4LTljOWItMTc5MGZiZjY5OGM3XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Drishyam+3+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt14113634",
+      "imdbUrl": "https://www.imdb.com/title/tt14113634/",
+      "imdbRating": "6.6",
+      "imdbVotes": 5514,
+      "runtime": 160
+    },
+    {
+      "id": "klara-and-the-sun",
+      "title": "Klara and the Sun",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-10-23",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Jenna Ortega",
+        "Amy Adams",
+        "Natasha Lyonne",
+        "Steve Buscemi"
+      ],
+      "director": "Taika Waititi",
+      "synopsis": "Adapted from Kazuo Ishiguro's novel — Klara, an Artificial Friend, forms a healing bond with Josie, a girl with a fraught relationship with her mother, after both sense a kindred spirit in the other.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Klara+and+the+Sun+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt14371256",
+      "imdbUrl": "https://www.imdb.com/title/tt14371256/"
+    },
+    {
+      "id": "ramayana-part-1",
+      "title": "Ramayana: Part 1",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india",
+        "worldwide"
+      ],
+      "platform": "In Theatres (IMAX)",
+      "date": "2026-11-06",
+      "language": "Hindi (multilingual)",
+      "country": "India",
+      "genres": [
+        "Epic",
+        "Mythology",
+        "Action"
+      ],
+      "cast": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Rakul Preet Singh"
+      ],
+      "director": "Nitesh Tiwari",
+      "synopsis": "The first part of a two-film mythological epic — Ranbir Kapoor as Rama, Sai Pallavi as Sita and Yash as Ravana — releasing worldwide around Diwali, with music by A.R. Rahman and score by Hans Zimmer.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "trailer": "https://www.youtube.com/results?search_query=Ramayana+Part+1+official+trailer",
+      "featured": true,
+      "source": "curated"
+    },
+    {
+      "id": "hunger-games-sunrise-on-the-reaping",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-11-20",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Drama"
+      ],
+      "cast": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "director": "Francis Lawrence",
+      "synopsis": "Sixteen-year-old Haymitch Abernathy (Joseph Zada) is reaped for the 50th Hunger Games in this prequel set 24 years before Katniss Everdeen, adapted from Suzanne Collins's novel.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Hunger+Games+Sunrise+on+the+Reaping+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt32558705",
+      "imdbUrl": "https://www.imdb.com/title/tt32558705/"
+    },
+    {
+      "id": "focker-in-law",
+      "title": "Focker-In-Law",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-11-25",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Ariana Grande"
+      ],
+      "director": "John Hamburg",
+      "synopsis": "A new chapter in the Meet the Parents franchise reunites Ben Stiller and Robert De Niro, with Ariana Grande joining the family.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Focker-In-Law+official+trailer",
+      "featured": true,
+      "source": "curated",
+      "imdbId": "tt34966140",
+      "imdbUrl": "https://www.imdb.com/title/tt34966140/"
     },
     {
       "id": "panchayat-s5",
@@ -539,868 +705,35 @@
       "imdbVotes": 57326
     },
     {
-      "id": "alpha-ducournau",
-      "title": "Alpha",
-      "type": "movie",
+      "id": "tvmaze-48090",
+      "title": "Star Trek: Strange New Worlds",
+      "type": "series",
       "medium": "ott",
       "audience": [
         "worldwide"
       ],
-      "platform": "Streaming (post-theatrical)",
-      "date": "2026-03-27",
-      "dateText": "In theatres Mar 27 — now streaming",
-      "language": "French",
-      "country": "France",
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "cast": [
-        "Mélissa Boros",
-        "Tahar Rahim",
-        "Golshifteh Farahani",
-        "Emma Mackey"
-      ],
-      "director": "Julia Ducournau",
-      "synopsis": "From the Palme d'Or-winning director of Titane — a 13-year-old and her single mother are upended by a tattoo and a mysterious virus. Cannes 2026 competition title.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Alpha+Julia+Ducournau+official+trailer",
-      "source": "curated",
-      "imdbId": "tt28363783",
-      "imdbUrl": "https://www.imdb.com/title/tt28363783/",
-      "imdbRating": "3.6",
-      "imdbVotes": 27702
-    },
-    {
-      "id": "minions-monsters",
-      "title": "Minions & Monsters",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-01",
+      "platform": "Paramount+",
+      "date": "2026-09-03",
       "language": "English",
-      "country": "USA",
+      "country": "",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "cast": [
-        "Steve Carell (voice)"
-      ],
-      "synopsis": "Illumination expands the Minions universe with a new monster-sized chapter of the franchise.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Minions+and+Monsters+official+trailer",
-      "source": "curated",
-      "imdbId": "tt32890033",
-      "imdbUrl": "https://www.imdb.com/title/tt32890033/",
-      "imdbRating": "6.3",
-      "imdbVotes": 32944,
-      "runtime": 90
-    },
-    {
-      "id": "young-washington",
-      "title": "Young Washington",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-03",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Biopic",
-        "War",
-        "Drama"
-      ],
-      "cast": [],
-      "synopsis": "Biographical war drama chronicling the early life and military experiences of George Washington.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Young+Washington+official+trailer",
-      "source": "curated",
-      "imdbId": "tt32104007",
-      "imdbUrl": "https://www.imdb.com/title/tt32104007/",
-      "imdbRating": "6.8",
-      "imdbVotes": 13825,
-      "runtime": 125
-    },
-    {
-      "id": "thrash-2026",
-      "title": "Thrash",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-03",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "cast": [
-        "Phoebe Dynevor",
-        "Whitney Peak",
-        "Djimon Hounsou",
-        "Alyla Browne"
-      ],
-      "synopsis": "Horror-thriller led by Phoebe Dynevor and Djimon Hounsou.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODMxNjdhMWQtMmJhYS00MDc1LTkyYzAtYTgzZTFhMmI1ODEyXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Thrash+2026+official+trailer",
-      "source": "curated",
-      "imdbId": "tt32362890",
-      "imdbUrl": "https://www.imdb.com/title/tt32362890/",
-      "imdbRating": "5.0",
-      "imdbVotes": 33705
-    },
-    {
-      "id": "project-hail-mary-stream",
-      "title": "Project Hail Mary",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-03",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Sci-Fi",
-        "Drama"
-      ],
-      "cast": [
-        "Ryan Gosling"
-      ],
-      "synopsis": "Ryan Gosling's acclaimed sci-fi epic — a lone astronaut must save humanity — now streaming after its theatrical run.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Project+Hail+Mary+official+trailer",
-      "source": "curated",
-      "imdbId": "tt12042730",
-      "imdbUrl": "https://www.imdb.com/title/tt12042730/",
-      "imdbRating": "8.2",
-      "imdbVotes": 554761,
-      "runtime": 156
-    },
-    {
-      "id": "silo-s3",
-      "title": "Silo (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Apple TV+",
-      "date": "2026-07-03",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Sci-Fi",
-        "Drama",
-        "Dystopian"
-      ],
-      "season": 3,
-      "cast": [
-        "Rebecca Ferguson",
-        "Common",
-        "Tim Robbins"
-      ],
-      "synopsis": "The dystopian epic returns — the truth about the silos comes closer to the surface. Weekly episodes.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Silo+season+3+official+trailer",
-      "source": "curated",
-      "imdbId": "tt14688458",
-      "imdbUrl": "https://www.imdb.com/title/tt14688458/",
-      "imdbRating": "8.1",
-      "imdbVotes": 243288
-    },
-    {
-      "id": "im-not-afraid",
-      "title": "I'm Not Afraid",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-08",
-      "language": "Spanish",
-      "country": "Mexico",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 6,
-      "epRuntime": 45,
-      "cast": [
-        "Fátima Molina",
-        "Luis Alberti",
-        "Humberto Busto",
-        "Yoshira Escárrega",
-        "Leidi Gutiérrez"
-      ],
-      "synopsis": "In 1986 Veracruz, a ten-year-old finds another child trapped in a hole near his house — a story of poverty, childhood innocence and family secrets during the World Cup. Original title: No tengo miedo.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576591.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=I%27m+Not+Afraid+Netflix+official+trailer",
-      "imdbId": "tt36742917",
-      "imdbUrl": "https://www.imdb.com/title/tt36742917/",
-      "imdbRating": "6.6",
-      "imdbVotes": 684,
-      "source": "curated"
-    },
-    {
-      "id": "little-house-prairie-netflix",
-      "title": "Little House on the Prairie",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-09",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Drama",
-        "Family"
-      ],
-      "cast": [],
-      "synopsis": "Netflix's new streaming adaptation of the beloved classic.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODQyNzI4Y2EtODE4ZC00MjFjLTg1ZjMtYzJkNDYwZjUxZjQ1XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Little+House+on+the+Prairie+Netflix+trailer",
-      "source": "curated",
-      "imdbId": "tt2431250",
-      "imdbUrl": "https://www.imdb.com/title/tt2431250/",
-      "imdbRating": "7.3",
-      "imdbVotes": 8611
-    },
-    {
-      "id": "moana-live-action",
-      "title": "Moana (Live-Action)",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-10",
-      "language": "English",
-      "country": "USA",
-      "genres": [
+        "Action",
         "Adventure",
-        "Family",
-        "Musical"
+        "Science-Fiction"
       ],
-      "cast": [
-        "Catherine Laga'aia",
-        "Dwayne Johnson"
-      ],
-      "synopsis": "Disney's live-action reimagining of Moana, with Dwayne Johnson returning as Maui and newcomer Catherine Laga'aia as Moana.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Moana+live+action+official+trailer",
-      "source": "curated",
-      "imdbId": "tt27419466",
-      "imdbUrl": "https://www.imdb.com/title/tt27419466/",
-      "imdbRating": "5.8",
-      "imdbVotes": 17844,
-      "runtime": 115
-    },
-    {
-      "id": "the-invite-a24",
-      "title": "The Invite",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "In Theatres (A24)",
-      "date": "2026-07-10",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Seth Rogen",
-        "Olivia Wilde",
-        "Penélope Cruz",
-        "Edward Norton"
-      ],
-      "synopsis": "A24's star-stacked comedy-drama in wide theatrical release.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Invite+A24+official+trailer",
-      "source": "curated",
-      "imdbId": "tt14173636",
-      "imdbUrl": "https://www.imdb.com/title/tt14173636/",
-      "imdbRating": "7.5",
-      "imdbVotes": 73342,
-      "runtime": 107
-    },
-    {
-      "id": "wuthering-heights-ott",
-      "title": "Wuthering Heights",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "JioHotstar",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "UK/USA",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "cast": [
-        "Margot Robbie",
-        "Jacob Elordi"
-      ],
-      "director": "Emerald Fennell",
-      "synopsis": "Emerald Fennell's fiery adaptation of Emily Brontë's classic, starring Margot Robbie and Jacob Elordi, arrives on streaming in India.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Wuthering+Heights+2026+official+trailer",
-      "source": "curated",
-      "imdbId": "tt32897959",
-      "imdbUrl": "https://www.imdb.com/title/tt32897959/",
-      "imdbRating": "6.1",
-      "imdbVotes": 92575,
-      "runtime": 136
-    },
-    {
-      "id": "second-love-reality",
-      "title": "Second Love",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "JioHotstar",
-      "date": "2026-07-13",
-      "language": "Tamil",
-      "country": "India",
-      "genres": [
-        "Reality",
-        "Romance"
-      ],
-      "cast": [
-        "Ramya Krishnan (host)"
-      ],
-      "synopsis": "Tamil dating reality series hosted by Ramya Krishnan — 12 singles in their thirties looking for a second chance at love.",
-      "poster": null,
-      "trailer": "https://www.youtube.com/results?search_query=Second+Love+JioHotstar+Tamil+trailer",
-      "source": "curated",
-      "imdbId": "tt39216476",
-      "imdbUrl": "https://www.imdb.com/title/tt39216476/"
-    },
-    {
-      "id": "murder-101-prime",
-      "title": "Murder 101",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Documentary",
-        "True Crime"
-      ],
-      "episodes": 3,
+      "season": 4,
+      "episodes": null,
+      "epRuntime": 53,
       "cast": [],
-      "synopsis": "Three-part true-crime documentary series on America's infamous Redhead Murders case.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOGQxOTM1YWYtYzY2MC00YjE2LWE0MTgtNDkxZDBmODYxNjMzXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Murder+101+Prime+Video+trailer",
-      "source": "curated",
-      "imdbId": "tt39163341",
-      "imdbUrl": "https://www.imdb.com/title/tt39163341/",
-      "imdbRating": "7.3",
-      "imdbVotes": 839
-    },
-    {
-      "id": "passenger-2026",
-      "title": "Passenger",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "worldwide"
-      ],
-      "platform": "Prime Video / Apple TV+",
-      "date": "2026-07-13",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "cast": [],
-      "synopsis": "Horror-thriller now available on digital platforms.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNDhmZmJlMDctNTA3MS00NTkwLThkZGQtMjM5MTdmMDg2YjBjXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Passenger+2026+official+trailer",
-      "source": "curated",
-      "imdbId": "tt33763941",
-      "imdbUrl": "https://www.imdb.com/title/tt33763941/",
-      "imdbRating": "5.5",
-      "imdbVotes": 22738,
-      "runtime": 94
-    },
-    {
-      "id": "ride-or-die-prime",
-      "title": "Ride or Die",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Prime Video",
-      "date": "2026-07-15",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "cast": [
-        "Hannah Waddingham",
-        "Octavia Spencer"
-      ],
-      "synopsis": "Action-comedy starring Hannah Waddingham and Octavia Spencer as best friends whose lives take a wild turn.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGUxMjFkMDEtNGJkZC00MTUwLWFiZjUtYWZhZWYxNzE1ZDEwXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Ride+or+Die+Prime+Video+official+trailer",
-      "source": "curated",
-      "imdbId": "tt30494226",
-      "imdbUrl": "https://www.imdb.com/title/tt30494226/",
-      "imdbRating": "7.5",
-      "imdbVotes": 16697
-    },
-    {
-      "id": "raktanchal-s3",
-      "title": "Raktanchal (Season 3)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Amazon MX Player",
-      "date": "2026-07-16",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "season": 3,
-      "cast": [
-        "Nikitin Dheer",
-        "Kranti Prakash Jha"
-      ],
-      "synopsis": "The gritty Purvanchal gang-war saga returns for its third season — streaming completely free on Amazon MX Player.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTNjMTRlYzMtNTlmNC00ODNmLWJkY2YtN2U0OTkzN2Y1NzUyXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Raktanchal+season+3+trailer",
-      "source": "curated",
-      "imdbId": "tt12347286",
-      "imdbUrl": "https://www.imdb.com/title/tt12347286/",
-      "imdbRating": "6.8",
-      "imdbVotes": 8324
-    },
-    {
-      "id": "transfer-trimurthulu",
-      "title": "Transfer Trimurthulu",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "ZEE5",
-      "date": "2026-07-17",
-      "language": "Telugu",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "cast": [],
-      "synopsis": "Telugu action-drama arriving on ZEE5 after its theatrical run.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Transfer+Trimurthulu+official+trailer",
-      "source": "curated",
-      "imdbId": "tt42932774",
-      "imdbUrl": "https://www.imdb.com/title/tt42932774/",
-      "imdbRating": "6.4",
-      "imdbVotes": 112
-    },
-    {
-      "id": "agent-kim-reactivated",
-      "title": "Agent Kim Reactivated",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-17",
-      "language": "Korean",
-      "country": "South Korea",
-      "genres": [
-        "Action",
-        "Crime"
-      ],
-      "cast": [],
-      "synopsis": "Korean action-crime limited series premiering worldwide on Netflix.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYmNjNTMyMWQtYmViNi00YWYxLWEzZTctNDQ2MTdhNzU2OTVlXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Agent+Kim+Reactivated+Netflix+trailer",
-      "source": "curated",
-      "imdbId": "tt42127457",
-      "imdbUrl": "https://www.imdb.com/title/tt42127457/",
-      "imdbRating": "7.6",
-      "imdbVotes": 9348
-    },
-    {
-      "id": "sannidhanam-po",
-      "title": "Sannidhanam P.O.",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Prime Video / Simply South",
-      "date": "2026-07-17",
-      "language": "Tamil (multilingual)",
-      "country": "India",
-      "genres": [
-        "Family",
-        "Drama"
-      ],
-      "cast": [
-        "Yogi Babu",
-        "Roopesh Shetty",
-        "Sithara",
-        "Varsha Viswanath",
-        "Pramod Shetty",
-        "Gajaraj"
-      ],
-      "director": "Amutha Sarathy",
-      "synopsis": "Set against the spiritually significant backdrop of Sabarimala — a mother's relentless search for her son, who goes missing during a pilgrimage. Streaming in five languages.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Sannidhanam+PO+official+trailer",
-      "source": "curated",
-      "imdbId": "tt29429839",
-      "imdbUrl": "https://www.imdb.com/title/tt29429839/",
-      "imdbRating": "6.6",
-      "imdbVotes": 3969
-    },
-    {
-      "id": "the-map-of-longing",
-      "title": "The Map of Longing",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-17",
-      "language": "English",
-      "country": "International",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [],
-      "synopsis": "New drama premiering on Netflix.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMWJjNzljOTMtZGVhMC00ZGQ5LTgzYzUtZWUxYjBiZDI3Y2ZkXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Map+of+Longing+Netflix+trailer",
-      "source": "curated",
-      "imdbId": "tt36495086",
-      "imdbUrl": "https://www.imdb.com/title/tt36495086/",
-      "imdbRating": "6.8",
-      "imdbVotes": 1249
-    },
-    {
-      "id": "spooky-in-love",
-      "title": "Spooky in Love",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-18",
-      "language": "English",
-      "country": "International",
-      "genres": [
-        "Romance",
-        "Fantasy",
-        "Comedy"
-      ],
-      "cast": [],
-      "synopsis": "Supernatural rom-com premiering on Netflix this weekend.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MDI4ODYtOTc3ZS00ZDc1LTkzYjgtMjc0OWUyMjFhN2E2XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Spooky+in+Love+Netflix+trailer",
-      "source": "curated",
-      "imdbId": "tt40247521",
-      "imdbUrl": "https://www.imdb.com/title/tt40247521/",
-      "imdbRating": "7.5",
-      "imdbVotes": 2704,
-      "runtime": 70
-    },
-    {
-      "id": "trikala-sunnxt",
-      "title": "Trikala",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Sun NXT",
-      "date": "2026-07-18",
-      "language": "Telugu / Tamil",
-      "country": "India",
-      "genres": [
-        "Supernatural",
-        "Thriller"
-      ],
-      "cast": [
-        "Ajay",
-        "Shraddha Das",
-        "Master Mahendran",
-        "Sahithi Avancha"
-      ],
-      "director": "Mani Thellagutie",
-      "synopsis": "Telugu supernatural thriller streaming in Telugu and Tamil on Sun NXT.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTkwYzg0NzMtY2UyZS00ZDJiLTkyZGMtNmFlZjc3YjJmNWJmXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Trikala+telugu+official+trailer",
-      "source": "curated",
-      "imdbId": "tt33674441",
-      "imdbUrl": "https://www.imdb.com/title/tt33674441/",
-      "imdbRating": "7.6",
-      "imdbVotes": 1180
-    },
-    {
-      "id": "a-shop-for-killers-s2",
-      "title": "A Shop for Killers (Season 2)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Disney+ / JioHotstar",
-      "date": "2026-07-22",
-      "language": "Korean",
-      "country": "South Korea",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "season": 2,
-      "cast": [
-        "Lee Dong-wook",
-        "Kim Hye-jun"
-      ],
-      "synopsis": "The Korean action-thriller returns for Season 2.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTEwYmIxNWItM2Q5My00ZDEzLWEyNDAtODIzM2E2N2U4OGQyXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=A+Shop+for+Killers+season+2+trailer",
-      "source": "curated",
-      "imdbId": "tt26450613",
-      "imdbUrl": "https://www.imdb.com/title/tt26450613/",
-      "imdbRating": "8.0",
-      "imdbVotes": 12560
-    },
-    {
-      "id": "evil-dead-burn",
-      "title": "Evil Dead Burn",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-07-24",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Horror"
-      ],
-      "cast": [
-        "Souheila Yacoub",
-        "Hunter Doohan"
-      ],
-      "director": "Sébastien Vaniček",
-      "synopsis": "The next blood-soaked chapter of the Evil Dead franchise, produced by Sam Raimi and Bruce Campbell.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Evil+Dead+Burn+official+trailer",
-      "source": "curated",
-      "imdbId": "tt31170389",
-      "imdbUrl": "https://www.imdb.com/title/tt31170389/",
-      "imdbRating": "6.3",
-      "imdbVotes": 47957,
-      "runtime": 110
-    },
-    {
-      "id": "star-trek-snw-new-season",
-      "title": "Star Trek: Strange New Worlds (New Season)",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india",
-        "worldwide"
-      ],
-      "platform": "JioHotstar / Paramount+",
-      "date": "2026-07-24",
-      "language": "English",
-      "country": "USA",
-      "genres": [
-        "Sci-Fi",
-        "Adventure"
-      ],
-      "cast": [
-        "Anson Mount",
-        "Ethan Peck",
-        "Jess Bush"
-      ],
-      "synopsis": "Captain Pike, Science Officer Spock and Number One return aboard the U.S.S. Enterprise for thrilling missions to uncharted worlds.",
-      "poster": null,
-      "trailer": "https://www.youtube.com/results?search_query=Star+Trek+Strange+New+Worlds+new+season+trailer",
-      "source": "curated"
-    },
-    {
-      "id": "pallichattambi",
-      "title": "Pallichattambi",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "SonyLIV",
-      "date": "2026-07-24",
-      "language": "Malayalam",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Period"
-      ],
-      "cast": [
-        "Prithviraj Sukumaran",
-        "Tovino Thomas"
-      ],
-      "synopsis": "Set in 1958 Kerala — carefree rowdy Krishna Pillai transforms into the feared and influential Pallichattambi.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjBjZTA1YTEtZmZlYy00ODk1LWIxMDItMTE3N2FiMWVhODFkXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Pallichattambi+official+trailer",
-      "source": "curated",
-      "imdbId": "tt10515398",
-      "imdbUrl": "https://www.imdb.com/title/tt10515398/",
-      "imdbRating": "5.9",
-      "imdbVotes": 4750
-    },
-    {
-      "id": "musafir-cafe",
-      "title": "Musafir Cafe",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-07-24",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "cast": [
-        "Vikrant Massey",
-        "Vedika Pinto"
-      ],
-      "synopsis": "A man haunted by a past connection must confront love and loss. Vikrant Massey leads this Hindi romance.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjgxZmZlNjYtNzgzZi00Y2RiLTk2ZTMtMTBkZjYyYTk5NDNkXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Musafir+Cafe+official+trailer",
-      "source": "curated",
-      "imdbId": "tt39665097",
-      "imdbUrl": "https://www.imdb.com/title/tt39665097/",
-      "imdbRating": "7.6",
-      "imdbVotes": 6831
-    },
-    {
-      "id": "batwara-1947",
-      "title": "Batwara 1947",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-08-14",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Period",
-        "Drama"
-      ],
-      "cast": [
-        "Sunny Deol"
-      ],
-      "synopsis": "Partition-era period drama (formerly titled Lahore 1947) headlined by Sunny Deol, arriving around Independence Day 2026.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTk1OWE0ZjktYmFiNS00NjFlLTg4MjYtZTRhYWEyNjcyNDE4XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Batwara+1947+Sunny+Deol+trailer",
-      "source": "curated",
-      "imdbId": "tt29330744",
-      "imdbUrl": "https://www.imdb.com/title/tt29330744/",
-      "imdbRating": "4.5",
-      "imdbVotes": 3521
-    },
-    {
-      "id": "awarapan-2",
-      "title": "Awarapan 2",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": "2026-08-14",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Action",
-        "Romance",
-        "Drama"
-      ],
-      "cast": [
-        "Emraan Hashmi"
-      ],
-      "director": "Vishesh Bhatt",
-      "synopsis": "Emraan Hashmi reunites with the Bhatt camp for the long-awaited sequel to the 2007 cult favourite.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjdlNTAxMTUtMzg4Mi00MmNkLTgyYzktMjk0NjcwN2JhODk1XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Awarapan+2+official+trailer",
-      "source": "curated",
-      "imdbId": "tt36300841",
-      "imdbUrl": "https://www.imdb.com/title/tt36300841/",
-      "imdbRating": "6.4",
-      "imdbVotes": 12556
+      "synopsis": "Star Trek: Strange New Worlds follows Captain Pike, Science Officer Spock and Number One in the decade before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589217.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Star+Trek%3A+Strange+New+Worlds+official+trailer",
+      "rating": "7.8/10 TVMaze",
+      "source": "tvmaze",
+      "imdbId": "tt12327578",
+      "imdbUrl": "https://www.imdb.com/title/tt12327578/",
+      "imdbRating": "8.2",
+      "imdbVotes": 79712
     },
     {
       "id": "tvmaze-64992",
@@ -1518,6 +851,36 @@
       "imdbUrl": "https://www.imdb.com/title/tt31449991/",
       "imdbRating": "7.6",
       "imdbVotes": 18425
+    },
+    {
+      "id": "onslaught-2026",
+      "title": "Onslaught",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-04",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Adria Arjona",
+        "Rebecca Hall",
+        "Dan Stevens"
+      ],
+      "synopsis": "Action-thriller led by Adria Arjona, Rebecca Hall and Dan Stevens.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Onslaught+2026+official+trailer",
+      "source": "curated",
+      "imdbId": "tt32268691",
+      "imdbUrl": "https://www.imdb.com/title/tt32268691/",
+      "imdbRating": "6.1",
+      "imdbVotes": 2484
     },
     {
       "id": "tvmaze-68789",
@@ -2030,6 +1393,37 @@
       "imdbVotes": 15387
     },
     {
+      "id": "sardar-2",
+      "title": "Sardar 2",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-10",
+      "language": "Tamil",
+      "country": "India",
+      "genres": [
+        "Action",
+        "Spy",
+        "Drama"
+      ],
+      "cast": [
+        "Karthi",
+        "SJ Suryah"
+      ],
+      "director": "P.S. Mithran",
+      "synopsis": "Karthi returns in dual roles for the sequel to the 2022 spy-action blockbuster Sardar, though the follow-up has opened to a soft box office response.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Sardar+2+official+trailer",
+      "source": "curated",
+      "imdbId": "tt28541577",
+      "imdbUrl": "https://www.imdb.com/title/tt28541577/",
+      "imdbRating": "6.2",
+      "imdbVotes": 414
+    },
+    {
       "id": "tvmaze-81031",
       "title": "El Juicio",
       "type": "series",
@@ -2204,6 +1598,65 @@
       "imdbUrl": "https://www.imdb.com/title/tt31091039/",
       "imdbRating": "5.5",
       "imdbVotes": 3741
+    },
+    {
+      "id": "haiwaan-2026",
+      "title": "Haiwaan",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-11",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Akshay Kumar",
+        "Saif Ali Khan"
+      ],
+      "synopsis": "Akshay Kumar and Saif Ali Khan lead this Hindi action-thriller, which opened to a disappointing box office response.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Haiwaan+Akshay+Kumar+official+trailer",
+      "source": "curated",
+      "imdbId": "tt32378175",
+      "imdbUrl": "https://www.imdb.com/title/tt32378175/",
+      "imdbRating": "4.3",
+      "imdbVotes": 629
+    },
+    {
+      "id": "last-man-in-tower",
+      "title": "Last Man in Tower",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-11",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Manoj Bajpayee",
+        "Boman Irani",
+        "Divya Dutta"
+      ],
+      "director": "Ben Rekhi",
+      "synopsis": "Based on Aravind Adiga's novel — in a Mumbai housing society, a builder's lucrative buyout offer splits the residents, and retired schoolteacher Masterji (Bajpayee) refuses to sell, putting him at odds with neighbours he's known for years. Widely praised by critics.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjUwNWUyMzEtMjcxMC00NDU3LTk4MDUtOTI0MDk0YzFlODg4XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=q_rQBuliB9E",
+      "source": "curated",
+      "imdbId": "tt36267730",
+      "imdbUrl": "https://www.imdb.com/title/tt36267730/",
+      "imdbRating": "7.8",
+      "imdbVotes": 71
     },
     {
       "id": "tvmaze-94387",
@@ -2912,6 +2365,120 @@
       "imdbVotes": 81
     },
     {
+      "id": "daayra-2026",
+      "title": "Daayra",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-18",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "cast": [
+        "Kareena Kapoor Khan",
+        "Prithviraj Sukumaran"
+      ],
+      "synopsis": "Kareena Kapoor Khan and Prithviraj Sukumaran star in this Hindi drama-thriller.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Daayra+Kareena+Kapoor+official+trailer",
+      "source": "curated",
+      "imdbId": "tt32634611",
+      "imdbUrl": "https://www.imdb.com/title/tt32634611/",
+      "imdbRating": "7.3",
+      "imdbVotes": 4199
+    },
+    {
+      "id": "vibe-2026",
+      "title": "Vibe",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-18",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Kunal Kemmu",
+        "Preity G Zinta",
+        "Sparsh Shrivastava"
+      ],
+      "synopsis": "Kunal Kemmu and Preity G Zinta star in this Hindi drama, marking Zinta's return to the big screen.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTBkNDNmM2MtZDU0My00NWZmLWIwYjktNTZmZWVlMTEwYTkyXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Vibe+Preity+Zinta+official+trailer",
+      "source": "curated",
+      "imdbId": "tt40856286",
+      "imdbUrl": "https://www.imdb.com/title/tt40856286/",
+      "imdbRating": "7.2",
+      "imdbVotes": 873
+    },
+    {
+      "id": "papa-yaar-zakir-khan",
+      "title": "Papa Yaar by Zakir Khan",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-18",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Stand-Up Comedy"
+      ],
+      "cast": [
+        "Zakir Khan"
+      ],
+      "synopsis": "Zakir Khan's new stand-up comedy special premieres on Netflix.",
+      "poster": null,
+      "trailer": "https://www.youtube.com/results?search_query=Papa+Yaar+Zakir+Khan+Netflix+trailer",
+      "source": "curated"
+    },
+    {
+      "id": "resident-evil-2026",
+      "title": "Resident Evil",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-18",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Horror",
+        "Action",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Austin Abrams",
+        "Zach Cherry",
+        "Kali Reis"
+      ],
+      "synopsis": "A fresh theatrical reboot of the video-game horror franchise, bringing Umbrella Corporation's outbreak back to the big screen.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGVmNzRlZTctNTU2OS00MTQwLWI2ZWQtOGViMjc4ODNlNzVmXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Resident+Evil+2026+official+trailer",
+      "source": "curated",
+      "imdbId": "tt35538033",
+      "imdbUrl": "https://www.imdb.com/title/tt35538033/",
+      "imdbRating": "7.7",
+      "imdbVotes": 46978,
+      "runtime": 95
+    },
+    {
       "id": "tvmaze-75026",
       "title": "MobLand (Season 2)",
       "type": "series",
@@ -3036,6 +2603,40 @@
       "imdbVotes": 48
     },
     {
+      "id": "minerva-academy",
+      "title": "Minerva Academy",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-22",
+      "language": "Italian",
+      "country": "Italy",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "episodes": 8,
+      "cast": [
+        "Ciro Minopoli",
+        "Biagio Venditti",
+        "Margherita Buoncristiani",
+        "Massimiliano Gallo",
+        "Cristiana Capotondi"
+      ],
+      "synopsis": "Inside a military high school in Naples, a student searches for clues about a missing friend as discipline, hierarchy and teenage rivalries collide in this Italian drama.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDI2YTkzYjItZWIzZi00MWFkLWI3MzctYmU3OWVhODUwNjM5XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Minerva+Academy+Netflix+official+trailer",
+      "source": "curated",
+      "imdbId": "tt28765828",
+      "imdbUrl": "https://www.imdb.com/title/tt28765828/",
+      "imdbRating": "5.5",
+      "imdbVotes": 73
+    },
+    {
       "id": "tvmaze-83568",
       "title": "Kian's Bizarre B&B (Season 2)",
       "type": "series",
@@ -3099,6 +2700,61 @@
       "imdbVotes": 73
     },
     {
+      "id": "brothers-apple-tv-2026",
+      "title": "Brothers",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Apple TV+",
+      "date": "2026-09-23",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Woody Harrelson"
+      ],
+      "synopsis": "A comedy pairing Matthew McConaughey and Woody Harrelson, premiering on Apple TV+.",
+      "poster": null,
+      "trailer": "https://www.youtube.com/results?search_query=Brothers+Apple+TV+McConaughey+Harrelson+trailer",
+      "source": "curated"
+    },
+    {
+      "id": "habeas-corpus-netflix",
+      "title": "Habeas Corpus",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "Netflix",
+      "date": "2026-09-23",
+      "language": "Portuguese",
+      "country": "Brazil",
+      "genres": [
+        "Legal Drama"
+      ],
+      "episodes": 8,
+      "cast": [
+        "Marjorie Estiano",
+        "Any Gabrielly",
+        "Vladimir Brichta",
+        "Danton Mello"
+      ],
+      "synopsis": "Netflix Brazil's first legal drama: a law professor leading a wrongful-conviction review group discovers her brightest student has a secret agenda tied to her own family's past. Inspired by the Innocence Project Brazil.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmE2NGRiYzAtMDE1NC00NzgwLWExYTctYzc5ODg5ZmI1YmVlXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Habeas+Corpus+Netflix+official+trailer",
+      "source": "curated",
+      "imdbId": "tt39369819",
+      "imdbUrl": "https://www.imdb.com/title/tt39369819/"
+    },
+    {
       "id": "tvmaze-92870",
       "title": "Wonka's The Golden Ticket",
       "type": "series",
@@ -3123,35 +2779,6 @@
       "source": "tvmaze",
       "imdbId": "tt36258621",
       "imdbUrl": "https://www.imdb.com/title/tt36258621/"
-    },
-    {
-      "id": "tvmaze-93677",
-      "title": "Habeas Corpus",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-09-23",
-      "language": "Portuguese",
-      "country": "",
-      "genres": [
-        "Drama",
-        "Legal"
-      ],
-      "season": 1,
-      "episodes": 8,
-      "epRuntime": 64,
-      "cast": [],
-      "synopsis": "A renowned law professor leads a team of students to prove a convicted man's innocence, only to discover her brightest pupil is bound to her past.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606976.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Habeas+Corpus+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt39369819",
-      "imdbUrl": "https://www.imdb.com/title/tt39369819/"
     },
     {
       "id": "tvmaze-85163",
@@ -3269,33 +2896,6 @@
       "imdbUrl": "https://www.imdb.com/title/tt39749747/"
     },
     {
-      "id": "tvmaze-94641",
-      "title": "Shaque: Trust No One",
-      "type": "series",
-      "medium": "ott",
-      "audience": [
-        "india"
-      ],
-      "platform": "Netflix",
-      "date": "2026-09-24",
-      "language": "Hindi",
-      "country": "",
-      "genres": [
-        "Thriller"
-      ],
-      "season": 1,
-      "episodes": 7,
-      "epRuntime": 38,
-      "cast": [],
-      "synopsis": "Desperately searching for her missing child, a mother finds dark secrets in her hillside hometown. With Jennifer Winget and Sumeet Vyas.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606570.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Shaque%3A+Trust+No+One+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
-      "imdbId": "tt35929525",
-      "imdbUrl": "https://www.imdb.com/title/tt35929525/"
-    },
-    {
       "id": "tvmaze-94663",
       "title": "Team Moms: Baseball",
       "type": "series",
@@ -3349,6 +2949,222 @@
       "imdbUrl": "https://www.imdb.com/title/tt27126939/",
       "imdbRating": "6.2",
       "imdbVotes": 104
+    },
+    {
+      "id": "hope-2026-korean",
+      "title": "Hope",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "india",
+        "worldwide"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-09-25",
+      "language": "Korean",
+      "country": "South Korea",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Monster"
+      ],
+      "cast": [
+        "Hwang Jung-min",
+        "Zo In-sung",
+        "Jung Ho-yeon",
+        "Taylor Russell",
+        "Alicia Vikander",
+        "Michael Fassbender"
+      ],
+      "director": "Na Hong-jin",
+      "synopsis": "From the director of The Wailing — a village police chief and his rookie deputy must defend their community from a mysterious creature after wildfires sever all communication, as a hunting party finds itself hunted deep in the mountains.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Hope+2026+Na+Hong-jin+official+trailer",
+      "source": "curated",
+      "imdbId": "tt27369017",
+      "imdbUrl": "https://www.imdb.com/title/tt27369017/",
+      "imdbRating": "6.8",
+      "imdbVotes": 8066,
+      "runtime": 157
+    },
+    {
+      "id": "dont-be-shy-prime",
+      "title": "Don't Be Shy",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Prime Video",
+      "date": "2026-09-25",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Romance",
+        "Coming-of-age",
+        "Drama"
+      ],
+      "cast": [
+        "Aarushi Bajaj",
+        "Ansh Duggal",
+        "Bianca Arora",
+        "Neha Dhupia",
+        "Anurag Basu"
+      ],
+      "director": "Sreeti Mukerji",
+      "synopsis": "20-year-old Shyamili 'Shy' Das believes she has her life figured out until friendships, first romances and heartbreak send her searching for her own identity. Produced by Alia Bhatt and Shaheen Bhatt's Eternal Sunshine Productions.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjRiNmNlMjItNDQzNy00ZmY2LThlYTgtOTA4MzY4MzI5MTQ2XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Don%27t+Be+Shy+Prime+Video+official+trailer",
+      "source": "curated",
+      "imdbId": "tt39528902",
+      "imdbUrl": "https://www.imdb.com/title/tt39528902/"
+    },
+    {
+      "id": "hunkkaar-the-roar",
+      "title": "Hunkkaar: The Roar",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "JioHotstar",
+      "date": "2026-09-25",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Legal Drama",
+        "Thriller"
+      ],
+      "cast": [
+        "Aneet Padda",
+        "Fatima Sana Shaikh",
+        "Raghubir Yadav",
+        "Mohammed Zeeshan Ayyub",
+        "Arjun Mathur"
+      ],
+      "director": "Nitya Mehra, Karan D. Kapadia",
+      "synopsis": "A 17-year-old student formally accuses a revered spiritual guru of assault, sparking a high-stakes legal and media battle over power, faith and institutions.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTk0OTgxZTUtODFkMS00ODIwLTgzOTEtM2E1ZTk1ODNjZjI3XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Hunkkaar+The+Roar+JioHotstar+trailer",
+      "source": "curated",
+      "imdbId": "tt44934375",
+      "imdbUrl": "https://www.imdb.com/title/tt44934375/"
+    },
+    {
+      "id": "mango-pachcha",
+      "title": "Mango Pachcha",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "JioHotstar",
+      "date": "2026-09-25",
+      "language": "Kannada",
+      "country": "India",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Sanchith Sanjeev"
+      ],
+      "director": "Viveka",
+      "synopsis": "Prashanth, a CD-shop owner in Mysuru, is pushed toward family secrets, an unknown half-brother and a criminal underworld he never expected to inherit after his father's death.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjI4NGU3ZjQtYzNhOS00N2FiLWJmNjgtMWNkNWI3NTEwMWI4XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Mango+Pachcha+JioHotstar+trailer",
+      "source": "curated",
+      "imdbId": "tt36967234",
+      "imdbUrl": "https://www.imdb.com/title/tt36967234/",
+      "imdbRating": "8.8",
+      "imdbVotes": 41
+    },
+    {
+      "id": "agadha-2026",
+      "title": "Agadha",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "ZEE5",
+      "date": "2026-09-25",
+      "language": "Telugu",
+      "country": "India",
+      "genres": [
+        "Supernatural",
+        "Mystery",
+        "Thriller"
+      ],
+      "cast": [],
+      "synopsis": "A supernatural mystery thriller bringing folklore-tinged horror to its digital premiere on ZEE5.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Agadha+2026+official+trailer",
+      "source": "curated",
+      "imdbId": "tt41790460",
+      "imdbUrl": "https://www.imdb.com/title/tt41790460/",
+      "imdbRating": "7.5",
+      "imdbVotes": 1064
+    },
+    {
+      "id": "angikaaram",
+      "title": "Angikaaram",
+      "type": "movie",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Sun NXT",
+      "date": "2026-09-25",
+      "language": "Tamil / Telugu",
+      "country": "India",
+      "genres": [
+        "Sports",
+        "Courtroom Drama"
+      ],
+      "cast": [],
+      "synopsis": "A sports-courtroom drama built around an athlete's fight for justice, perseverance and recognition.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Angikaaram+official+trailer",
+      "source": "curated",
+      "imdbId": "tt37174734",
+      "imdbUrl": "https://www.imdb.com/title/tt37174734/",
+      "imdbRating": "8.6",
+      "imdbVotes": 395
+    },
+    {
+      "id": "bakaiti-s2",
+      "title": "Bakaiti (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "ZEE5",
+      "date": "2026-09-25",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "season": 2,
+      "cast": [
+        "Rajesh Tailang",
+        "Sheeba Chaddha",
+        "Aditya Shukla",
+        "Tanya Sharma"
+      ],
+      "director": "Samar Iqbal",
+      "synopsis": "The middle-class Kataria family of Ghaziabad returns as a redevelopment offer brings two branches of the family under one roof, mixing property conflict with family emotion and comedy. Produced by Dice Media.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDdhZTIwZDAtYzdiNS00ZGFhLThmM2EtOTIxZGE4OTEzMGY1XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Bakaiti+season+2+ZEE5+trailer",
+      "source": "curated",
+      "imdbId": "tt37594662",
+      "imdbUrl": "https://www.imdb.com/title/tt37594662/",
+      "imdbRating": "7.0",
+      "imdbVotes": 1788
     },
     {
       "id": "tvmaze-89896",
@@ -3439,7 +3255,36 @@
       "imdbUrl": "https://www.imdb.com/title/tt40407840/"
     },
     {
-      "id": "tvmaze-75082",
+      "id": "rise-and-fall-s2",
+      "title": "Rise & Fall (Season 2)",
+      "type": "series",
+      "medium": "ott",
+      "audience": [
+        "india"
+      ],
+      "platform": "Prime Video / Amazon MX Player",
+      "date": "2026-09-26",
+      "language": "Hindi",
+      "country": "India",
+      "genres": [
+        "Reality",
+        "Competition"
+      ],
+      "season": 2,
+      "cast": [
+        "Virender Sehwag (host)",
+        "Swara Bhasker",
+        "Shehzad Poonawalla",
+        "Priyanka Chahar Choudhary",
+        "Karan Patel"
+      ],
+      "synopsis": "The power-game reality format returns with cricketer Virender Sehwag taking over hosting duties from Ashneer Grover; contestants battle for 42 days between the roles of Rulers and Workers. Streams free.",
+      "poster": null,
+      "trailer": "https://www.youtube.com/results?search_query=Rise+and+Fall+season+2+trailer",
+      "source": "curated"
+    },
+    {
+      "id": "the-great-indian-kapil-show-s5",
       "title": "The Great Indian Kapil Show (Season 5)",
       "type": "series",
       "medium": "ott",
@@ -3449,17 +3294,24 @@
       "platform": "Netflix",
       "date": "2026-09-26",
       "language": "Hindi",
-      "country": "",
-      "genres": [],
+      "country": "India",
+      "genres": [
+        "Comedy",
+        "Talk Show"
+      ],
       "season": 5,
-      "episodes": null,
-      "epRuntime": 62,
-      "cast": [],
-      "synopsis": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/609/1522944.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Great+Indian+Kapil+Show+official+trailer",
-      "rating": null,
-      "source": "tvmaze",
+      "cast": [
+        "Kapil Sharma",
+        "Sunil Grover",
+        "Krushna Abhishek",
+        "Kiku Sharda",
+        "Archana Puran Singh",
+        "Navjot Singh Sidhu"
+      ],
+      "synopsis": "Kapil Sharma and gang return with a new season themed 'Hasi Ka Tyohaar' (Festival of Laughter), timed for the festive season, with new episodes streaming weekly on Saturdays.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTkxNTNhYjktMTcxNy00OTA5LThlY2ItZjM3YTFjYmQ1ZmYzXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Great+Indian+Kapil+Show+season+5+trailer",
+      "source": "curated",
       "imdbId": "tt30003786",
       "imdbUrl": "https://www.imdb.com/title/tt30003786/",
       "imdbRating": "6.5",
@@ -4022,187 +3874,124 @@
       "imdbVotes": 6500
     },
     {
-      "id": "rahun-main-tere-rubaru",
-      "title": "Rahun Main Tere Rubaru",
+      "id": "street-fighter-2026",
+      "title": "Street Fighter",
       "type": "movie",
       "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": null,
-      "dateText": "July 2026",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "cast": [],
-      "synopsis": "Hindi romantic drama slated for a July 2026 theatrical release.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZWYxZmFjNTAtZjJmNy00YjYwLTg5YWUtMDJjNzQzNjg4ODJkXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Rahun+Main+Tere+Rubaru+trailer",
-      "source": "curated",
-      "imdbId": "tt40427174",
-      "imdbUrl": "https://www.imdb.com/title/tt40427174/",
-      "imdbRating": "6.7",
-      "imdbVotes": 12
-    },
-    {
-      "id": "immortal-2026",
-      "title": "Immortal",
-      "type": "movie",
-      "medium": "theatrical",
-      "audience": [
-        "india"
-      ],
-      "platform": "In Theatres",
-      "date": null,
-      "dateText": "July 2026",
-      "language": "Hindi",
-      "country": "India",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [],
-      "synopsis": "Hindi feature slated for a July 2026 theatrical release.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmMyZTZhNmQtMjczMC00ZDA5LThiMmMtMWU1MTFiYzBiODEwXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Immortal+2026+hindi+movie+trailer",
-      "source": "curated",
-      "imdbId": "tt36931126",
-      "imdbUrl": "https://www.imdb.com/title/tt36931126/",
-      "imdbRating": "9.0",
-      "imdbVotes": 1320
-    },
-    {
-      "id": "devil-wears-prada-2-stream",
-      "title": "The Devil Wears Prada 2",
-      "type": "movie",
-      "medium": "ott",
       "audience": [
         "worldwide",
         "india"
       ],
-      "platform": "Disney+ / Hulu / JioHotstar",
-      "date": null,
-      "dateText": "Late July 2026",
+      "platform": "In Theatres",
+      "date": "2026-10-16",
       "language": "English",
       "country": "USA",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Action",
+        "Adventure"
       ],
       "cast": [
-        "Meryl Streep",
-        "Anne Hathaway",
-        "Emily Blunt"
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Jason Momoa",
+        "Vidyut Jammwal"
       ],
-      "synopsis": "Miranda Priestly returns. The blockbuster sequel makes its streaming debut this month.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Devil+Wears+Prada+2+official+trailer",
+      "director": "Kitao Sakurai",
+      "synopsis": "A live-action adaptation of the classic fighting-game franchise, with an ensemble mixing actors, athletes and wrestlers as the World Warriors.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Street+Fighter+2026+official+trailer",
       "source": "curated",
-      "imdbId": "tt33612209",
-      "imdbUrl": "https://www.imdb.com/title/tt33612209/",
-      "imdbRating": "6.3",
-      "imdbVotes": 115940,
-      "runtime": 119
+      "imdbId": "tt27419420",
+      "imdbUrl": "https://www.imdb.com/title/tt27419420/"
     },
     {
-      "id": "super-mario-galaxy-movie-stream",
-      "title": "The Super Mario Galaxy Movie",
+      "id": "whalefall-2026",
+      "title": "Whalefall",
       "type": "movie",
-      "medium": "ott",
+      "medium": "theatrical",
       "audience": [
         "worldwide"
       ],
-      "platform": "Peacock",
-      "date": null,
-      "dateText": "July 2026",
+      "platform": "In Theatres",
+      "date": "2026-10-16",
+      "language": "English",
+      "country": "USA",
+      "genres": [
+        "Thriller",
+        "Survival"
+      ],
+      "cast": [
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue",
+        "Jane Levy"
+      ],
+      "director": "Brian Duffield",
+      "synopsis": "Diving off the California coast in search of his late father's remains, Jay Gardiner is swallowed by a massive sperm whale and must escape with only an hour of oxygen left, based on Daniel Kraus's novel.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2FjZmNjYzctNDEzNC00YTNmLWFmOTItMjAyMDUxNWY1NmFkXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Whalefall+2026+official+trailer",
+      "source": "curated",
+      "imdbId": "tt28535715",
+      "imdbUrl": "https://www.imdb.com/title/tt28535715/",
+      "runtime": 99
+    },
+    {
+      "id": "the-cat-in-the-hat-2026",
+      "title": "The Cat in the Hat",
+      "type": "movie",
+      "medium": "theatrical",
+      "audience": [
+        "worldwide",
+        "india"
+      ],
+      "platform": "In Theatres",
+      "date": "2026-11-06",
       "language": "English",
       "country": "USA",
       "genres": [
         "Animation",
-        "Adventure",
-        "Family"
+        "Family",
+        "Comedy"
       ],
       "cast": [
-        "Chris Pratt (voice)",
-        "Anya Taylor-Joy (voice)"
+        "Bill Hader (voice)"
       ],
-      "synopsis": "The first billion-dollar grosser of 2026 arrives on streaming.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Super+Mario+Galaxy+Movie+official+trailer",
+      "synopsis": "An animated feature adaptation of Dr. Seuss's beloved book, with Bill Hader voicing the mischievous, irreverent Cat.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmJhNzk4OGMtOTlmNC00ODAxLWFkYjYtY2RhYWVmNDg5YmViXkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=The+Cat+in+the+Hat+2026+official+trailer",
       "source": "curated",
-      "imdbId": "tt28650488",
-      "imdbUrl": "https://www.imdb.com/title/tt28650488/",
-      "imdbRating": "6.3",
-      "imdbVotes": 75166,
-      "runtime": 98
+      "imdbId": "tt2321555",
+      "imdbUrl": "https://www.imdb.com/title/tt2321555/"
     },
     {
-      "id": "heartstopper-forever",
-      "title": "Heartstopper Forever",
+      "id": "return-of-the-living-dead-2026",
+      "title": "Return of the Living Dead",
       "type": "movie",
-      "medium": "ott",
+      "medium": "theatrical",
       "audience": [
-        "worldwide",
-        "india"
+        "worldwide"
       ],
-      "platform": "Netflix",
-      "date": null,
-      "dateText": "July 2026",
-      "language": "English",
-      "country": "UK",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "cast": [
-        "Kit Connor",
-        "Joe Locke"
-      ],
-      "synopsis": "The feature-length finale that concludes the beloved Heartstopper series.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjFiNjNlN2QtYWFlZC00OTc2LWFkOTEtM2ExNWNiM2U2MTI5XkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=Heartstopper+Forever+official+trailer",
-      "source": "curated",
-      "imdbId": "tt36619926",
-      "imdbUrl": "https://www.imdb.com/title/tt36619926/",
-      "imdbRating": "6.9",
-      "imdbVotes": 8630,
-      "runtime": 111
-    },
-    {
-      "id": "the-long-walk-stream",
-      "title": "The Long Walk",
-      "type": "movie",
-      "medium": "ott",
-      "audience": [
-        "worldwide",
-        "india"
-      ],
-      "platform": "HBO Max / JioHotstar",
-      "date": null,
-      "dateText": "July 2026",
+      "platform": "In Theatres",
+      "date": "2026-11-13",
       "language": "English",
       "country": "USA",
       "genres": [
         "Horror",
-        "Thriller"
+        "Comedy"
       ],
       "cast": [
-        "Cooper Hoffman",
-        "David Jonsson"
+        "Devon Sawa",
+        "Casimere Jollette",
+        "Kynlee Heiman"
       ],
-      "director": "Francis Lawrence",
-      "synopsis": "Francis Lawrence's acclaimed Stephen King adaptation hits streaming.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_UX500_.jpg",
-      "trailer": "https://www.youtube.com/results?search_query=The+Long+Walk+official+trailer",
+      "director": "Steve Wolsh",
+      "synopsis": "The sixth installment of the cult zombie-horror franchise.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNjNjZWQtYWFhMi00NTczLTk1NDgtZGJhMjkwMGQ0MjU5XkEyXkFqcGc@._V1_UX500_.jpg",
+      "trailer": "https://www.youtube.com/results?search_query=Return+of+the+Living+Dead+2026+official+trailer",
       "source": "curated",
-      "imdbId": "tt10374610",
-      "imdbUrl": "https://www.imdb.com/title/tt10374610/",
-      "imdbRating": "6.6",
-      "imdbVotes": 149353,
-      "runtime": 108
+      "imdbId": "tt31350873",
+      "imdbUrl": "https://www.imdb.com/title/tt31350873/"
     },
     {
       "id": "operation-safed-sagar",

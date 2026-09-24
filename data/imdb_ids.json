@@ -1467,5 +1467,288 @@
   "qid": "tvSeries",
   "rank": 15982,
   "img": "https://m.media-amazon.com/images/M/MV5BMDI2YmI1ZjMtNWE3Ni00YmUzLWIyYzEtN2MyYTk3ZDMwYjZmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "practicalmagic2": {
+  "id": "tt32588798",
+  "title": "Practical Magic 2",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 16,
+  "img": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "ranabaali": {
+  "id": "tt32324552",
+  "title": "Ranabaali",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 6999,
+  "img": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "luststories3": {
+  "id": "tt39667834",
+  "title": "Lust Stories 3",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 244,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "toystory5": {
+  "id": "tt29355505",
+  "title": "Toy Story 5",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 214,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thelovehypothesis": {
+  "id": "tt22526100",
+  "title": "The Love Hypothesis",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 197,
+  "img": "https://m.media-amazon.com/images/M/MV5BYWI2ZWZjZGItZDFiMi00ODBmLThmODktY2FlZmNkNmU4YTEzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "theparadise": {
+  "id": "tt31969655",
+  "title": "The Paradise",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 170,
+  "img": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thevvaanforceoftheforest": {
+  "id": "tt34498564",
+  "title": "The Vvaan: Force of the Forrest",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 2330,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGQ3YWZlMjUtNDI1Zi00YjRjLTg2YzctMGU1MTkxMWU5M2U5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "primetime": {
+  "id": "tt34206385",
+  "title": "Primetime",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 59,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "heartofthebeast": {
+  "id": "tt7526136",
+  "title": "Heart of the Beast",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 29,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "backrooms": {
+  "id": "tt26657236",
+  "title": "Backrooms",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 42,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "unabomber": {
+  "id": "tt6933238",
+  "title": "Unabomber",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 736,
+  "img": "https://m.media-amazon.com/images/M/MV5BMDE2ODhlNTUtYjdiOS00OTlmLTg5OGMtMGNjZWZmNWE4MGJiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "drishyam3": {
+  "id": "tt14113634",
+  "title": "Drishyam 3",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 4715,
+  "img": "https://m.media-amazon.com/images/M/MV5BY2UwZDE3NGYtOGZiZi00ZjI4LTljOWItMTc5MGZiZjY5OGM3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "klaraandthesun": {
+  "id": "tt14371256",
+  "title": "Klara and the Sun",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 864,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "ramayanapart1": null,
+ "thehungergamessunriseonthereaping": {
+  "id": "tt32558705",
+  "title": "The Hunger Games: Sunrise on the Reaping",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 85,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "fockerinlaw": {
+  "id": "tt34966140",
+  "title": "Focker-in-Law",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 860,
+  "img": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "onslaught": {
+  "id": "tt32268691",
+  "title": "Onslaught",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 409,
+  "img": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_.jpg"
+ },
+ "sardar2": {
+  "id": "tt28541577",
+  "title": "Sardar 2",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 6007,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "haiwaan": {
+  "id": "tt32378175",
+  "title": "Haiwaan",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 2021,
+  "img": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "lastmanintower": {
+  "id": "tt36267730",
+  "title": "Last Man in Tower",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 4346,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjUwNWUyMzEtMjcxMC00NDU3LTk4MDUtOTI0MDk0YzFlODg4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "daayra": {
+  "id": "tt32634611",
+  "title": "Daayra",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 401,
+  "img": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "vibe": {
+  "id": "tt40856286",
+  "title": "Vibe",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 481,
+  "img": "https://m.media-amazon.com/images/M/MV5BZTBkNDNmM2MtZDU0My00NWZmLWIwYjktNTZmZWVlMTEwYTkyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "papayaarbyzakirkhan": null,
+ "residentevil": {
+  "id": "tt35538033",
+  "title": "Resident Evil",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 1,
+  "img": "https://m.media-amazon.com/images/M/MV5BZGVmNzRlZTctNTU2OS00MTQwLWI2ZWQtOGViMjc4ODNlNzVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "minervaacademy": {
+  "id": "tt28765828",
+  "title": "Minerva Academy",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 7815,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDI2YTkzYjItZWIzZi00MWFkLWI3MzctYmU3OWVhODUwNjM5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "brothers": {
+  "id": "tt0765010",
+  "title": "Brothers",
+  "year": 2009,
+  "qid": "movie",
+  "rank": 1397,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTkyMTY5MTcxOV5BMl5BanBnXkFtZTcwMTI3MDE3Mg@@._V1_.jpg"
+ },
+ "hope": {
+  "id": "tt27369017",
+  "title": "Hope",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 26,
+  "img": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "dontbeshy": {
+  "id": "tt39528902",
+  "title": "Don't Be Shy",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 10220,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjRiNmNlMjItNDQzNy00ZmY2LThlYTgtOTA4MzY4MzI5MTQ2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "hunkkaartheroar": {
+  "id": "tt44934375",
+  "title": "Hunkkaar: The Roar",
+  "year": 2026,
+  "qid": "tvSeries",
+  "rank": 9986,
+  "img": "https://m.media-amazon.com/images/M/MV5BOTk0OTgxZTUtODFkMS00ODIwLTgzOTEtM2E1ZTk1ODNjZjI3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "mangopachcha": {
+  "id": "tt36967234",
+  "title": "Mango Pachcha",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 35793,
+  "img": "https://m.media-amazon.com/images/M/MV5BZjI4NGU3ZjQtYzNhOS00N2FiLWJmNjgtMWNkNWI3NTEwMWI4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "agadha": {
+  "id": "tt41790460",
+  "title": "Agadha",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 25856,
+  "img": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "angikaaram": {
+  "id": "tt37174734",
+  "title": "Angikaaram",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 20065,
+  "img": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "bakaiti": {
+  "id": "tt37594662",
+  "title": "Bakaiti",
+  "year": 2025,
+  "qid": "tvSeries",
+  "rank": 23737,
+  "img": "https://m.media-amazon.com/images/M/MV5BZDdhZTIwZDAtYzdiNS00ZGFhLThmM2EtOTIxZGE4OTEzMGY1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "risefall": null,
+ "streetfighter": {
+  "id": "tt27419420",
+  "title": "Street Fighter",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 254,
+  "img": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "whalefall": {
+  "id": "tt28535715",
+  "title": "Whalefall",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 204,
+  "img": "https://m.media-amazon.com/images/M/MV5BN2FjZmNjYzctNDEzNC00YTNmLWFmOTItMjAyMDUxNWY1NmFkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "thecatinthehat": {
+  "id": "tt2321555",
+  "title": "The Cat in the Hat",
+  "year": 2026,
+  "qid": "movie",
+  "rank": 936,
+  "img": "https://m.media-amazon.com/images/M/MV5BZmJhNzk4OGMtOTlmNC00ODAxLWFkYjYtY2RhYWVmNDg5YmViXkEyXkFqcGc@._V1_.jpg"
+ },
+ "returnofthelivingdead": {
+  "id": "tt31350873",
+  "title": "Return of the Living Dead",
+  "year": 2027,
+  "qid": "movie",
+  "rank": 14820,
+  "img": "https://m.media-amazon.com/images/M/MV5BMTkyNjNjZWQtYWFhMi00NTczLTk1NDgtZGJhMjkwMGQ0MjU5XkEyXkFqcGc@._V1_.jpg"
  }
 }
